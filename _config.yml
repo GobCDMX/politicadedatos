@@ -10,7 +10,7 @@ title: "Política de Datos"
 email: adip@cdmx.gob.mx
 description: "Simple and flexible Jekyll theme for help center."
 direccion: "Dirección Ejecutiva de Política de Datos"
-baseurl: "/policadatos"
+baseurl: "/policadedatos"
 url: "http://quinalha.me"
 twitter_username: "gustavoquinalha"
 github_username:  "gustavoquinalha"
