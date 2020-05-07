@@ -11,7 +11,9 @@
   .header--block {
     color: $colortext;
 
-    .header--block--text {}
+    .header--block--text {
+      font-weight: bold;
+    }
 
     .header--block--input {
       display: flex;

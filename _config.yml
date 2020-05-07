@@ -6,14 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Help Center"
-email: gusquinalha@gmail.com
+title: "Política de Datos"
+email: adip@cdmx.gob.mx
 description: "Simple and flexible Jekyll theme for help center."
-baseurl: "/jekyll-help-center-theme"
+direccion: "Dirección Ejecutiva de Política de Datos"
+baseurl: "/policadatos"
 url: "http://quinalha.me"
 twitter_username: "gustavoquinalha"
 github_username:  "gustavoquinalha"
-color_theme:  "#0081ff"
+color_theme:  "#00b140"
 color_text:  "#fff"
 language:  "en"
 

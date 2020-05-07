@@ -1,6 +1,7 @@
 
 .menu {
-  background: $colortheme;
+  background: #fff;
+  box-shadow: 0 3px 8px 0 rgba(0,0,0,0.075);
   position: sticky;
   top: 0;
   left: 0;
@@ -12,9 +13,8 @@
   height: 80px;
 }
 
-.menu a {
-  color: #fff;
-}
+
+
 
 .menu a span {
   font-weight: bold;
