@@ -13,7 +13,8 @@ questions:
   - question: '2.2 Características de los Metadatos para Datos Abiertos'
     answer: 'La Ficha de Metadatos del portal de datos abiertos de la Ciudad de México se compone de 14 elementos que nos permiten identificar correctamente un  conjunto de datos.
     <br>
-    Puedes descargar la plantilla aquí y seguir las siguientes instrucciones de llenado que correspondan con las características de tu conjunto de datos. '
+    <br>
+    Puedes descargar la plantilla <a href="https://docs.google.com/spreadsheets/d/1uGVxJ5bNQQZ4SKWXOUaJfMsy0rUR6B6ABdGWKxQ0ss4/edit?usp=sharing">aquí</a> y seguir las siguientes instrucciones de llenado que correspondan con las características de tu conjunto de datos. '
   - question: '2.3 Instrucciones generales para la estructuración de Metadatos'
     answer: '
     <style type="text/css">
@@ -130,7 +131,12 @@ questions:
     </tbody>
     </table>
     <br>
-    Una vez concluido el llenado de la Ficha de Metadatos de su conjunto de datos, guardarla con la siguiente estructura de nombre: nombredelconjuntodedatos_ficha_metadatos.csv
+    Una vez concluido el llenado de la Ficha de Metadatos de su conjunto de datos, guardarla con la siguiente estructura de nombre:
+    <br>
+    <span class="emph">
+    nombredelconjuntodedatos_ficha_metadatos.csv
+    </span>
+    <br>
     <br>
     Ejemplo:
     <br>

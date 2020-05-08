@@ -90,6 +90,8 @@
     }
   }
 
+
+
   .list-item-3-img {
     margin-right: 20px;
       @media screen and (max-width: 839px) {
@@ -99,5 +101,13 @@
    }
    .list-post-description {
      font-size: 18px;
+
+     a {
+        text-decoration: underline;
+        color: $colortheme;
+
+     }
+
    }
+
 }
