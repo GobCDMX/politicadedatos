@@ -9,7 +9,7 @@
 {% assign route="" %}
 
 <div class="container wrap breadcrumbs">
-  <a href="{{ '/' | absolute_url }}">Inicio</a>
+  <a href="{{ site.baseurl }}">Inicio</a>
   {% for category in categories %}
   <span class="prompt margin-left-10 margin-right-10">></span>
   {% assign route = route | append: '/' | append: category %}
