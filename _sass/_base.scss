@@ -1,3 +1,11 @@
+
+
+@font-face {
+    font-family: Metropolis;
+    font-weight: 400;
+    src: url('../assets/fonts/Metropolis-Regular.otf')
+}
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -11,7 +19,7 @@ html {
 }
 
 html {
-  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Metropolis', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: 300;
   line-height: 1.6;
@@ -85,4 +93,8 @@ img {
 .min-height {
   min-height: calc(100vh - 80px - 200px);
   padding-top: 20px;
+}
+
+.emph {
+  font-weight: bold;
 }

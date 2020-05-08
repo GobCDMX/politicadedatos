@@ -1,6 +1,5 @@
 .footer {
-  min-height: 200px;
-  background: #ECECEC;
+  background: #2e2e32;
   overflow: hidden;
 
   .footer--block {
@@ -16,6 +15,13 @@
       a {
         color: #515151;
       }
+    }
+
+    p {
+      color: $colortext;
+      margin: auto;
+      font-size: 12px;
+      
     }
   }
 }

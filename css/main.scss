@@ -6,6 +6,7 @@ $colortext: {{ site.color_text }};
 $baseurl: '{{ site.baseurl }}';
 
 @import "base";
+@import "button";
 @import "menu";
 @import "header";
 @import "footer";
@@ -13,3 +14,4 @@ $baseurl: '{{ site.baseurl }}';
 @import "icons";
 @import "post";
 @import "breadcrumbs";
+@import "final-banner";

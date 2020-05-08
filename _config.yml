@@ -7,16 +7,16 @@
 
 # Site settings
 title: "Política de Datos"
-email: adip@cdmx.gob.mx
-description: "Simple and flexible Jekyll theme for help center."
+email: datosabiertos@cdmx.gob.mx
+description: "Política de Datos del Gobierno de la Ciudad de México."
 direccion: "Dirección Ejecutiva de Política de Datos"
 baseurl: "/politicadedatos"
-url: "http://quinalha.me"
-twitter_username: "gustavoquinalha"
-github_username:  "gustavoquinalha"
+url: "http://datos.cdmx.gob.mx"
+twitter_username: "GobCDMX"
+github_username:  "GobCDMX"
 color_theme:  "#00b140"
 color_text:  "#fff"
-language:  "en"
+language:  "es"
 
 # Build settings
 markdown: kramdown
