@@ -168,7 +168,7 @@ questions:
       <tr>
         <td class="tg-2kyj">Material de referencia o apoyo</td>
         <td class="tg-lu0m">Opcional</td>
-        <td class="tg-lu0m">Materiales de referencia externos asociados al conjunto de datos, como documentos de apoyo técnico, metodológico y/o conceptual (leyes, reglamentos, notas, manuales, etc.). De preferencia se pone la liga electrónica de acceso a los materiales, o se envían como archivos adjuntos, junto con el Conjunto de datos.</td>
+        <td class="tg-lu0m">Materiales de referencia externos asociados al conjunto de datos, como documentos de apoyo técnico, metodológico y/o conceptual (leyes, reglamentos, notas, manuales, etc.). De preferencia se pone la URL de acceso a los materiales, o se envían como archivos adjuntos, junto con el conjunto de datos.</td>
         <td class="tg-i5mt">Primer decreto por el que se declaran acciones extraordinarias en la Ciudad de México para evitar el contagio y propagación del COVID-19.Reglas de Operación del Programa "Fondo para la Inclusión y el Bienestar Social (FINBIS) 2020".</td>
       </tr>
       <tr>
@@ -192,13 +192,13 @@ questions:
       <tr>
         <td class="tg-2kyj">Número telefónico institucional de contacto</td>
         <td class="tg-lu0m">Opcional</td>
-        <td class="tg-lu0m">Teléfono institucional del contacto para futuras consultas sobre el conjunto de datos.</td>
+        <td class="tg-lu0m">Teléfono institucional del contacto para futuras consultas sobre el conjunto de datos. Se debe escribir únicamente con números, sin espacios, guiones, paréntesis u otro tipo de caracteres especiales.</td>
         <td class="tg-i5mt">5590 0500</td>
       </tr>
     </tbody>
     </table>
     '
-  - question: '2.3 Características de los Metadatos para conjuntos de datos que se publican en el Portal de Datos Abiertos'
+  - question: '2.3 Características de los metadatos para conjuntos de datos que se publican en el Portal de Datos Abiertos'
     answer: 'Para publicar un conjunto de datos en el Portal de Datos abiertos es fundamental que los entes llenen una versión acotada de la ficha estándar. Puedes descargar la plantilla <a href="https://docs.google.com/spreadsheets/d/1uGVxJ5bNQQZ4SKWXOUaJfMsy0rUR6B6ABdGWKxQ0ss4/edit?usp=sharing">aquí</a>.
     <br>
     <br>
