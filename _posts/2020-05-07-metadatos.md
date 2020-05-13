@@ -58,7 +58,25 @@ questions:
       <tr>
         <td class="tg-2kyj">Tema</td>
         <td class="tg-lu0m">Obligatorio</td>
-        <td class="tg-lu0m">Clasificación de la temática principal,  de acuerdo con los siguientes temas: SaludCulturaEducaciónCiencia y tecnologíaMedio ambiente y cambio climáticoMovilidadDesarrollo urbano, vivienda y territorioDesarrollo económicoAdministración y finanzasJusticia y seguridadDeporteTurismoInclusión y bienestar socialInfraestructura y obra públicaConectividadRendición de cuentas y participación ciudadana</td>
+        <td class="tg-lu0m">Clasificación de la temática principal,  de acuerdo con los siguientes temas:
+          <ul>
+            <li>Salud</li>
+            <li>Cultura</li>
+            <li>Educación</li>
+            <li>Ciencia y tecnología</li>
+            <li>Medio ambiente y cambio climático</li>
+            <li>Movilidad</li>
+            <li>Desarrollo urbano, vivienda y territorio</li>
+            <li>Desarrollo económico</li>
+            <li>Administración y finanzas</li>
+            <li>Justicia y seguridad</li>
+            <li>DeporteTurismo</li>
+            <li>Inclusión y bienestar social</li>
+            <li>Infraestructura y obra pública</li>
+            <li>Conectividad</li>
+            <li>Rendición de cuentas y participación ciudadana</li>
+          </ul>
+        </td>
         <td class="tg-i5mt">Rendición de cuentas</td>
       </tr>
       <tr>
@@ -70,7 +88,19 @@ questions:
       <tr>
         <td class="tg-2kyj">Desagregación geográfica</td>
         <td class="tg-lu0m">Obligatorio</td>
-        <td class="tg-lu0m">Último nivel de desagregación geográfica al que se encuentra referenciada la información del conjunto de datos. Puede ser: Estatal AlcaldíaÁrea Geoestadística Básica (AGEB)LocalidadManzanaBarrioColonia OtraNo aplica</td>
+        <td class="tg-lu0m">Último nivel de desagregación geográfica al que se encuentra referenciada la información del conjunto de datos. Puede ser:
+          <ul>
+            <li>Estatal</li>
+            <li>Alcaldía</li>
+            <li>Área Geoestadística Básica (AGEB)</li>
+            <li>Localidad</li>
+            <li>Manzana</li>
+            <li>Barrio</li>
+            <li>Colonia</li>
+            <li>Otra</li>
+            <li>No aplica</li>
+          </ul>
+            </td>
         <td class="tg-i5mt">Alcaldía</td>
       </tr>
       <tr>
@@ -112,7 +142,21 @@ questions:
       <tr>
         <td class="tg-2kyj">Frecuencia de actualización</td>
         <td class="tg-lu0m">Obligatorio</td>
-        <td class="tg-lu0m">Frecuencia con la que se realizarán cambios y/o adiciones a la información contenida en el conjunto de datos. Puede ser: AnualSemestral TrimestralBimestralMensualQuincenal Semanal DiariaÚnicaNo programadoOtra (especificar)</td>
+        <td class="tg-lu0m">Frecuencia con la que se realizarán cambios y/o adiciones a la información contenida en el conjunto de datos. Puede ser:
+          <ul>
+            <li>Anual</li>
+            <li>Semestral</li>
+            <li>Trimestral</li>
+            <li>Bimestral</li>
+            <li>Mensual</li>
+            <li>Quincenal</li>
+            <li>Semanal</li>
+            <li>Diaria</li>
+            <li>Única</li>
+            <li>No programado</li>
+            <li>Otra (especificar)</li>
+          </ul>
+        </td>
         <td class="tg-lu0m">Semanal</td>
       </tr>
       <tr>
