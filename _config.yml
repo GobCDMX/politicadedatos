@@ -11,7 +11,7 @@ email: datosabiertos@cdmx.gob.mx
 description: "Política de Datos del Gobierno de la Ciudad de México."
 direccion: "Dirección Ejecutiva de Política de Datos"
 baseurl: "/politicadedatos"
-url: "http://datos.cdmx.gob.mx"
+url: ""
 twitter_username: "GobCDMX"
 github_username:  "GobCDMX"
 color_theme:  "#00b140"
