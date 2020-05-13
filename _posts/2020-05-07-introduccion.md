@@ -11,7 +11,7 @@ questions:
     answer: 'La información es la comunicación o representación de conocimiento en cualquier medio o forma. Esto incluye texto, números, gráficas, mapas, imágenes y videos, entre otros.'
     image: "1.gif"
   - question: '¿Qué es un producto de información?'
-    answer: 'Es un producto que ha sido generado, recolectado, procesado, publicado y/o preservado por una persona o grupo de personas y que ha dejado una huella de información, ya física o digital.  
+    answer: 'Es un producto que ha sido generado, recolectado, procesado, publicado y/o preservado por una persona o grupo de personas y que ha dejado una huella de información, ya sea física o digital.  
     <br>
     Ejemplos:  
     <ul>
@@ -27,7 +27,8 @@ questions:
     image: "3.gif"
   - question: '¿Qué son los datos estructurados?'
     answer: 'Datos en los cuales la relación estructural entre los elementos es explícita al almacenarse. Los datos estructurados están escritos de tal forma que los motores de búsqueda entienden el contenido.
-
+    <br>
+    <br>
     Ejemplo de formatos de datos estructurados son:
     XML, JSON y JSON-LD.'
     image: "4.gif"
