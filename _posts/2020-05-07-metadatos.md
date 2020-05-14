@@ -14,7 +14,7 @@ questions:
     answer: 'Todos los conjuntos de datos de la Administración Pública de la Ciudad de México, sean públicos o no, deben tener sus respectivos metadatos. Dichos metadatos deben cumplir con ciertas características mínimas homologadas, de tal forma que se puedan ordenar de manera sistemática.  
     <br>
     <br>
-    Este es el estándar de Ficha de metadatos para cualquier conjunto de datos dentro de la Administración Pública de la Ciudad de México. Puedes descargar la plantilla <a class="url" href="http://gobcdmx.github.io/politicadedatos/assets/files/plantilla_metadatos_abiertos_V1.xlsx">aquí</a> y seguir las siguientes instrucciones de llenado:
+    Esta es la versión beta del estándar de Ficha de metadatos para cualquier conjunto de datos dentro de la Administración Pública de la Ciudad de México. Puedes descargar la plantilla <a class="url" href="http://gobcdmx.github.io/politicadedatos/assets/files/plantilla_metadatos_abiertos_V1.xlsx">aquí</a> y seguir las siguientes instrucciones de llenado:
     <br>
     <br>
     <style type="text/css">
