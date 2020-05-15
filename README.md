@@ -1,65 +1,49 @@
-# Jekyll | Help Center
-Simple and responsive Jekyll theme for help center.
+# Micrositio de Política de Datos de la CDMX
 
-# Demo
-[Demo online](https://gustavoquinalha.github.io/jekyll-help-center-theme/)
+Este es el github del [micrositio](https://gobcdmx.github.io/politicadedatos/) de la política de datos de la Ciudad de México. 
 
-![Color Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/responsive.png)
+Aquí encontrarás la información de las políticas públicas relacionadas con datos, como la Política de Gestión de Datos y la Política de Apertura de Datos. 
 
-# Color theme
-edit in _config.yml
-```
-color_theme:  "#0081ff"
-color_text:  "#fff"
-```
+Además, es un espacio colaborativo para construir política de datos. 
 
-# Install
-```
-git clone https://github.com/gustavoquinalha/jekyll-help-center-theme
-```
-or
-```
-gem install jekyll-help-center-theme
-```
-https://rubygems.org/gems/jekyll-help-center-theme
+Este espacio depende de la **Dirección Ejecutiva de Política de Datos** de la [**Agencia Digital de Innovación Pública de la Ciudad de México**](https://adip.cdmx.gob.mx/) 
 
-# How to use
-```
-bundle exec jekyll serve --livereload --watch
-```
-Server address
-```
-localhost:4000/jekyll-help-center-theme/
-```
+# Este es un espacio en construcción
+Actualmente, estamos construyendo el micrositio. Queremos incluir las siguientes cosas: 
 
-# Post Example
-```
----
-layout: post
-title: 'First category'
-description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
-date: 2017-11-12 17:46:41 -0300
-categories: start blog
-by: 'Gustavo Quinalha'
-icon: 'credit-card'
-questions:
-  - question: 'Question 1'
-    answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
-    image: "1.gif"
-  - question: 'Question 2'
-    answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
-    image: "2.gif"
-  - question: 'Question 3'
-    answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
-    image: "3.gif"
-  - question: 'Question 4'
-    answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
-    image: "4.gif"
----
-```
-## License
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+1) **Acerca de la política de datos de la ciudad**
 
-# Inspired by
-- https://help.market.envato.com/hc/en-us
-- https://www.intercom.com/
+Aquí encontrarás el marco legal, publicaciones en la Gaceta Oficial de la Ciudad de México y obligaciones de los entes involucrados. 
+
+2) **Introducción a conceptos básicos**
+
+Aquí definiremos algunas cosas básicas para que todos tengamos un mismo piso en materia de política de datos. 
+
+3) **Lineamientos, estándares y criterios**
+
+Aquí enlistaremos todos los lineamientos, de forma simplificada, que sean parte de la política de datos. 
+
+4) **Participación ciudadana**
+Aquí pondremos todos los procesos de deliberación que se lleven a cabo en Plaza Pública, la plataforma de participación ciudadana de la CDMX, así como demás ejercicios de participación. 
+
+5) **Oficiales de información**
+Esta sección estará dividida en dos:
+
+**A)** Obligaciones, anuncios e instrucciones para los oficiales de información. De esta manera, los oficiales pueden tener un one-stop para consultar cualquier cosa que les concierne. 
+
+**B)** Un directorio de los oficiales de información de la ciudad. Así, es claro quién es el enlace con la Agencia Digital de Innovación Pública en materia de datos. 
+
+6) **Glosario**
+Este será un repositorio con definiciones de los términos que se usen a lo largo del micrositio. Si alguien tiene una duda, puede buscar el término (¡o pedir la definición del mismo!). 
+
+7) **Contacto** 
+Contacto de las direcciones que conforman la Dirección Ejecutiva de política de datos. 
+
+# ¿Cómo participar? 
+
+**¡¡Ayúdanos a conformar este micrositio con tus propuestas!**
+Haz propuestas en este github, o envía un correo a aosoriob@cdmx.gob.mx
+
+**¡¡Ayúdanos a encontrar errores!**
+Si crees que este sitio puede mejorar o encuentras cualquier error, no dudes reportarlo en los issues. ¡Todos los comentarios son bienvenidos!
+
