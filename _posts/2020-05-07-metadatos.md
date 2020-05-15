@@ -14,7 +14,7 @@ questions:
     answer: 'Todos los conjuntos de datos de la Administración Pública de la Ciudad de México, sean públicos o no, deben tener sus respectivos metadatos. Dichos metadatos deben cumplir con ciertas características mínimas homologadas, de tal forma que se puedan ordenar de manera sistemática.  
     <br>
     <br>
-    Esta es la versión beta del estándar de Ficha de metadatos para cualquier conjunto de datos dentro de la Administración Pública de la Ciudad de México. Puedes descargar la plantilla <a class="url" href="http://gobcdmx.github.io/politicadedatos/assets/files/plantilla_metadatos_abiertos_V1.xlsx">aquí</a> y seguir las siguientes instrucciones de llenado:
+    Esta es la versión beta del estándar de Ficha de metadatos para cualquier conjunto de datos dentro de la Administración Pública de la Ciudad de México. Puedes descargar la plantilla <a class="url" href="http://gobcdmx.github.io/politicadedatos/assets/files/1_Plantilla_Ficha_de_Metadatos_para_Conjuntos_de_Datos_V1.xlsx">aquí</a> y seguir las siguientes instrucciones de llenado:
     <br>
     <br>
     <style type="text/css">
@@ -199,7 +199,7 @@ questions:
     </table>
     '
   - question: '2.3 Características de los metadatos para conjuntos de datos que se publican en el Portal de Datos Abiertos'
-    answer: 'Para publicar un conjunto de datos en el Portal de Datos abiertos es fundamental que los entes llenen una versión acotada de la ficha estándar. Puedes descargar la plantilla <a class="url" href="http://gobcdmx.github.io/politicadedatos/assets/files/plantilla_metadatos_abiertos_V1.xlsx">aquí</a>.
+    answer: 'Para publicar un conjunto de datos en el Portal de Datos abiertos es fundamental que los entes llenen una versión acotada de la ficha estándar. Puedes descargar la plantilla <a class="url" href="http://gobcdmx.github.io/politicadedatos/assets/files/2_Plantilla_Ficha_de_Metadatos_para_Conjuntos_de_Datos_Abiertos.xlsx">aquí</a>.
     <br>
     <br>
     Una vez concluido el llenado de la ficha de metadatos de su conjunto de datos, deben guardarla en formato csv. Este archivo debe tener la siguiente estructura de nombre:
