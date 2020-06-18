@@ -41,9 +41,9 @@ Contacto de las direcciones que conforman la Dirección Ejecutiva de política d
 
 # ¿Cómo participar? 
 
-**¡¡Ayúdanos a conformar este micrositio con tus propuestas!**
+**¡Ayúdanos a conformar este micrositio con tus propuestas!**
 Haz propuestas en este github, o envía un correo a aosoriob@cdmx.gob.mx
 
-**¡¡Ayúdanos a encontrar errores!**
+**¡Ayúdanos a encontrar errores!**
 Si crees que este sitio puede mejorar o encuentras cualquier error, no dudes reportarlo en los issues. ¡Todos los comentarios son bienvenidos!
 
