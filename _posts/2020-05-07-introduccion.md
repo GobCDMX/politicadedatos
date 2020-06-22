@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducción a la información y o los datos"
+title: "Introducción a la información y a los datos"
 description: "Aquí damos una guía introductoria de conceptos básicos sobre la gestión de datos y los productos de información."
 date:   2020-05-07
 categories: datos información introducción
