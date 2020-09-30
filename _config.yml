@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" 
-url: "micrositio_adip" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "ms_gestion_cdmx" 
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -33,7 +33,9 @@ github_username:  jekyll
 #theme: minima
 theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
-
+logo: "https://s3.amazonaws.com/aws-ec2-us-east-1-opendatasoft-staticfileset/lab-cdmx/logo?tstamp=155926158001"
+footer_content: "Micrositio de Gestion de datos de la ADIP"
+color_scheme: adip
 plugins:
   - jekyll-feed
 
