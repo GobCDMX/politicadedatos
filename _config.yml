@@ -31,7 +31,7 @@ github_username:  jekyll
 
 # Build settings
 #theme: minima
-theme: "just-the-docs"
+#theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 logo: "https://s3.amazonaws.com/aws-ec2-us-east-1-opendatasoft-staticfileset/lab-cdmx/logo?tstamp=155926158001"
 footer_content: "Micrositio de Gestion de datos de la ADIP"
