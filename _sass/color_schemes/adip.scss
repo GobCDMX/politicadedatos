@@ -1,0 +1,30 @@
+
+$green-accent : #00b140 !default;
+$white :#ffffff !default;
+$black-txt: #455464 !default;
+$gray-bg: #f8f8f8 !default;
+$grey2-txt: #969696 !default;
+
+$body-background-color: $white;
+$sidebar-color: $gray-bg;
+$border-color: $gray-bg;
+$body-text-color: $black-txt;
+$body-heading-color: $black-txt;
+$nav-child-link-color: $grey2-txt;
+$search-result-preview-color: $black-txt;
+
+$link-color: $green-accent;
+
+$btn-primary-color: $green-accent;
+$base-button-color: $gray-bg;
+
+h1+h2,h1,h2+p {
+    text-align: center;
+}
+
+#participacion{
+    color: $green-accent;
+    text-align: center;
+    font-weight: bold;
+}
+
