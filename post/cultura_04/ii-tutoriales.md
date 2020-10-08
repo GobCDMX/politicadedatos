@@ -1,7 +1,8 @@
 ---
 layout: default
-title: tutoriales
+title: Tutoriales
 permalink: /cultura/atribuciones
 parent: Cultura de datos
 nav_order: 1
 ---
+

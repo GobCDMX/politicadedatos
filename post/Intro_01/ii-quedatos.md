@@ -2,22 +2,36 @@
 layout: post
 title: ¿Qué datos se gestionan?
 parent: Sobre la politica de gestión de datos
-nav_order: 2
+nav_order: 1
 ---
-<h2>Inventario de datos </h2> 
 
-<strong>¿Qué es?</strong>
 
-El Inventario de Datos de la Ciudad de México consiste en el conjunto de los metadatos de los recursos de información tecnológica de la Administración Pública de la Ciudad de México sistematizados en una base de datos para permitir su búsqueda y exploración por personas usuarias. El Inventario de Datos no contendrá los datos mismos, sino información sobre su estructura, contenido, características y Órgano responsable de ellos. 
+<h2>¿Qué datos se gestionan?</h2>
 
-<strong>¿Para qué un Inventario de datos?</strong>
 
-El Inventario de Datos tiene como objetivos los siguientes: 
+<h4>¿Qué son los datos? </h4> <br>
 
-Constituirse como un instrumento que permita la identificación, registro y enumeración de los Recursos de tecnologías de información de la Administración Pública de la Ciudad de México. 
-Ser una herramienta que facilite la gestión y administración de los metadatos de los Órganos de la Administración Pública.
-Ser una herramienta de  búsqueda, exploración y descubrimiento de los metadatos de la Administración Pública para ser usada por los Órganos de la Administración Pública y la ciudadanía. 
-Analizar y evaluar las necesidades tecnológicas e informáticas para gestionar los datos en posesión de los Órganos de la Administración Pública de la Ciudad de México. 
-Promover una cultura de datos y prácticas de gestión de metadatos.  
-Facilitar el intercambio de datos entre los Órganos de la Administración Pública al proporcionar información sobre los datos en su posesión, sus características y el estado en que se encuentran. 
-Constituirse en una herramienta de transparencia proactiva al posibilitar un análisis más sencillo y oportuno de los datos que pueden abrirse al público. 
+Para efectos de la Política de Gestión de Datos (link al doc normativo), los datos son aquellos registros, ya sean numéricos o textuales, que describen las características o atributos de cualquier evento, individuo o cosa, y que son producidos, procesados y/o albergados digitalmente en diversos recursos de tecnologías de información. 
+
+Los recursos de tecnologías de la información (link al glosario) son: 
+-Conjuntos y bases de datos
+-Aplicaciones y sistemas de información digitales
+-Tecnología (hardware, software, sistemas operativos, sistemas manejadores de bases de datos, redes, entre otros). 
+-Instalaciones (servidores, centros de datos, clústeres de datos, almacenes de datos, entre otros). 
+
+
+<h4>¿Qué datos se incluyen en la política de gestión de datos?  </h4> <br>
+
+De acuerdo al Artículo sexto de la Constitución Política de los Estados Unidos Mexicanos (link) y la Ley de Transparencia, Acceso a la Información Pública de la Ciudad de México (link), son todos los datos en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en  el ámbito federal, estatal y municipal. 
+
+¿Qué datos se incluyen en la política de gestión de datos? 
+Todos los datos públicos en posesión de los Órganos de la Administración Pública de la Ciudad de México, estén abiertos a la ciudadanía o no, están incluidos en la Política de Gestión de Datos.
+
+
+<img src="https://www.mathsisfun.com/data/images/pie-chart-movies.svg" alt="no found">
+
+
+
+<h4>¿Cuál es la diferencia entre datos públicos y datos abiertos?  </h4> <br>
+
+Los datos abiertos son aquellos datos públicos que pueden ser publicados para su utilización y consulta por la ciudadanía. Es decir, son un subconjunto de los datos públicos
