@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Sobre las atribuciones en materia de gestión de datos
+title: Datalogo de la ciudad de México
 permalink: /sobre/atribuciones
 nav_order: 2
 has_children: true
 ---
 
-hola
+¿que es?

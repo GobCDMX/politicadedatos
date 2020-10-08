@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Oficiales de información
-permalink: /Oficiales/
+title: Encuesta de satisfacción
+permalink: /encuesta/
 nav_order: 8
-has_children: true
+
 ---
 
 Definición del oficial de información 

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Datalogo
+title: Marco Legal
 permalink: /datalogo
 nav_order: 3
 has_children: true
 ---
 
-Datalogo
+Leyes, normas, etc

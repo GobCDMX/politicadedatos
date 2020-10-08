@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Diccionario
+title: Cultura de datos
 permalink: /sobre/atrib
 nav_order: 4
-
+has_childen: true
 ---
 
-Metadatos y diccionario de datos
+Guias y recursos

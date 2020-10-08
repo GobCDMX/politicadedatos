@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Glosario
-permalink: /glosario/
-nav_order: 5
+permalink: /cultura/diplomado
+parent: Cultura de datos
+nav_order: 3
 ---
+
 
 | Termino    | Definicion         | ejemplo |
 |:-------------|:------------------|:------|
