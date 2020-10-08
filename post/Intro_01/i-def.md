@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Marco para la Gestión de Datos de la CDMX
+title: Definicion y Objetivos
 parent: Sobre la politica de gestión de datos
 nav_order: 1
 ---
