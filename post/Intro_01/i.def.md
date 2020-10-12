@@ -9,7 +9,7 @@ parent: Sobre la politica de gestión de datos
 
 <h1>Sobre la Política de Gestión de Datos</h1>
 
-<strong>Definición y objetivos</strong>
+<h3>Definición y objetivos</h3>
 <br>
 
 <h4><b>¿Qué es la gestión de datos?</b></h4>
