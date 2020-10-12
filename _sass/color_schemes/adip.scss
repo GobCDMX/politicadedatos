@@ -14,7 +14,7 @@ $nav-child-link-color: $grey2-txt;
 $search-result-preview-color: $black-txt;
 
 $link-color: $green-accent;
-$nav-list-link: $green-accent;
+//$nav-list-link: $green-accent;
 
 $btn-primary-color: $green-accent;
 $base-button-color: $gray-bg;
@@ -29,3 +29,6 @@ h1+h2,h1,h2+p {
     font-weight: bold;
 }
 
+.nav-list-link {
+    color: $green-accent;
+}
