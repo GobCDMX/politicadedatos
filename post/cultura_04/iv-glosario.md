@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glosario
-permalink: /cultura/diplomado
+permalink: /cultura/glosario
 parent: Cultura de datos
 nav_order: 4
 ---
