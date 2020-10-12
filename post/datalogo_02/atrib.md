@@ -6,4 +6,4 @@ nav_order: 2
 has_children: true
 ---
 
-¿que es?
+Tabla de contenidos

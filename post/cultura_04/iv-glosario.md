@@ -3,7 +3,7 @@ layout: default
 title: Glosario
 permalink: /cultura/diplomado
 parent: Cultura de datos
-nav_order: 3
+nav_order: 4
 ---
 
 
