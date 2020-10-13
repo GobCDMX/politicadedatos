@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ¿Cómo cumplir con tus funciones como oficial de información? 
+permalink: /sobre/comocumplir
 parent: Sobre la politica de gestión de datos
 nav_order: 3
 ---

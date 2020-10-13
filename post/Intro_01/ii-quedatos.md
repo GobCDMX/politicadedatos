@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ¿Qué datos se gestionan?
+permalink: /sobre/quedatosegestionan
 parent: Sobre la politica de gestión de datos
 nav_order: 1
 ---

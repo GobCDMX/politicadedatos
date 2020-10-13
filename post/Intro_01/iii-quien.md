@@ -1,10 +1,11 @@
 ---
 layout: post
 title: ¿Quienes participan?
+permalink: /sobre/quienesparticipan
 parent: Sobre la politica de gestión de datos
 nav_order: 2
 ---
-<img src="https://www.mathsisfun.com/data/images/pie-chart-movies.svg" alt="no found">
+<img src="assets/js/img/datos.png" alt="No se encontro">
 
 Agencia Digital de Innovación Pública 
 La Agencia Digital de Innovación Pública de la Ciudad de México (ADIP) es el Órgano de la Administración Pública responsable del diseño, ejecución y supervisión de la política de gestión de datos (link a los artículos 11 y 14 de la LOID). 
