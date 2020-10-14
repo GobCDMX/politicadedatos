@@ -9,9 +9,9 @@ nav_order: 1
 ---
 
 
-Qué es un diccionario de datos: ejemplos y recomendaciones
+<h4><b>Qué es un diccionario de datos:</b></h4>( ejemplos y recomendaciones)
 
-¿Qué es un diccionario de datos?
+
 
 Ppt sección diccionario de datos
 
@@ -19,8 +19,8 @@ Un diccionario de datos es un tipo de metadato que enlista de manera organizada 
 
 Tiene por objetivo proveer un lenguaje común entre el autor de dichos datos y sus posibles usuarios.
 
-¿Por qué son importantes los Diccionarios de Datos?
-
+<h4><b>¿Por qué son importantes los Diccionarios de Datos?</b>
+</h4>
 Los diccionarios de datos nos permiten entender e interpretar un conjunto de datos o base de datos al proporcionar información básica sobre los campos o variables que contiene. Brindan la siguiente información:
 
 Qué significa cada campo o variable. 
@@ -31,22 +31,22 @@ Entre otros.
 
 Los conjuntos o bases de datos sin un diccionario de datos pueden derivar en malas interpretaciones y mal uso de los datos. En algunos casos, los datos son inutilizables ya que su interpretación se vuelve imposible. 
 
-¿Para qué se usan los diccionarios de datos? 
-
+<h4><b>¿Para qué se usan los diccionarios de datos? 
+</b></h4>
 Documentar: proveen detalles sobre la estructura de los datos a las personas usuarias, desarrolladores, u otros actores interesados. 
 Comunicar: proveen a las personas usuarias de vocabulario y definiciones comunes para el intercambio de datos y uso de los datos. 
 
 Integración de datos: definiciones claras de los elementos del conjunto de datos, bases de datos y/o sistema, proveen comprensión sobre el contexto necesario para decidir cómo integrar los datos en distintos subsistemas.
 
-Principios de los diccionarios de datos
-
+<h4><b>Principios de los diccionarios de datos
+</b></h4>
 Los diccionarios de datos están diseñados para facilitar la comprensión y proveer de sentido, por tanto deben documentar la existencia, el significado y el uso de cada elemento del conjunto y/o base de datos.
 Los diccionarios de datos deben ser accesibles para todas las personas usuarias que ingresan y extraen datos.
 Las personas responsables de los datos deben mantener actualizados el contenido del diccionario de datos, incluidas sus definiciones y sus valores.
 Los diccionarios de datos deben revisarse periódicamente para garantizar su vigencia.
 
-Ejemplos de algunos diccionarios de datos:
-
+<h4><b>Ejemplos de algunos diccionarios de datos:
+</b></h4>
 Diccionario de datos del Portal de Datos Abiertos de la Ciudad de México: https://datos.cdmx.gob.mx/api/datasets/1.0/capacidad-hospitalaria/attachments/capacidad_hospitalaria_micrositio_diccionario_de_datos_csv/
 
 Diccionario de datos elaborado por el Instituto Nacional de Estadística y Geografía (INEGI): https://www.inegi.org.mx/rnm/index.php/catalog/214/datafile/F23

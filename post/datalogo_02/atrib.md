@@ -5,5 +5,3 @@ permalink: datalogo
 nav_order: 2
 has_children: true
 ---
-
-Tabla de contenidos

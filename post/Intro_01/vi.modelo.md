@@ -6,18 +6,21 @@ nav_order: 6
 has_children: true
 ---
 
-vi. Modelo de Madurez
+<h2> Modelo de Madurez</h2>
+
 El Modelo de Madurez es el instrumento metodológico que permitirá medir el grado de avance de la implementación de la Política de Gestión de Datos. 
 
 La madurez de la gestión se refiere al grado en que los componentes del MGD-CDMX evolucionan a partir del establecimiento de una línea base, determinada mediante un diagnóstico del estado inicial de la gestión. 
 
 
 
-En qué consiste 
+<h4><b>¿En qué consiste?</b></h4>
 
 El modelo de madurez medirá el avance en la gestión de datos según los siguientes niveles. 
 
-Nivel de madurez inicial: 
+<img src="https://viriesc.github.io/micrositio_adip/assets/img/modelo-madurez.png" alt="Imagen no fue encontrada">
+
+ Nivel de madurez inicial: 
 El Órgano de la Administración Pública no tiene definidos los procesos necesarios para mantener las prácticas de gestión de datos. 
 La gestión de datos se caracteriza por ser ad hoc o caótica. 
 Se depende completamente de individuos, con poco o incluso nulo conocimiento de las prácticas de gestión de datos. 
