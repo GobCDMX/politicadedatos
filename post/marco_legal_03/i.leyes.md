@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marco Legal
-permalink: /datalogo
+permalink: marco_legal
 nav_order: 3
 has_children: true
 ---

@@ -2,6 +2,7 @@
 layout: default
 title: objetivos
 parent: Datalogo de la ciudad de México
+permalink: datalogo/objetivos
 nav_order: 2
 ---
 

@@ -5,9 +5,11 @@ permalink: /sobre/quienesparticipan
 parent: Sobre la politica de gestión de datos
 nav_order: 2
 ---
-<img src="assets/js/img/datos.png" alt="No se encontro">
+<img src="assets\img\datos.png" alt="No se encontró">
 
-Agencia Digital de Innovación Pública 
+
+<b>Agencia Digital de Innovación Pública <b>
+
 La Agencia Digital de Innovación Pública de la Ciudad de México (ADIP) es el Órgano de la Administración Pública responsable del diseño, ejecución y supervisión de la política de gestión de datos (link a los artículos 11 y 14 de la LOID). 
 
 Órganos de la Administración Pública
@@ -21,7 +23,7 @@ Participar en la creación y actualización del Inventario de Datos; (link al ar
 Participar en el Plan de Apertura de Datos de la Administración Pública; (link al artículo específico de la LOID y Política) 
 Participar en las capacitaciones que se estimen necesarias; 
 
-Oficiales de Información
+<b>Oficiales de Información<b>
 Las personas Oficiales de Información son el enlace entre la Agencia y los Órganos de la Administración Pública para la coordinación e implementación de las disposiciones en materia de gestión de datos, entre otras. 
 
 Consulta aquí las funciones de los Oficiales de Información 

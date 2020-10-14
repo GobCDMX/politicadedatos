@@ -16,14 +16,16 @@ parent: Sobre la politica de gestión de datos
 <br>
 La gestión de datos se refiere al conjunto de prácticas, procesos, y procedimientos que se llevan a cabo en el manejo de los datos.
 
-¿Qué es la política de gestión de datos?<br>
-La Política de Gestión de Datos (link al doc normativo) es el documento normativo que establece las pautas que los Órganos de la Administración Pública de la Ciudad de México deben seguir al gestionar todos los datos públicos. 
+<h4>¿Qué es la política de gestión de datos?<h4><br>
+La<a href="https://viriesc.github.io/micrositio_adip/datalogo">Política de Gestión de Datos</a> es el documento normativo que establece las pautas que los Órganos de la Administración Pública de la Ciudad de México deben seguir al gestionar todos los datos públicos. 
 
 En conjunto, se compone de
 
--Marco de Gestión de Datos (link a sección )
--Modelo de Madurez (link a sección) 
--Lineamientos, estándares y buenas prácticas (link a sección).
+
+- Política  de Gestión de Datos <a href="https://viriesc.github.io/micrositio_adip/datalogo">Política de Gestión de Datos</a>
+- Datálogo <a href="https://viriesc.github.io/micrositio_adip/datalogo">Link al Marco Legal</a>
+
+- Marco Legal <a href="https://viriesc.github.io/micrositio_adip/datalogo">Link al Marco Legal</a>
 
 <h4><b>¿Para qué gestionar datos?</b></h4>
  <br>
