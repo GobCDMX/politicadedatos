@@ -6,7 +6,7 @@ permalink: datalogo/fases
 nav_order: 3
 ---
 
-Cómo se construirá 
+<h2>¿Cómo se construirá?</h2>
 
 El Datálogo se conformará mediante la recolección de los metadatos de los principales recursos de tecnologías de información (link al glosario) de la Administración Pública de la Ciudad de México, según el Estándar de Metadatos que publique la Agencia. 
 

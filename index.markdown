@@ -4,7 +4,12 @@
 
 layout: landing
 ---
+<style>
+h1+h2,h1,h2+p {
+    text-align: center;
+}
 
+</style>
 
 
 <h2>Hacia una gobernanza de los datos de la Ciudad de México</h2>
