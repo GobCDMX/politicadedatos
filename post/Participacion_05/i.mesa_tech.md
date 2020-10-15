@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ¿Cómo Participar?
-permalink: /glosario/
+permalink: /participacion/
 nav_order: 5
 has_children: true
 --- 

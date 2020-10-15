@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cultura de datos
-permalink: /Cultida/indice
+permalink: /Cultida/guias
 nav_order: 4
 has_children: true
 ---

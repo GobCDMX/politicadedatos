@@ -6,7 +6,7 @@ permalink: datalogo
 nav_order: 1
 ---
 
-<h2><b>¿Qué es?</br><h2>
+<h2><b>¿Qué es?</b></h2>
 <br>
 El Datálogo es el Inventario de Datos de la Ciudad de México. 
 Consiste en el conjunto de los metadatos de los recursos de tecnologías de información de la Administración Pública de la Ciudad de México organizados en un catálogo  digital para permitir su búsqueda y exploración. 

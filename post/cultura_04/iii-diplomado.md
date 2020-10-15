@@ -5,6 +5,7 @@ permalink: /cultura/diplomado
 parent: Cultura de datos
 nav_order: 3
 ---
+<h2>Diplomado en datos</h2> <br>
 
 Si eres persona Oficial de Información y te interesa profundizar en temas de gestión de datos, estamos desarrollando un Diplomado virtual en colaboración con la Escuela de Administración Pública de la Ciudad de México. 
 

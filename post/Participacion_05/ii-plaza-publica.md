@@ -6,7 +6,7 @@ nav_order: 1
 parent: ¿Cómo Participar?
 ---
 
-<h3>Plaza Pública<h3>
+<h3>Plaza Pública</h3>
  
 
 Por medio de la plataforma de participación digital del gobierno de la Ciudad de México, Plaza Pública tendremos abierto un canal permanente de comunicación tanto con la ciudadanía como con todos los servidores públicos y otros(as) actores interesados. 
