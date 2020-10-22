@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿Quienes participan?
+title: ¿Quiénes participan?
 permalink: /sobre/quienesparticipan
 parent: Sobre la politica de gestión de datos
 nav_order: 2

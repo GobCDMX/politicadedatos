@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ¿Qué es?
-parent: Datalogo de la ciudad de México
+parent: Datálogo de la ciudad de México
 permalink: datalogo
 nav_order: 1
 ---

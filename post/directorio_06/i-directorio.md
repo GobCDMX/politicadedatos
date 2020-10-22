@@ -1,10 +1,14 @@
 ---
 layout: default
-title: directorio
+title: Directorio de Oficiales de Información
 permalink: /directorio/
 nav_order: 6
 has_children: true
 ---
+
+
+<h2>Oficiales de Información</h2> <br>
+
 
 | Dependencia         | Oficial de información         | Telefóno                   | Correo                       |             
 |:-----------------   |:------------------------------ |:---------------------------|:-----------------------------|

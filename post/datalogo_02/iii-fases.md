@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fases de implementación 
-parent: Datalogo de la ciudad de México
+parent: Datálogo de la ciudad de México
 permalink: datalogo/fases
 nav_order: 3
 ---
