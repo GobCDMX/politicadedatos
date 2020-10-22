@@ -20,7 +20,8 @@ La gestión de datos se refiere al conjunto de prácticas, procesos, y procedimi
 
 <br>
 
-La<a href="https://viriesc.github.io/micrositio_adip/datalogo">Política de Gestión de Datos</a> es el documento normativo que establece las pautas que los Órganos de la Administración Pública de la Ciudad de México deben seguir al gestionar todos los datos públicos. 
+La<a href="https://viriesc.github.io/micrositio_adip/datalogo">Política de Gestión de Datos</a> es el documento normativo que establece las pautas que los Entes Públicos  de la Ciudad de México deben seguir al gestionar todos los datos públicos. 
+
 
 En conjunto, se compone de:
 

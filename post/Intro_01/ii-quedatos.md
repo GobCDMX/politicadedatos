@@ -23,7 +23,7 @@ Los recursos de tecnologías de la información (link al glosario) son:
 
 <h4><b>¿Qué datos se incluyen en la política de gestión de datos?</b></h4> 
 
-De acuerdo al Artículo sexto de la Constitución Política de los Estados Unidos Mexicanos (link) y la Ley de Transparencia, Acceso a la Información Pública de la Ciudad de México (link), son todos los datos en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en  el ámbito federal, estatal y municipal. 
+De acuerdo al Artículo sexto de la Constitución Política de los Estados Unidos Mexicanos (link) y la Ley de Transparencia, Acceso a la Información Pública de la Ciudad de México (link), los datos públicos son todos los datos en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal.
 
 Todos los datos públicos en posesión de los Órganos de la Administración Pública de la Ciudad de México, estén abiertos a la ciudadanía o no, están incluidos en la Política de Gestión de Datos.
 
