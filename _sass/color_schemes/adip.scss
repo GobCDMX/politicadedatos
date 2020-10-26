@@ -18,14 +18,7 @@ $link-color: $green-accent;
 
 $btn-primary-color: $green-accent;
 $base-button-color: $gray-bg;
-
-@media print {
-    .side-bar {
-        width: calc((75% - 1064px) / 2 + 264px);
-        min-width: 264px;
-    }
-    
-}
+$content-width: 950px !default;
 
 
 #participacion{
