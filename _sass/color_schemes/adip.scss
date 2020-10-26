@@ -20,6 +20,11 @@ $btn-primary-color: $green-accent;
 $base-button-color: $gray-bg;
 
 
+.side-bar {
+    width: calc((75% - 1064px) / 2 + 264px);
+    min-width: 264px;
+}
+
 
 #participacion{
     color: $green-accent;
