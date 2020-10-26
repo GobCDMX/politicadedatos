@@ -18,7 +18,8 @@ $link-color: $green-accent;
 
 $btn-primary-color: $green-accent;
 $base-button-color: $gray-bg;
-
+$gutter-spacing: $sp-6 !default;
+$gutter-spacing-sm: $sp-3 !default;
 
 
 #participacion{
@@ -27,10 +28,7 @@ $base-button-color: $gray-bg;
     font-weight: bold;
 }
 
-.nav-list .nav-list-item .nav-list-link {
-    
-    padding-left: 1.5rem;
-}
+
 
 .nav-list-link {
     color:  #00b140;
