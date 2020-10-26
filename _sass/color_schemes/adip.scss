@@ -27,10 +27,18 @@ $base-button-color: $gray-bg;
     font-weight: bold;
 }
 
+.nav-list .nav-list-item .nav-list-link {
+    
+    padding-left: $sp-2;;
+}
+
 .nav-list-link {
     color:  #00b140;
-    padding-left: $sp-2;
+    
 }
+
+
+
 
 .site-footer {
     display: none;
