@@ -47,8 +47,10 @@ $base-button-color: $gray-bg;
 
 
 footer {
+    position: fixed;
     background-color:#00312d ;
     width: 100%;
+    bottom: 0;
 }
 
 .main-content hr {
