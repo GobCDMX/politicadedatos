@@ -15,7 +15,7 @@ $nav-child-link-color: $grey2-txt;
 $search-result-preview-color: $black-txt;
 
 $link-color: $green-accent;
-//$nav-list-link: $green-accent;
+$nav-list-link: $green-accent;
 $gutter-spacing-sm: $sp-2 !default;
 $btn-primary-color: $green-accent;
 $base-button-color: $gray-bg;
@@ -35,7 +35,9 @@ $base-button-color: $gray-bg;
     
 }
 
-
+.main-content-wrap {
+    padding-bottom: 0%;
+}
 
 
 .site-footer {
@@ -49,13 +51,11 @@ footer {
     width: 100%;
 }
 
-hr {
+.main-content hr {
+    margin-bottom: 0%;
     
-    margin-bottom: 0.2rem;
-   
 }
 
-.main-content-wrap {
-    
-    padding-bottom: 0rem;
-}
+
+
+
