@@ -47,10 +47,12 @@ $base-button-color: $gray-bg;
 
 
 .container {
+    position: absolute;
     background-color:#00312d ;
     width: 100%;
     bottom: 0;
     max-width: 100%;
+    
 }
 
 .main-content hr {
