@@ -47,7 +47,6 @@ $base-button-color: $gray-bg;
 
 
 .container {
-    position: fixed;
     background-color:#00312d ;
     width: 100%;
     bottom: 0;
@@ -58,6 +57,9 @@ $base-button-color: $gray-bg;
     
 }
 
+element.style {
+    padding-bottom: 64px;
+}
 
 
 
