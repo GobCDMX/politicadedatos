@@ -5,6 +5,7 @@ $black-txt: #455464 !default;
 $gray-bg: #f8f8f8 !default;
 $grey2-txt: #969696 !default;
 
+$content-width: 950px;
 $body-background-color: $white;
 $sidebar-color: $gray-bg;
 $border-color: $gray-bg;
@@ -18,7 +19,7 @@ $link-color: $green-accent;
 $gutter-spacing-sm: $sp-2 !default;
 $btn-primary-color: $green-accent;
 $base-button-color: $gray-bg;
-$content-width: 950px !default;
+
 
 
 #participacion{
@@ -39,6 +40,12 @@ $content-width: 950px !default;
 
 .site-footer {
     display: none;
+    
+}
+
+
+.footer {
+    background-color:#262629 ;
 }
 
 
