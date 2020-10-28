@@ -6,7 +6,7 @@ layout: table_wrappers
 
 <html lang="{{ site.lang | default: 'en-US' }}">
 {% include head.html %}
-<body>
+<body >
   <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
     <symbol id="svg-link" viewBox="0 0 24 24">
       <title>Link</title>
@@ -70,6 +70,7 @@ layout: table_wrappers
     </footer>
   </div>
   <div class="main" id="top">
+  <div class="nonfooter"> 
     <div id="main-header" class="main-header">
       {% if site.search_enabled != false %}
         <div class="search">
@@ -162,8 +163,8 @@ layout: table_wrappers
       
 
     </div>
-
-    <footer>
+  </div>
+    <footer class="container">
         {% if site.back_to_top %}
           <p><a href="#top" id="back-to-top">{{ site.back_to_top_text }}</a></p>
         {% endif %}
@@ -193,7 +194,7 @@ layout: table_wrappers
       </footer>
     {% endif %}
 
-    {% if site.search_enabled != false %}
+    <!--{% if site.search_enabled != false %}
       {% if site.search.button %}
         <a href="#" id="search-button" class="search-button">
           <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-search"></use></svg>
@@ -201,7 +202,10 @@ layout: table_wrappers
       {% endif %}
 
       <div class="search-overlay"></div>
-    {% endif %}
+    {% endif %} -->
   </div>
+
+  
+
 </body>
 </html>
