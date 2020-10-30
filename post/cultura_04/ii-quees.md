@@ -3,10 +3,10 @@ layout: default
 title: ¿Qué es un diccionario de datos?
 permalink: /Cultura/definiciones
 parent: Cultura de datos
-
 nav_order: 1
 
 ---
+
 
 
 <h4><b>Qué es un diccionario de datos:</b></h4>( ejemplos y recomendaciones)

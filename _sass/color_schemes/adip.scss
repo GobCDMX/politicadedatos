@@ -14,13 +14,15 @@ $body-heading-color: $black-txt;
 $nav-child-link-color: $grey2-txt;
 $search-result-preview-color: $black-txt;
 
-$link-color: $green-accent;
+$link-color: $green-accent !default;
 $nav-list-link: $green-accent;
 $gutter-spacing-sm: $sp-2 !default;
 $btn-primary-color: $green-accent;
 $base-button-color: $gray-bg;
 
-
+.nav-list-link {
+  color: $green-accent;
+}
 
 #participacion{
     color: $green-accent;
@@ -30,10 +32,7 @@ $base-button-color: $gray-bg;
 
 
 
-.nav-list-link {
-    color:  #00b140;
-    
-}
+
 
 .nonfooter {
  
@@ -69,7 +68,7 @@ $base-button-color: $gray-bg;
    
   // bottom: 90%;   
       background-color:#00312d !important;
-      width: 115% !important;   
+      width: 107.5% !important;   
       //height:calc( 100% - px);
      // border-top-style: solid;
       //border-top-width: medium;

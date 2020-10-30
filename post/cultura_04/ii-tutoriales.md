@@ -6,7 +6,7 @@ parent: Cultura de datos
 nav_order: 2
 
 ---
-
+<div class="nonfooter">
 <h2><b>Tutoriales</b></h2>
 
 <b>Presentaciones introductorias </b>
@@ -32,3 +32,5 @@ nav_order: 2
 - Cómo acceder a la API de INEGI 
 - Survey Solutions desde cero: creando encuestas profesionales 
 - SQL: la precuela (Excel vs. bases de datos) 
+
+</div>

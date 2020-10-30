@@ -6,6 +6,8 @@ nav_order: 1
 parent: ¿Cómo Participar?
 ---
 
+<div class="nonfooter">
+
 <h3>Plaza Pública</h3>
  
 
@@ -14,3 +16,5 @@ Por medio de la plataforma de participación digital del gobierno de la Ciudad d
 En este espacio podrás comentarnos sobre cualquier asunto o tema relacionado con  la Política y/o participar en los procesos deliberativos específicos a los lineamientos, estándares y buenas prácticas que se publiquen. 
 
 ¡Mantente al tanto de todos los procesos de deliberación! 
+
+</div>

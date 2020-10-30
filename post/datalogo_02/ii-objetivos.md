@@ -5,6 +5,8 @@ parent: Datálogo de la ciudad de México
 permalink: datalogo/objetivos
 nav_order: 2
 ---
+
+<div class="nonfooter">
 <h2>Objetivos</h2>
 
 El Datálogo tiene como objetivos los siguientes: 
@@ -15,3 +17,4 @@ El Datálogo tiene como objetivos los siguientes:
 * Facilitar el intercambio de datos entre los Órganos de la Administración Pública al proporcionar información sobre los datos en su posesión, sus características y el estado en que se encuentran. 
 * Constituirse en una herramienta de transparencia proactiva al posibilitar un análisis más sencillo y oportuno de los datos que pueden abrirse al público. 
 
+</div>

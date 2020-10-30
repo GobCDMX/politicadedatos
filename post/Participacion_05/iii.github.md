@@ -5,3 +5,6 @@ permalink: /github/
 nav_order: 2
 parent: ¿Cómo Participar?
 ---
+<div class="nonfooter">
+Link a github
+</div>

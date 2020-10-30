@@ -24,8 +24,8 @@ Los Órganos de la Administración Pública son todas las Dependencias, Órganos
 Obligaciones (link al artículo de obligaciones en materia de gestión de datos): 
 
 - Cumplir y hacer cumplir la normatividad que emita la Agencia con motivo de la aplicación de la Política;
-- Habilitar a las personas Oficiales de Información; (link al artículo específico de la LOID y Política) (link a la sección de Oficiales de Info) 
-- Participar en las Mesas Técnicas Interinstitucionales; (link al artículo específico de la Política) (link a la sección de Mesas) 
+- Habilitar a las personas  <a href="  https://viriesc.github.io/micrositio_adip/directorio/">Oficiales de Información</a>; (link al artículo específico de la LOID y Política) 
+- Participar en las <a href="http://localhost:4000/micrositio_adip/plaza-publica/">Mesas Técnicas Interinstitucionales</a> ; (link al artículo específico de la Política) 
 - Participar en la creación y actualización del Inventario de Datos; (link al artículo específico de la LOID y Política) 
 - Participar en el Plan de Apertura de Datos de la Administración Pública; (link al artículo específico de la LOID y Política) 
 - Participar en las capacitaciones que se estimen necesarias; 
@@ -38,5 +38,5 @@ Consulta aquí las funciones de los Oficiales de Información
 
 Consulta aquí el Directorio de Oficiales de Información para ver quién coordina la Política de Gestión de Datos en cada Órgano de la Administración Pública. 
 
-Eres Oficial de Información y tienes dudas sobre tus funciones, contáctanos aquí (liga a la tarjeta de contacto). 
+Eres Oficial de Información y tienes dudas sobre tus funciones, contáctanos <a href="https://viriesc.github.io/micrositio_adip/aprendizaje/">aquí</a> (liga a la tarjeta de contacto). 
 

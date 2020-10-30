@@ -6,6 +6,7 @@ parent: Cultura de datos
 nav_order: 4
 ---
 
+<div class="nonfooter">
 
 | Termino    | Definicion         | ejemplo |
 |:-------------|:------------------|:------|
@@ -13,3 +14,5 @@ nav_order: 4
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
+</div>

@@ -19,17 +19,17 @@ La gestión de datos se refiere al conjunto de prácticas, procesos, y procedimi
 
 <br>
 
-La <a href="https://viriesc.github.io/micrositio_adip/datalogo">Política de Gestión de Datos</a> es el documento normativo que establece las pautas que los Entes Públicos  de la Ciudad de México deben seguir al gestionar todos los datos públicos. 
+La <a href="_layouts/loid.html">Política de Gestión de Datos</a> es el documento normativo que establece las pautas que los Entes Públicos  de la Ciudad de México deben seguir al gestionar todos los datos públicos. 
 
 
 En conjunto, se compone de:
 
 
-- Política  de Gestión de Datos <a href="https://viriesc.github.io/micrositio_adip/sobre/"> Link a la Política de Gestión de Datos</a>
+- Marco de Gestión de Datos  <a href="https://viriesc.github.io/micrositio_adip/marco_legal"> Link a la Política de Gestión de Datos</a>
 
-- Datálogo <a href="https://viriesc.github.io/micrositio_adip/datalogo">Link a sección del Datálogo</a>
+- Modelo de Madurez <a href="https://viriesc.github.io/micrositio_adip/post/Intro_01/vi.modelo.html">Link a sección del Datálogo</a>
 
-- Marco Legal <a href="https://viriesc.github.io/micrositio_adip/marco_legal">Link al Marco Legal</a>
+- Lineamientos, estándares y buenas prácticas <a href="https://viriesc.github.io/micrositio_adip/marco_legal">Link al Marco Legal</a>
 <br>
 
 <h4><b>¿Para qué gestionar datos?</b></h4>
