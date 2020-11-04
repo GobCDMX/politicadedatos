@@ -1,6 +1,6 @@
-function filterby (dependency){
+ /*function filterby (dependency){
     console.log(dependency)
-    /*var filtro = String.valueOf(dependency).toUpperCase
+   var filtro = String.valueOf(dependency).toUpperCase
     console.log(filtro)
     
    var table = document.getElementById("dataTable")
@@ -19,5 +19,5 @@ function filterby (dependency){
         
         }
       }
-    } */
-  } 
+    } 
+  } */
