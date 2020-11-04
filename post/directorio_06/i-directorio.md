@@ -5,7 +5,7 @@ permalink: /directorio/
 nav_order: 6
 has_children: true
 ---
-<script src="C:\Users\default.DESKTOP-14A43B8\Documents\INS docs\Bussiness Intelligence\ADIP\micrositio_datos\micrositio\micrositio\assets\js\test.js"></script>
+<script src="https://github.com/viriesc/micrositio_adip/blob/gh-pages/assets/js/test.js"></script>
 
 <h2>Oficiales de Información</h2> <br>
 
