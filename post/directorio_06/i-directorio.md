@@ -9,7 +9,7 @@ has_children: true
 
 <h2>Oficiales de Información</h2> <br>
 
-<input onblur="filterby(this.value)">
+<input onkeyup="filterby(this.value)">
 
  <table id="dataTable">
         <col>
