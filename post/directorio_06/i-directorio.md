@@ -9,7 +9,7 @@ has_children: true
 
 <h2>Oficiales de Información</h2> <br>
 
-<input onkeyup="filterby(this.value)">
+<input onkeyup="filterby(this.value)" value="" class="form-control" placeholder="Buscar por dependencia">
 
  <table id="dataTable">
         <col>
