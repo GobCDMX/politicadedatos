@@ -5,7 +5,7 @@ permalink: /directorio/
 nav_order: 6
 has_children: true
 ---
-<script src="https://github.com/viriesc/micrositio_adip/blob/gh-pages/assets/js/test.js"></script>
+<script src="https://viriesc.github.io/micrositio_adip/assets/js/test.js"></script>
 
 <h2>Oficiales de Información</h2> <br>
 
