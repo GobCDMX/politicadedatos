@@ -4,6 +4,7 @@ title: Definición y objetivos
 permalink: /sobre/
 nav_order: 1
 parent: Sobre la politica de gestión de datos
+
 ---
 
 <h1 style="color:#00b140">Sobre la Política de Gestión de Datos</h1>

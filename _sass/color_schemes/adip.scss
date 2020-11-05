@@ -17,11 +17,13 @@ $search-result-preview-color: $black-txt;
 $link-color: $green-accent !default;
 $nav-list-link: $green-accent;
 $gutter-spacing-sm: $sp-2 !default;
-$btn-primary-color: $green-accent;
+$btn-primary-color: $green-accent ;
 $base-button-color: $gray-bg;
+$text-purple-000: #00b140 !default; 
+$bg-purple-000: #00b140 !default;
 
-.nav-list-link {
-  color: $green-accent;
+  .nav-list-expander{
+  color: $green-accent !important;
 }
 
 #participacion{
@@ -33,6 +35,7 @@ $base-button-color: $gray-bg;
 .column1{
   font-weight: lighter;
 }
+
 
 
 
