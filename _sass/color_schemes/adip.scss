@@ -19,11 +19,14 @@ $nav-list-link: $green-accent;
 $gutter-spacing-sm: $sp-2 !default;
 $btn-primary-color: $green-accent ;
 $base-button-color: $gray-bg;
-$text-purple-000: #00b140 !default; 
-$bg-purple-000: #00b140 !default;
 
   .nav-list-expander{
   color: $green-accent !important;
+}
+
+.list-group-item.active{
+  background-color: $green-accent !important;
+  border-color: $green-accent !important;
 }
 
 #participacion{
@@ -36,6 +39,10 @@ $bg-purple-000: #00b140 !default;
   font-weight: lighter;
 }
 
+::selection {
+  color: #fff;
+  background: $green-accent !important;
+}
 
 
 
