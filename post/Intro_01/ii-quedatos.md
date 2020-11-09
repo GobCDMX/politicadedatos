@@ -32,7 +32,7 @@ De acuerdo al <a href=" http://www.ordenjuridico.gob.mx/Constitucion/articulos/6
 
 Todos los datos públicos en posesión de los Órganos de la Administración Pública de la Ciudad de México, estén abiertos a la ciudadanía o no, están incluidos en la Política de Gestión de Datos.
 
-<img src="https://viriesc.github.io/micrositio_adip/assets/img/datos.jpg" alt="Imagen no fue encontrada" >
+<img src="https://viriesc.github.io/micrositio_adip/assets/img/datos.jpg" class="center" alt="Imagen no fue encontrada" >
 
 
 <h4><b> ¿Cuál es la diferencia entre datos públicos y datos abiertos? </b> </h4> 

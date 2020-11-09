@@ -16,11 +16,11 @@ La participación en la recabación del Datálogo es obligatoria para los Entes 
 
 Las fases de implementación son:
 
-Primera fase: sistemas de información
-Segunda fase: bases de datos
-Tercera fase: conjuntos de datos
-Cuarta fase: capas geoespaciales
+- Primera fase: sistemas de información
+- Segunda fase: bases de datos
+- Tercera fase: conjuntos de datos
+- Cuarta fase: capas geoespaciales
 
-Para conocer las fechas en las que se llevará a cabo cada fase consulta nuestros siguientes pasos (link a sección siguientes pasos).
+Para conocer las fechas en las que se llevará a cabo cada fase consulta nuestros <a href="https://viriesc.github.io/micrositio_adip/siguientes_pasos/">siguientes pasos</a>.  
 
-Si tienes dudas sobre el Datálogo, no dudes en contactarnos (link a contacto).
+Si tienes dudas sobre el Datálogo, no dudes en <a href="https://viriesc.github.io/micrositio_adip/contact/">contactarnos</a>.
