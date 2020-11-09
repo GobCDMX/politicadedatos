@@ -9,28 +9,42 @@ nav_order: 2
 <div class="nonfooter">
 <h2><b>Tutoriales</b></h2>
 
-<b>Presentaciones introductorias </b>
+<h3>Presentaciones introductorias </h3>
 
-1. Introducción a la Política de Gestión de Datos 
-2. Introducción a los datos
-3. Introducción a conjuntos de datos y bases de datos 
-4. Introducción a los metadatos* (dividir la ppt para mostrar solo la parte teórica y quitar lo del Estándar; después actualizar, cuando esté publicado). <br>
+<ol>
+    <li> <a href="https://docs.google.com/presentation/d/1zQIOzQG5LzO2m7FzXJpTWlfPCjLO8agNbMcuZZBhLEY/edit#slide=id.ga8a5ff02d5_0_0">Introducción a la Política de Gestión de Datos</a></li>
+   <li><a href="">Introducción a conjuntos de datos y bases de datos </a>  </li>
+    <li><a href="https://docs.google.com/presentation/d/1-W55jxRSyUMlo9gtWI7UFsRJXOPnALfcDf58XHN7iI0/edit?usp=sharing">Introducción a los metadatos</a> </li>
+</ol>
 
-<b>Materiales de escuela de datos </b>
+<br>
+
+<h3>Materiales de escuela de datos </h3>
+
+<ul>
+    <li><a href="https://escueladedatos.online/como-empezar-mi-propia-aventura-con-datos/">¿Cómo empezar mi propia aventura con datos?</a> </li>
+    <li>
+<a href="https://escueladedatos.online/consejos-practicos-para-entender-datos-estadisticos/">Consejos prácticos para entender datos estadísticos</a></li>
+    <li><a href="https://escueladedatos.online/conoce-el-formato-de-tus-datos/">Conoce el formato de tus datos</a></li>
+    <li><a href="https://escueladedatos.online/como-hacer-estadistica-basica-con-excel/">Cómo hacer estadística básica con Excel</a> </li>
+    <li>
+<a href="https://escueladedatos.online/narrativas-basadas-en-datos-aprende-a-elegir-formatos-para-tus-audiencias/">Narrativas basadas en datos: aprende a elegir formatos para tus audiencias</a></li>
+    <li><a href="https://escueladedatos.online/8-recomendaciones-para-identificar-encuestas-confiables/">8 recomendaciones para identificar encuestas confiables</a> </li>
+    <li><a href="https://escueladedatos.online/diseno-de-investigacion-muestreo-y-metodos-de-recoleccion-de-datos/">Diseño de investigación, muestreo y métodos de recolección de datos</a></li>
+    <li><a href="https://escueladedatos.online/hablemos-un-poco-de-encuestas-y-muestreo/">Hablemos un poco de encuestas y muestreo</a></li>
+    <li><a href="https://escueladedatos.online/introduccion-a-los-formatos-de-datos-espaciales/"> Introducción a los formatos de datos espaciales</a></li>
+    <li>
+<a href="https://escueladedatos.online/10-recomendaciones-para-mejorar-tus-visualizaciones-de-datos/">10 recomendaciones para mejorar tus visualizaciones de datos</a></li>
+    <li> 
+
+<a href="https://escueladedatos.online/como-consultar-una-api-desde-excel/">Cómo acceder a la API de INEGI</a> </li>
+    <li>
+<a href="https://escueladedatos.online/survey-solutions-desde-cero-creando-encuestas-profesionales/">Survey Solutions desde cero: creando encuestas profesionales</a> </li>
+    <li>
+
+<a href="https://escueladedatos.online/sql-la-precuela-excel-vs-bases-de-datos/">SQL: la precuela (Excel vs. bases de datos) </a></li>
+   </ul>
 
 
-- ¿Cómo empezar mi propia aventura con datos? 
-- Consejos prácticos para entender datos estadísticos
-- Conoce el formato de tus datos
-- Cómo hacer estadística básica con Excel 
-- Narrativas basadas en datos: aprende a elegir formatos para tus audiencias
-- 8 recomendaciones para identificar encuestas confiables 
-- Diseño de investigación, muestreo y métodos de recolección de datos
-- Hablemos un poco de encuestas y muestreo
-- Introducción a los formatos de datos espaciales
-- 10 recomendaciones para mejorar tus visualizaciones de datos
-- Cómo acceder a la API de INEGI 
-- Survey Solutions desde cero: creando encuestas profesionales 
-- SQL: la precuela (Excel vs. bases de datos) 
 
 </div>

@@ -21,14 +21,6 @@ El MGD-CDMX se conforma de ocho componentes, que consisten en acciones o prácti
 
 <img src="https://viriesc.github.io/micrositio_adip/assets/img/marco_gestion.png" alt="Imagen no fue encontrada">
 
-<b>Componentes del MGD-CDMX: <b>
-
-
-  
-
-
-
-  
 
 <h4><b>¿Para qué? </b> </h4>
 

@@ -35,8 +35,11 @@ $base-button-color: $gray-bg;
     font-weight: bold;
 }
 
-.column1{
-  font-weight: lighter;
+.badge{
+  font-weight: lighter !important;
+  text-align: left !important;
+  width: 50rem;
+  
 }
 
 ::selection {
@@ -44,7 +47,9 @@ $base-button-color: $gray-bg;
   background: $green-accent !important;
 }
 
-
+.btn-link {
+  color: #00312d !important;
+}
 
 
 .nonfooter {

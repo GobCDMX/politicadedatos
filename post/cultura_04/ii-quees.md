@@ -63,6 +63,3 @@ Integración de datos: definiciones claras de los elementos del conjunto de dato
 
 Muy pronto la Agencia estará emitiendo un estándar para la elaboración de Diccionarios de Datos, como una buena práctica en la gestión y documentación de los datos. ¡Espera noticias por este medio!
 
-- Luego: Catálogos de datos: algunas recomendaciones*
-
-- Luego: Estándar de Metadatos de la CDMX, instrucciones de llenado de las Fichas* 

@@ -26,14 +26,13 @@ Los  <a href="https://viriesc.github.io/micrositio_adip/cultura/glosario">Recurs
 
 <h4><b>¿Qué datos se incluyen en la política de gestión de datos?</b></h4> 
 
-De acuerdo al <a href=" http://www.ordenjuridico.gob.mx/Constitucion/articulos/6.pdf">Artículo sexto de la Constitución Política de los Estados Unidos Mexicanos </a> y la <a href="http://www.infodf.org.mx/documentospdf/Ley%20de%20Transparencia,%20Acceso%20a%20la%20Informaci%C3%B3n%20P%C3%BAblica%20y%20Rendici%C3%B3n%20de%20Cuentas%20de%20la%20Ciudad%20de%20M%C3%A9xico.pdf">Ley de Transparencia, Acceso a la Información Pública de la Ciudad de México</a>, los datos públicos son todos los datos en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal.
+De acuerdo al <a href=" http://www.ordenjuridico.gob.mx/Constitucion/articulos/6.pdf">Artículo sexto de la Constitución Política de los Estados Unidos Mexicanos </a> y la <a href="http://www.infodf.org.mx/documentospdf/Ley%20de%20Transparencia,%20Acceso%20a%20la%20Informaci%C3%B3n%20P%C3%BAblica%20y%20Rendici%C3%B3n%20de%20Cuentas%20de%20la%20Ciudad%20de%20M%C3%A9xico.pdf">Ley de Transparencia, Acceso a la <br>Información Pública de la Ciudad de México</a>, los datos públicos son todos los datos en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal.
 
 
 
 Todos los datos públicos en posesión de los Órganos de la Administración Pública de la Ciudad de México, estén abiertos a la ciudadanía o no, están incluidos en la Política de Gestión de Datos.
 
-
-<img src="https://viriesc.github.io/micrositio_adip/assets/img/datos.png" alt="Imagen no fue encontrada">
+<img src="https://viriesc.github.io/micrositio_adip/assets/img/datos.jpg" alt="Imagen no fue encontrada" >
 
 
 <h4><b> ¿Cuál es la diferencia entre datos públicos y datos abiertos? </b> </h4> 

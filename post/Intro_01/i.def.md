@@ -23,11 +23,11 @@ La <a href="_layouts/loid.html">Política de Gestión de Datos</a> es el documen
 En conjunto, se compone de:
 
 
-- Marco de Gestión de Datos  <a href="https://viriesc.github.io/micrositio_adip/marco_legal"> Link a la Política de Gestión de Datos</a>
+- Marco de Gestión de Datos  <a href="https://viriesc.github.io/micrositio_adip/post/Intro_01/v.modelo.html"> Link al Marco Legal</a>
 
-- Modelo de Madurez <a href="https://viriesc.github.io/micrositio_adip/post/Intro_01/vi.modelo.html">Link a sección del Datálogo</a>
+- Modelo de Madurez <a href="https://viriesc.github.io/micrositio_adip/post/Intro_01/vi.modelo.html">Link al Modelo de Madurez</a>
 
-- Lineamientos, estándares y buenas prácticas <a href="https://viriesc.github.io/micrositio_adip/marco_legal">Link al Marco Legal</a>
+- Lineamientos, estándares y buenas prácticas <a href="https://viriesc.github.io/micrositio_adip/marco_legal">Link a Lineamientos</a>
 <br><br>
 
 <h4><b>¿Para qué gestionar datos?</b></h4>
