@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Tutoriales
-permalink: /cultura/tutoriales
+title: Guias prácticas
+permalink: /cultura/guias
 parent: Cultura de datos
 nav_order: 2
 

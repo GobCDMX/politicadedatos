@@ -15,7 +15,7 @@ search.heading_level: 2
 
 Para efectos de la Política de Gestión de Datos (link al doc normativo), los datos son aquellos registros, ya sean numéricos o textuales, que describen las características o atributos de cualquier evento, individuo o cosa, y que son producidos, procesados y/o albergados digitalmente en diversos recursos de tecnologías de información. 
 
-Los  <a href="https://viriesc.github.io/micrositio_adip/cultura/glosario">Recursos de Tecnologías de la Información</a> son: 
+Los  <a href="https://viriesc.github.io/micrositio_adip/cultura/glosario/#rti">Recursos de Tecnologías de la Información</a> son: 
 - Conjuntos y bases de datos
 - Aplicaciones y sistemas de información digitales
 - Tecnología (hardware, software, sistemas operativos, sistemas manejadores de bases de datos, redes, entre otros). 

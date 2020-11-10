@@ -2,7 +2,7 @@
 layout: default
 title: Cultura de datos
 permalink: /Cultida/guias
-nav_order: 4
+nav_order: 3
 has_children: true
 ---
 <div class="nonfooter text-justify ">

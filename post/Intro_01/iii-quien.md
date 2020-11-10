@@ -15,7 +15,7 @@ nav_order: 2
 <b>Agencia Digital de Innovación Pública </b>
 
 
-La Agencia Digital de Innovación Pública de la Ciudad de México (ADIP) es el Órgano de la Administración Pública responsable del diseño, ejecución y supervisión de la política de gestión de datos <a href="https://viriesc.github.io/micrositio_adip/loid/#adip-at">Artículo 14 de la Ley de Operación e Innovación Digital para la Ciudad de México </a>. 
+La Agencia Digital de Innovación Pública de la Ciudad de México (ADIP) es el Órgano de la Administración Pública responsable del diseño, ejecución y supervisión de la política de gestión de datos <a target="_blank" href="https://viriesc.github.io/micrositio_adip/loid/#adip-at">Artículo 14 de la Ley de Operación e Innovación Digital para la Ciudad de México </a>. 
 
 <b>Órganos de la Administración Pública</b>
 <br>
@@ -24,7 +24,7 @@ Los Órganos de la Administración Pública son todas las Dependencias, Órganos
 Obligaciones (link al artículo de obligaciones en materia de gestión de datos): 
 
 - Cumplir y hacer cumplir la normatividad que emita la Agencia con motivo de la aplicación de la Política;
-- Habilitar a las personas  <a href="https://viriesc.github.io/micrositio_adip/loid/#oficial-info">Oficiales de Información</a>.
+- Habilitar a las personas  <a target="_blank" href="https://viriesc.github.io/micrositio_adip/loid/#oficial-info">Oficiales de Información</a>.
 - Participar en las <a href="https://viriesc.github.io/micrositio_adip/plaza-publica/">Mesas Técnicas Interinstitucionales</a> ; (link al artículo específico de la Política) 
 - Participar en la creación y actualización del Inventario de Datos; (link al artículo específico de la LOID y Política) 
 - Participar en el Plan de Apertura de Datos de la Administración Pública; (link al artículo específico de la LOID y Política) 

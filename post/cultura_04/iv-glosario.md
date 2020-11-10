@@ -261,7 +261,7 @@ nav_order: 4
               <td class="column0 style6 s">HTTP</td>
               <td class="badge  text-wrap">Siglas en inglés de HyperText Transfer Protocol, es un protocolo de transferencia de comunicación mediante hipertextos, como HTML. Sigue un modelo cliente-servidor, en el que el cliente establece una conexión realizando una petición a un servidor quien envía la rspuesta. Este protocolo no guarda ningún dato o estado sobre las peticiones. <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver: HTML</span><span style="color:#000000; font-family:'Arial'; font-size:10pt"> </span></td>
             </tr>
-            <tr class="row54">
+            <tr class="row54" id="info">
               <td class="column0 style4 s">Información</td>
               <td class="badge  text-wrap  ">Todo archivo, registro o dato contenido en cualquier medio, documento o registro impreso, óptico, electrónico, magnético, químico, físico o biológico que se encuentre en poder de los Entes Públicos.<br />
          <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver: Ley de Transparencia, Acceso a la Información y Transparencia Gubernamental de la Ciudad de México. </span></td>
@@ -302,7 +302,7 @@ nav_order: 4
               <td class="column0 style4 s">Marco de descripción de recursos. </td>
               <td class="badge  text-wrap  ">Ver RDF</td>
             </tr>
-            <tr class="row64">
+            <tr class="row64" id="meta">
               <td class="column0 style6 s">Metadatos</td>
               <td class="badge  text-wrap  ">Los metadatos son datos que describen las características y propiedades de los datos; sirven para que las personas usuarias puedan buscar y consultar datos de forma más efectiva y eficiente, así como para la conformación de catálogos de datos.</td>
             </tr>
@@ -329,6 +329,12 @@ nav_order: 4
             <tr class="row70">
               <td class="column0 style4 s">Raw Data</td>
               <td class="badge  text-wrap  "><span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver Datos primarios</span><span style="color:#000000; font-family:'Arial'; font-size:10pt"> </span></td>
+            </tr>
+            <tr class="row70-1" id="rti">
+              <td class="column0 style4 s">Recursos de tecnologías de información </td>
+              <td class="badge  text-wrap  ">
+            Son los conjuntos de datos, bases de datos, aplicaciones y sistemas de información digitales, tecnología (hardware, software, sistemas operativos, sistemas manejadores de bases de datos, redes, y demás aplicables) e instalaciones (recursos para alojar y dar soporte a los sistemas de información) en posesión de los Entes
+            </td>
             </tr>
             <tr class="row71">
               <td class="column0 style4 s">REST</td>
