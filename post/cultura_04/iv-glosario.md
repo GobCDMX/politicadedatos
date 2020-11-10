@@ -15,8 +15,8 @@ nav_order: 4
       <th><h3>Término</h3></th>
       <th><h3>Definición</h3></th>
       </thead>
-          <tbody>
-            <tr class="row1">
+        <tbody>
+          <tr class="row1">
               <td>Accesibilidad </td>
               <td   class="badge  text-wrap">El grado de sencillez y claridad con el que las personas usuarias pueden acceder, localizar, disponer, entender y obtener los datos. Según si están disponibles para la gama más amplia de usuarios para cualquier propósito, así como disponibles en un lenguaje y medios claros y asequibles. <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver: calidad de los datos </span></td>
             </tr>
@@ -146,7 +146,7 @@ nav_order: 4
               <td class="badge  text-wrap  ">Datos que se encuentran organizados de acuerdo a un esquema fijo y usualmente están incorporados en una base de datos relacional u hojas de cálculo; es decir, organizados en filas, columnas y tablas, con títulos para cada categoría que permite identificarlos. Los datos estructurados están escritos de tal forma que los motores de búsqueda entienden el contenido. Para gestionar este tipo de datos se utiliza un tipo de lenguaje de programación estructurado, conocido como SQL (Structured Query Language) diseñado para administrar y recuperar información de sistemas de gestión de bases de datos relacionales. Ejemplo de formatos de datos estructurados son XML, JSON y JSON-LD.<br />
             <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver: SQL</span></td>
             </tr>
-            <tr class="row30">
+            <tr class="row30" id="datos_nos">
               <td class="column0 style4 s">Datos no estructurados</td>
               <td class="badge  text-wrap  ">Son los datos binarios que no tienen una estructura interna identificable. Por tanto, deben identificarse y almacenarse de forma organizada a través de una base de datos no relacional (NoSQL). Pueden ser textuales, numéricos, generados por humanos o por computadora. <br />
             &nbsp;<br />

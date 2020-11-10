@@ -1,15 +1,14 @@
 ---
 layout: default
-title: ¿Qué es un diccionario de datos?
-permalink: /Cultura/definiciones
-parent: Cultura de datos
+title: Diccionario
+permalink: /Cultura/guias/diccionario
+parent: Guías prácticas
+grand_parent: Cultura de datos
 nav_order: 1
 
 ---
 
-
-
-<h4><b>Qué es un diccionario de datos:</b></h4>( ejemplos y recomendaciones)
+<h2>Qué es un diccionario de datos:</h2>( ejemplos y recomendaciones)
 
 
 
@@ -49,17 +48,17 @@ Integración de datos: definiciones claras de los elementos del conjunto de dato
 <h4><b>Ejemplos de algunos diccionarios de datos:
 </b></h4>
 
-* Diccionario de datos del Portal de Datos Abiertos de la Ciudad de México: https://datos.cdmx.gob.mx/api/datasets/1.0/capacidad-hospitalaria/attachments/capacidad_hospitalaria_micrositio_diccionario_de_datos_csv/
+* <a href="https://datos.cdmx.gob.mx/api/datasets/1.0/capacidad-hospitalaria/attachments/capacidad_hospitalaria_micrositio_diccionario_de_datos_csv/">Diccionario de datos del Portal de Datos Abiertos de la Ciudad de México</a>  
 
-* Diccionario de datos elaborado por el Instituto Nacional de Estadística y Geografía (INEGI): https://www.inegi.org.mx/rnm/index.php/catalog/214/datafile/F23
+* <a href="https://www.inegi.org.mx/rnm/index.php/catalog/214/datafile/F23">Diccionario de datos elaborado por el Instituto Nacional de Estadística y Geografía (INEGI)</a> 
 
-* Diccionario de datos elaborado por la Secretaría de Salud Federal: http://epidemiologia.salud.gob.mx/gobmx/salud/datos_abiertos/diccionario_datos_covid19.zip
+* <a href="http://epidemiologia.salud.gob.mx/gobmx/salud/datos_abiertos/diccionario_datos_covid19.zip">Diccionario de datos elaborado por la Secretaría de Salud Federal: </a>
  
-* Diccionario de datos elaborado por el Banco Mundial: https://microdata.worldbank.org/index.php/catalog/2909/data-dictionary/F6?file_name=mpi_2015_appendix 
+* <a href="https://microdata.worldbank.org/index.php/catalog/2909/data-dictionary/F6?file_name=mpi_2015_appendix">Diccionario de datos elaborado por el Banco Mundial:</a>  
 
-* Diccionario de datos elaborado por la NASA: https://pds.nasa.gov/tools/dd-search/ 
+* <a href="https://pds.nasa.gov/tools/dd-search/">Diccionario de datos elaborado por la NASA</a>
 
-* Diccionario de datos de la Administración Oceánica y Nacional de Estados Unidos: https://deepseacoraldata.noaa.gov/internal-documents/program-guidance/science-team-guidance-for-data-management/20170707.xlsx/view 
-
+* <a href=" https://deepseacoraldata.noaa.gov/internal-documents/program-guidance/science-team-guidance-for-data-management/20170707.xlsx/view ">Diccionario de datos de la Administración Oceánica y Nacional de Estados Unidos</a> 
+<br>
 Muy pronto la Agencia estará emitiendo un estándar para la elaboración de Diccionarios de Datos, como una buena práctica en la gestión y documentación de los datos. ¡Espera noticias por este medio!
 

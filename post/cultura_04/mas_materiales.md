@@ -1,25 +1,15 @@
 ---
 layout: default
-title: Guias prácticas
-permalink: /cultura/guias
+title: Material Adicional
+permalink: /cultura/material_adicional
 parent: Cultura de datos
-nav_order: 2
+nav_order: 3
 
 ---
 <div class="nonfooter">
-<h2><b>Tutoriales</b></h2>
+<h2><b>Material Adicional</b></h2>
 
-<h3>Presentaciones introductorias </h3>
 
-<ol>
-    <li> <a href="https://docs.google.com/presentation/d/1zQIOzQG5LzO2m7FzXJpTWlfPCjLO8agNbMcuZZBhLEY/edit#slide=id.ga8a5ff02d5_0_0">Introducción a la Política de Gestión de Datos</a></li>
-   <li><a href="">Introducción a conjuntos de datos y bases de datos </a>  </li>
-    <li><a href="https://docs.google.com/presentation/d/1-W55jxRSyUMlo9gtWI7UFsRJXOPnALfcDf58XHN7iI0/edit?usp=sharing">Introducción a los metadatos</a> </li>
-</ol>
-
-<br>
-
-<h3>Materiales de escuela de datos </h3>
 
 <ul>
     <li><a href="https://escueladedatos.online/como-empezar-mi-propia-aventura-con-datos/">¿Cómo empezar mi propia aventura con datos?</a> </li>

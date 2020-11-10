@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Introducción a la gestion de datos
-permalink: /cultura/guias
-nav_order: 4
-has_children: true
+permalink: /cultura/intro
+nav_order: 1
+parent: Cultura de datos
 ---
-
 <div class="nonfooter text-justify ">
 
 <h2>Cutura de Datos</h2>
@@ -20,6 +19,8 @@ El desarrollo de una cultura de datos es fundamental porque las personas son la 
 </p> <br>
 
 ¡Para promoverla, estamos desarrollando distintos materiales que podrás explorar aquí!
+
+<h3>Introducción a la Gestión de datos</h3>
 
 <ul>
 <li> <a target="_blank" href="https://viriesc.github.io/micrositio_adip/assets/ppts/2. Intro_politica.pdf"  download="Intro a politica.pdf">Introducción a la Política de Gestión de Datos</a> </li>

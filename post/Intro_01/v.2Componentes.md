@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Componentes 
-parent: Modelo de gestión de datos
+parent: Marco para la Gestión de Datos
 grand_parent: Sobre la politica de gestión de datos
 ---
 <h1>Componentes del MGD-CDMX</h1> <br>
@@ -10,12 +10,12 @@ grand_parent: Sobre la politica de gestión de datos
         <div class="list-group" id="list-tab" role="tablist">
           <a class="list-group-item list-group-item-action active" id="gobernanza" data-toggle="list" href="#list-home" role="tab" aria-controls="home">i.Gobernanza y cultura de datos</a>
           <a class="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">ii.Calidad de datos</a>
-          <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab" aria-controls="messages">III. Seguridad de los datos</a>
-          <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">IV. Gestión de metadatos</a>
-          <a class="list-group-item list-group-item-action" id="datos-maestros" data-toggle="list" href="#datos-m" role="tab" aria-controls="settings">VI. Datos maestros y de referencia</a>
-          <a class="list-group-item list-group-item-action" id="list-arqui-list" data-toggle="list" href="#list-arqui" role="tab" aria-controls="settings">V. Arquitectura de datos</a>
-          <a class="list-group-item list-group-item-action" id="list-gestion-list" data-toggle="list" href="#list-gestion" role="tab" aria-controls="settings">VI. Gestión de datos no estructurados</a>
-          <a class="list-group-item list-group-item-action" id="list-int-list" data-toggle="list" href="#list-integracion" role="tab" aria-controls="settings">VII. Integración e inteligencia de datos:</a>
+          <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab" aria-controls="messages">iii. Seguridad de los datos</a>
+          <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">iv. Gestión de metadatos</a>
+          <a class="list-group-item list-group-item-action" id="datos-maestros" data-toggle="list" href="#datos-m" role="tab" aria-controls="settings">v. Datos maestros y de referencia</a>
+          <a class="list-group-item list-group-item-action" id="list-arqui-list" data-toggle="list" href="#list-arqui" role="tab" aria-controls="settings">vi. Arquitectura de datos</a>
+          <a class="list-group-item list-group-item-action" id="list-gestion-list" data-toggle="list" href="#list-gestion" role="tab" aria-controls="settings">vii. Gestión de datos no estructurados</a>
+          <a class="list-group-item list-group-item-action" id="list-int-list" data-toggle="list" href="#list-integracion" role="tab" aria-controls="settings">viii. Integración e inteligencia de datos:</a>
         </div>
       </div>
       
@@ -98,9 +98,9 @@ la integridad, confidencialidad y privacidad de los datos. <br>
 </p><br>
     <p>Ejemplos de estándares: </p>
     <ul>
-    <li>  Metadata Object Description Schema (MODS) (link)</li>
-    <li>  Dublin Core (DC) (link)</li>
-    <li>Data Catalog Vocabulary (DCAT) (link)</li>
+    <li> <a href="https://www.loc.gov/standards/mods/">Metadata Object Description Schema (MODS)  </a>  </li>
+    <li> <a href="https://www.dublincore.org/">Dublin Core (DC) (link)</a> </li>
+    <li> <a href="https://www.w3.org/TR/vocab-dcat-2/">Data Catalog Vocabulary (DCAT) </a></li>
     </ul>
 
 </div>
@@ -126,9 +126,7 @@ Para establecer los datos maestros y de referencia más importantes de la Ciudad
 <div class="tab-pane fade" id="list-arqui" role="tabpanel" aria-labelledby="list-arqui-list">
 <h3>Arquitectura de datos</h3>
 <p>la alineación de los modelos de datos, sistemas de información e infraestructura tecnológica con los objetivos institucionales estratégicos. 
-
-    
-    </p>
+</p>
 <p> La definición de las arquitecturas de bases de datos, la infraestructura tecnológica más adecuada, y modelado de los datos para que faciliten el cumplimiento de los objetivos institucionales estratégicos mediante el uso efectivo y eficiente de los datos. 
 </p>
 <p>  ¿Para qué? Asegurar la integración e interoperabilidad de los datos mediante arquitecturas, modelos y diseños de datos estandarizados.  
@@ -138,7 +136,7 @@ Para establecer los datos maestros y de referencia más importantes de la Ciudad
 <div class="tab-pane fade" id="list-gestion" role="tabpanel" aria-labelledby="list-gestion-list">
 <h3>Gestión de datos no estructurados</h3>
     <p>
-    Actividades de almacenamiento, protección, acceso y recuperación de los datos no estructurados (ver glosario: datos no estructurados). 
+    Actividades de almacenamiento, protección, acceso y recuperación de los datos no estructurados  <a href="https://viriesc.github.io/micrositio_adip/cultura/glosario/#datos_nos">datos no estructurados</a>
 </p>
     <p> Pueden ser: texto, gráficas, imágenes, correos electrónicos, audio y/o video, los cuales podrían contener datos valiosos a ser gestionados. 
 </p>

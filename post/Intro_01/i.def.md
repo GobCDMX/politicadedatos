@@ -34,4 +34,4 @@ En conjunto, se compone de:
  
 Los datos mal gestionados son datos de mala calidad, poco seguros y difíciles de integrar con otros. Esto significa que los costos y riesgos asociados a su utilización aumentan, dificultando su uso y aprovechamiento. Cuando hay una buena gestión de datos es más fácil protegerlos, aprovecharlos e incrementar su valor. 
 
-Al mejorar su la gestión de los datos de la Administración Pública, se facilitará su uso el uso de estos como una herramienta de trabajo para plantear, ejecutar y evaluar la política pública de la CDMX. 
+Al mejorar  la gestión de los datos de la Administración Pública, se facilitará su uso de estos como una herramienta de trabajo para plantear, ejecutar y evaluar la política pública de la CDMX. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modelo de gestión de datos
+title: Marco para la Gestión de Datos
 parent: Sobre la politica de gestión de datos
 nav_order: 4
 has_children: true

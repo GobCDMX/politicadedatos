@@ -15,11 +15,11 @@ nav_order: 2
 <b>Agencia Digital de Innovación Pública </b>
 
 
-La Agencia Digital de Innovación Pública de la Ciudad de México (ADIP) es el Órgano de la Administración Pública responsable del diseño, ejecución y supervisión de la política de gestión de datos <a target="_blank" href="https://viriesc.github.io/micrositio_adip/loid/#adip-at">Artículo 14 de la Ley de Operación e Innovación Digital para la Ciudad de México </a>. 
+La Agencia Digital de Innovación Pública de la Ciudad de México (ADIP) es el Ente de la Administración Pública responsable del diseño, ejecución y supervisión de la política de gestión de datos <a target="_blank" href="https://viriesc.github.io/micrositio_adip/loid/#adip-at">Artículo 14 de la Ley de Operación e Innovación Digital para la Ciudad de México </a>. 
 
-<b>Órganos de la Administración Pública</b>
+<b>Entes de la Administración Pública</b>
 <br>
-Los Órganos de la Administración Pública son todas las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías del Gobierno de la Ciudad de México. 
+Los Entes de la Administración Pública son todas las Dependencias, Entes Desconcentrados, Entidades y Alcaldías del Gobierno de la Ciudad de México. 
 
 Obligaciones (link al artículo de obligaciones en materia de gestión de datos): 
 
@@ -32,11 +32,11 @@ Obligaciones (link al artículo de obligaciones en materia de gestión de datos)
 
 <b>Oficiales de Información</b> <br>
 
-Las personas Oficiales de Información son el enlace entre la Agencia y los Órganos de la Administración Pública para la coordinación e implementación de las disposiciones en materia de gestión de datos, entre otras. 
+Las personas Oficiales de Información son el enlace entre la Agencia y los Entes de la Administración Pública para la coordinación e implementación de las disposiciones en materia de gestión de datos, entre otras. 
 
 Consulta aquí las funciones de los Oficiales de Información 
 
-Consulta aquí el Directorio de Oficiales de Información para ver quién coordina la Política de Gestión de Datos en cada Órgano de la Administración Pública. 
+Consulta aquí el Directorio de Oficiales de Información para ver quién coordina la Política de Gestión de Datos en cada Ente de la Administración Pública. 
 
 Eres Oficial de Información y tienes dudas sobre tus funciones, contáctanos <a href="https://viriesc.github.io/micrositio_adip/contact/">aquí</a> 
 
