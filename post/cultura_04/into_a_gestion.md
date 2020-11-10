@@ -26,7 +26,7 @@ El desarrollo de una cultura de datos es fundamental porque las personas son la 
 
 <li> <a target="_blank" href="https://viriesc.github.io/micrositio_adip/assets/ppts/3. Intro_datos.pdf" download="intro a datos.pdf">Introducción a los datos</a></li>
 
-<li><a target="_blank" href="https://viriesc.github.io/micrositio_adip/assets/ppts/diccionario.pdf" download="Intro a datos.pdf">Introducción a conjuntos de datos y bases de datos</a></li> 
+<li><a target="_blank" href="https://viriesc.github.io/micrositio_adip/assets/diccionario.pdf" download="Intro a datos.pdf">Introducción a conjuntos de datos y bases de datos</a></li> 
 
 <li><a target="_blank" href="https://viriesc.github.io/micrositio_adip/assets/ppts/intro_metadatos.pdf" download="Intro a Metadatos.pdf">Introducción a los metadatos</a> </li> 
 
