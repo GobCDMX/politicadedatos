@@ -12,7 +12,7 @@ nav_order: 1
 
 El Datálogo es el Inventario de Datos de la Ciudad de México.
 
-Consiste en el conjunto de los <a href="http://localhost:4000/micrositio_adip/cultura/glosario/#meta">metatadatos </a> de los <a href="http://localhost:4000/micrositio_adip/cultura/glosario/#rti">Recursos de Tecnologías de Información </a>  de la Administración Pública de la Ciudad de México organizados en un catálogo digital para permitir su búsqueda, exploración y administración.
+Consiste en el conjunto de los <a href="https://viriesc.github.io/micrositio_adip/cultura/glosario#meta">metadatos </a> de los <a href="https://viriesc.github.io/micrositio_adip/cultura/glosario#rti">Recursos de Tecnologías de Información </a>  de la Administración Pública de la Ciudad de México organizados en un catálogo digital para permitir su búsqueda, exploración y administración.
 
 Los metadatos son los datos que describen otros datos o recursos de tecnologías de la información al proporcionar contexto sobre su contenido, características y propiedades.
 
@@ -20,7 +20,7 @@ Por lo tanto, el Datálogo no contendrá los datos mismos, sino información sob
 
 ### ¿Con qué objetivos?
 
-- Ser un instrumento para registrar e identificar de los principales <a href="http://localhost:4000/micrositio_adip/cultura/glosario/#rti">Recursos de Tecnologías de Información </a> de la Administración Pública de la Ciudad de México; 
+- Ser un instrumento para registrar e identificar de los principales <a href="https://viriesc.github.io/micrositio_adip/cultura/glosario#rti">Recursos de Tecnologías de Información </a> de la Administración Pública de la Ciudad de México; 
 - Facilitar la gestión y administración de los metadatos de los Entes Públicos;
 - Ser una herramienta de búsqueda, exploración y descubrimiento de los metadatos de la     
 - Administración Pública de la Ciudad de México; 

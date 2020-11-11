@@ -9,6 +9,7 @@ has_children: true
 
 <h2>Oficiales de Información</h2> <br>
 <input onkeyup="filterby(this.value)" value="" class="form-control" placeholder="Buscar por dependencia">
+
 <table id="dataTable">
  <tbody>
     <tr name="title">
@@ -377,54 +378,54 @@ has_children: true
           <td>No disponible</td>
           <td>No disponible</td>
         </tr>
-        <tr class="row60">
+        <tr class="row61">
           <td >Secretaría de Turismo de la Ciudad de México</td>
           <td >Lídice Rocha Marenco</td>
           <td>52 55 52 86 70 97</td>
           <td>mcabrerat@turismo.cdmx.gob.mx</td>
         </tr>
-        <tr class="row60">
+        <tr class="row62">
           <td >Secretaría de Gestión Integral de Riesgos y Protección Civil</td>
           <td >Rafael Humberto Cambranis Marin</td>
           <td>52 55 570 56 670</td>
           <td>rmarinc@sgirpc.cdmx.gob.mx</td>
         </tr>
-        <tr class="row60">
+        <tr class="row63">
           <td >Instituto de Verificación administrativa  de la Ciudad de México</td>
           <td >Christian Castro Martínez</td>
           <td>52 55 473 77 700</td>
           <td>ccastrom@cdmx.gob.mx</td>
         </tr>
-        <tr class="row60">
+        <tr class="row65">
           <td >Instituto de Verificación administrativa  de la Ciudad de México</td>
           <td >Lídice Rocha Marenco</td>
           <td>No disponible</td>
           <td>No disponible</td>
         </tr>
-        <tr class="row60">
+        <tr class="row66">
           <td >Secretaría de Desarrollo Urbano y Vivienda</td>
           <td >Fernando Ham Scott</td>
           <td>52 555 130 21 00</td>
           <td>fham@seduvi.cdmx.gob.mx</td>
         </tr>
-        <tr class="row60">
+        <tr class="row67">
           <td >Alcaldía Iztacalco</td>
           <td >Rosendo Martínez López</td>
           <td>52 555 65 43 133</td>
           <td>rmartinez-informatica@iztacalco.cdmx.gob.mx</td>
-        <tr class="row60">
+        <tr class="row68">
           <td >Comisión para la Reconstrucción de la Ciudad de México</td>
           <td >Sin Designar</td>
           <td>No disponible</td>
           <td>No disponible</td>
         </tr>
-        <tr class="row60">
+        <tr class="row69">
           <td >Régimen de Protección Social en Salud</td>
           <td >Sin Designar</td>
           <td>No disponible</td>
           <td>No disponible</td>
         </tr>
-        <tr class="row60">
+        <tr class="row70">
           <td >Sistema Público de Radiodifusión de la Ciudad de México</td>
           <td >Sin Designar</td>
           <td>No disponible</td>
@@ -545,7 +546,7 @@ has_children: true
           <td>No disponible</td>
         </tr>
         <tr class="row60">
-          <td >Alcaldía Magdalena Contreras/td>
+          <td >Alcaldía Magdalena Contreras </td>
           <td >Sin Designar</td>
           <td>No disponible</td>
           <td>No disponible</td>

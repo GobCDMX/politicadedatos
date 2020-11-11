@@ -23,9 +23,10 @@ Los Entes de la Administración Pública son todas las Dependencias, Entes Desco
 
 Obligaciones (link al artículo de obligaciones en materia de gestión de datos): 
 
+
 - Cumplir y hacer cumplir la normatividad que emita la Agencia con motivo de la aplicación de la Política;
 - Habilitar a las personas  <a target="_blank" href="https://viriesc.github.io/micrositio_adip/loid/#oficial-info">Oficiales de Información</a>.
-- Participar en las <a href="https://viriesc.github.io/micrositio_adip/plaza-publica/">Mesas Técnicas Interinstitucionales</a> ; (link al artículo específico de la Política) 
+- Participar en las Mesas Técnicas Interinstitucionales ; 
 - Participar en la creación y actualización del Inventario de Datos; (link al artículo específico de la LOID y Política) 
 - Participar en el Plan de Apertura de Datos de la Administración Pública; (link al artículo específico de la LOID y Política) 
 - Participar en las capacitaciones que se estimen necesarias; 
@@ -34,9 +35,10 @@ Obligaciones (link al artículo de obligaciones en materia de gestión de datos)
 
 Las personas Oficiales de Información son el enlace entre la Agencia y los Entes de la Administración Pública para la coordinación e implementación de las disposiciones en materia de gestión de datos, entre otras. 
 
-Consulta aquí las funciones de los Oficiales de Información 
+Consulta aquí las <a target="_blank" href="https://viriesc.github.io/micrositio_adip/loid/#oficial-info">funciones de los Oficiales de Información</a>.   
 
-Consulta aquí el Directorio de Oficiales de Información para ver quién coordina la Política de Gestión de Datos en cada Ente de la Administración Pública. 
+Consulta aquí el <a href="https://viriesc.github.io/micrositio_adip/directorio/">Directorio de Oficiales de Información</a> para ver quién coordina la Política de Gestión de Datos en cada Ente de la Administración Pública. 
 
-Eres Oficial de Información y tienes dudas sobre tus funciones, contáctanos <a href="https://viriesc.github.io/micrositio_adip/contact/">aquí</a> 
+
+¿Eres Oficial de Información y tienes dudas sobre tus funciones?, contáctanos <a href="https://viriesc.github.io/micrositio_adip/contact/">aquí</a> 
 

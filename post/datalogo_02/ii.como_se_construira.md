@@ -8,7 +8,7 @@ nav_order: 2
 
 ## ¿Cómo se llevará a cabo?
 
-La información del Datálogo se recabará en fases graduales, en las cuales se recolectarán los metadatos de los principales <a href="https://viriesc.github.io/micrositio_adip/cultura/glosario/#rti">recursos de tecnologías de información</a> de la Administración Pública de la Ciudad de México.
+La información del Datálogo se recabará en fases graduales, en las cuales se recolectarán los metadatos de los principales <a href="https://viriesc.github.io/micrositio_adip/cultura/glosario#rti">Recursos de Tecnologías de Información</a> de la Administración Pública de la Ciudad de México.
 
 Cada una de las fases de recolección consistirá en una serie de formularios digitales que serán enviados a los Entes Públicos, mediante los <a href="https://viriesc.github.io/micrositio_adip/sobre/comocumplir">Oficiales de Información</a>, en los que se solicitarán los metadatos de recursos de tecnologías de información específicos.
 

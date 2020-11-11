@@ -13,7 +13,7 @@ Como Oficial de Información, participarás en proyectos estratégicos del Gobie
 
 Además de fungir como enlace con la Agencia Digital de Innovación Pública, deberás implementar las disposiciones establecidas en la Política de Gestión de Datos y vigilar el cumplimiento de las obligaciones de los entes en la materia, entre otras cosas. 
 
-Funciones  (Link al artículo 13 de la LOID): 
+<a target="_blank" href="https://viriesc.github.io/micrositio_adip/loid/#oficial-info">Funciones </a> 
 
 - Difundir y socializar las disposiciones en materia de gestión de datos al interior de sus Entes, y vigilar su cumplimiento. 
 - Coordinar la recopilación de los metadatos y otra información relativa al Inventario de Datos (Datálogo) de la Ciudad de México. 
