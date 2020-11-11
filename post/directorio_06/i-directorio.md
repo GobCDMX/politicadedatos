@@ -569,6 +569,5 @@ has_children: true
           <td>No disponible</td>
           <td>No disponible</td>
        </tr>
-  </tbody>
-</table>
+
 

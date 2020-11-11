@@ -8,7 +8,7 @@ nav_order: 1
 
 ---
 
-<h2>Qué es un diccionario de datos:</h2>( ejemplos y recomendaciones)
+<h2>Qué es un diccionario de datos:</h2>
 
 
 
@@ -30,22 +30,22 @@ Los diccionarios de datos nos permiten entender e interpretar un conjunto de dat
 
 Los conjuntos o bases de datos sin un diccionario de datos pueden derivar en malas interpretaciones y mal uso de los datos. En algunos casos, los datos son inutilizables ya que su interpretación se vuelve imposible. 
 
-<h4><b>¿Para qué se usan los diccionarios de datos? 
+<h4><b>¿Para qué se usan los diccionarios de datos? <br>
 </b></h4>
 Documentar: proveen detalles sobre la estructura de los datos a las personas usuarias, desarrolladores, u otros actores interesados. 
 Comunicar: proveen a las personas usuarias de vocabulario y definiciones comunes para el intercambio de datos y uso de los datos. 
 
 Integración de datos: definiciones claras de los elementos del conjunto de datos, bases de datos y/o sistema, proveen comprensión sobre el contexto necesario para decidir cómo integrar los datos en distintos subsistemas.
 
-<h4><b>Principios de los diccionarios de datos
+<h4><b>Principios de los diccionarios de datos  <br>
 </b></h4>
 
 - Los diccionarios de datos están diseñados para facilitar la comprensión y proveer de sentido, por tanto deben documentar la existencia, el significado y el uso de cada elemento del conjunto y/o base de datos.
 - Los diccionarios de datos deben ser accesibles para todas las personas usuarias que ingresan y extraen datos.
-- Las personas responsables de los datos deben mantener actualizados el contenido del diccionario de datos, incluidas sus definiciones y sus valores.
+- Las personas responsables de los datos deben mantener actualizado el contenido del diccionario de datos, incluidas sus definiciones y sus valores.
 - Los diccionarios de datos deben revisarse periódicamente para garantizar su vigencia.
 
-<h4><b>Ejemplos de algunos diccionarios de datos:
+<h4><b>Ejemplos de algunos diccionarios de datos: <br>
 </b></h4>
 
 * <a href="https://datos.cdmx.gob.mx/api/datasets/1.0/capacidad-hospitalaria/attachments/capacidad_hospitalaria_micrositio_diccionario_de_datos_csv/">Diccionario de datos del Portal de Datos Abiertos de la Ciudad de México</a>  
@@ -59,6 +59,6 @@ Integración de datos: definiciones claras de los elementos del conjunto de dato
 * <a href="https://pds.nasa.gov/tools/dd-search/">Diccionario de datos elaborado por la NASA</a>
 
 * <a href=" https://deepseacoraldata.noaa.gov/internal-documents/program-guidance/science-team-guidance-for-data-management/20170707.xlsx/view ">Diccionario de datos de la Administración Oceánica y Nacional de Estados Unidos</a> 
-<br>
+<br><br>
 Muy pronto la Agencia estará emitiendo un estándar para la elaboración de Diccionarios de Datos, como una buena práctica en la gestión y documentación de los datos. ¡Espera noticias por este medio!
 

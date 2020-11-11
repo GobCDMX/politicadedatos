@@ -26,10 +26,10 @@ Obligaciones (link al artículo de obligaciones en materia de gestión de datos)
 
 - Cumplir y hacer cumplir la normatividad que emita la Agencia con motivo de la aplicación de la Política;
 - Habilitar a las personas  <a target="_blank" href="https://viriesc.github.io/micrositio_adip/loid/#oficial-info">Oficiales de Información</a>.
-- Participar en las Mesas Técnicas Interinstitucionales ; 
-- Participar en la creación y actualización del Inventario de Datos; (link al artículo específico de la LOID y Política) 
-- Participar en el Plan de Apertura de Datos de la Administración Pública; (link al artículo específico de la LOID y Política) 
-- Participar en las capacitaciones que se estimen necesarias; 
+- Participar en las <a href="https://viriesc.github.io/micrositio_adip/mesa_tec/"> Mesas Técnicas Interinstitucionales </a>
+- Participar en la creación y actualización del Inventario de Datos
+- Participar en el Plan de Apertura de Datos de la Administración Pública
+- Participar en las capacitaciones que se estimen necesarias 
 
 <b>Oficiales de Información</b> <br>
 

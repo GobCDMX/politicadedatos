@@ -122,7 +122,7 @@ nav_order: 4
               <td class="column0 style4 s">Dataset</td>
               <td class="badge  text-wrap">Ver conjunto de datos. </td>
             </tr>
-                <tr class="row27">
+                <tr class="row27" id="dabiertos">
                   <td class="column0 style4 s">Datos abiertos</td>
                   <td class="badge  text-wrap  ">Los datos abiertos son datos que pueden ser utilizados, reutilizados y redistribuidos libremente por cualquier persona, sin ningún tipo de restricción económica o de cualquier otro. Tienen las siguientes características: <br />
       a) Accesibles: Los datos están disponibles para la gama más amplia de usuarios, para cualquier propósito; <br />
