@@ -9,7 +9,9 @@ nav_order: 3
 <div class="nonfooter">
 <h2><b>Material Adicional</b></h2>
 
+<p>La Agencia Digital de Innovación Pública y SocialTic A.C. estamos trabajando en conjunto para facilitar el aprendizaje en cultura de datos de las y los servidores públicos. Aquí puedes consultar algunos materiales que ellos han diseñado para Escuela de Datos en español.</p>
 
+<p>¡En <a target="_blank" href="https://escueladedatos.online/escuela-de-datos/">su página de internet</a> puedes profundizar más )!</p>
 
 <ul>
     <li><a target="_blank" href="https://escueladedatos.online/como-empezar-mi-propia-aventura-con-datos/">¿Cómo empezar mi propia aventura con datos?</a> </li>
