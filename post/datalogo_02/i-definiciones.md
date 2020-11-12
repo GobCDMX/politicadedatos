@@ -16,15 +16,13 @@ Consiste en el conjunto de los <a href="https://viriesc.github.io/micrositio_adi
 
 Los metadatos son los datos que describen otros datos o recursos de tecnologías de la información al proporcionar contexto sobre su contenido, características y propiedades.
 
-Por lo tanto, el Datálogo no contendrá los datos mismos, sino información sobre su estructura, contenido y características.
+Por lo tanto, el Datálogo <strong>no contendrá los datos mismos</strong>, sino información sobre su estructura, contenido y características.
 
-### ¿Con qué objetivos?
+El Datálogo servirá para:
 
-- Ser un instrumento para registrar e identificar de los principales <a href="https://viriesc.github.io/micrositio_adip/cultura/glosario#rti">Recursos de Tecnologías de Información </a> de la Administración Pública de la Ciudad de México; 
-- Facilitar la gestión y administración de los metadatos de los Entes Públicos;
-- Ser una herramienta de búsqueda, exploración y descubrimiento de los metadatos de la     
-- Administración Pública de la Ciudad de México; 
-- Analizar y evaluar las necesidades tecnológicas e informáticas para gestionar los datos en posesión de los Entes Públicos;
-- Promover una cultura de datos y prácticas de gestión de metadatos; 
-- Facilitar el intercambio de datos entre los Entes Públicos al proporcionar información sobre los datos en su posesión, sus características y el estado en que se encuentran; y
-- Constituirse en una herramienta de transparencia proactiva al posibilitar un análisis más sencillo y oportuno de los datos que pueden abrirse al público. 
+- Identificar, registrar y enumerar los recursos de tecnologías de información (link al glosario) de la Administración Pública de la Ciudad de México.
+- Buscar, explorar y descubrir los metadatos de la Administración Pública.
+- Facilitar la gestión y administración de los metadatos de los Entes Públicos.
+- Facilitar el intercambio de datos entre los Entes de la Administración Pública al proporcionar información sobre los datos en su posesión, sus características y el estado en que se encuentran.
+- Analizar y evaluar las necesidades tecnológicas e informáticas para gestionar los datos de la Ciudad de México.
+- Promover una cultura de datos y prácticas de gestión de datos.
