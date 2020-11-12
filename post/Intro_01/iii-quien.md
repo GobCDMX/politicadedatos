@@ -26,7 +26,7 @@ Obligaciones (link al artículo de obligaciones en materia de gestión de datos)
 - Cumplir y hacer cumplir la normatividad que emita la Agencia con motivo de la aplicación de la Política;
 - Habilitar a las personas  <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#oficial-info">Oficiales de Información</a>.
 - Participar en las <a href="https://gobcdmx.github.io/politicadedatos/mesa_tec/"> Mesas Técnicas Interinstitucionales </a>
-- Participar en la creación y actualización del Inventario de Datos
+- Participar en la creación y actualización del <a href="https://gobcdmx.github.io/politicadedatos/datalogo">Inventario de Datos</a>
 - Participar en el Plan de Apertura de Datos de la Administración Pública
 - Participar en las capacitaciones que se estimen necesarias
 
