@@ -165,7 +165,7 @@ Para establecer los datos maestros y de referencia más importantes de la Ciudad
 <div class="tab-pane fade" id="list-gestion" role="tabpanel" aria-labelledby="list-gestion-list">
 <h3>Gestión de datos no estructurados</h3>
     <p>
-    Actividades de almacenamiento, protección, acceso y recuperación de los datos no estructurados  <a href="https://gobcdmx.github.io/politicadedatos/cultura/glosario/#datos_nos">datos no estructurados</a>
+    Actividades de almacenamiento, protección, acceso y recuperación de los datos no estructurados  <a href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#datos_nos">datos no estructurados</a>
 </p>
     <p> Pueden ser: texto, gráficas, imágenes, correos electrónicos, audio y/o video, los cuales podrían contener datos valiosos a ser gestionados. 
 </p>

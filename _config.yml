@@ -30,6 +30,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 search_enabled: true
 author: Viridiana Escarzaga
+ga_tracking: G-5NLZBWYHCD
+ga_tracking_anonymize_ip: true
 # Build settings
 #theme: minima
 theme: "just-the-docs"
