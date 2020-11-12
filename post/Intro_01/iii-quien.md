@@ -30,8 +30,8 @@ Obligaciones (link al artículo de obligaciones en materia de gestión de datos)
 - Participar en el Plan de Apertura de Datos de la Administración Pública
 - Participar en las capacitaciones que se estimen necesarias
 
-<b>Oficiales de Información</b> <br>
-
+<b>Oficiales de Información</b>
+<br>
 Las personas Oficiales de Información son el enlace entre la Agencia y los Entes de la Administración Pública para la coordinación e implementación de las disposiciones en materia de gestión de datos, entre otras.
 
 Consulta aquí las <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#oficial-info">funciones de los Oficiales de Información</a>.   
