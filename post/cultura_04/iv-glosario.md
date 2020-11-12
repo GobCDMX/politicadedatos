@@ -8,7 +8,7 @@ nav_order: 4
 
 
 
-  <h2>Glosario de Gestión de datos <h2> 
+  <h2>Glosario <h2> 
 
   <table>
       <thead> 
