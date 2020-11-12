@@ -66,7 +66,7 @@ nav_order: 8
 <div class="card-body">
     <ol>
         <li>
-            <a href="https://viriesc.github.io/micrositio_adip/sobre/comocumplir">Funciones del Oficial de Información</a>
+            <a href="https://gobcdmx.github.io/politicadedatos/sobre/comocumplir">Funciones del Oficial de Información</a>
         </li>
         <li>
             <a href="http://" target="_blank" rel="noopener noreferrer"> Artículo en La Ley de Operacion e Innovación Digital Para la ciudad de México</a>
@@ -86,7 +86,7 @@ nav_order: 8
 </div>
 <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
 <div class="card-body">
-    Aquí puedes consultar el <a href="https://viriesc.github.io/micrositio_adip/directorio/">directorio de las Personas Oficiales de Información</a> por Ente Público. 
+    Aquí puedes consultar el <a href="https://gobcdmx.github.io/politicadedatos/directorio/">directorio de las Personas Oficiales de Información</a> por Ente Público. 
     
 
 </div>

@@ -19,7 +19,7 @@ Su función es sentar las bases para la definición de objetivos claros, alcanza
 <h4><b>¿En qué consiste? </b></h4>
 El MGD-CDMX se conforma de ocho componentes, que consisten en acciones o prácticas presentes en todo el ciclo de vida de los datos: 
 
-<img src="https://viriesc.github.io/micrositio_adip/assets/img/marco_gestion.png" alt="Imagen no fue encontrada">
+<img src="https://gobcdmx.github.io/politicadedatos/assets/img/marco_gestion.png" alt="Imagen no fue encontrada">
 
 
 <h4><b>¿Para qué? </b> </h4>
@@ -54,7 +54,7 @@ Consulta aquí la versión ejecutiva (descarga de PDF) y extendida (Descarga de 
         Conjunto de reglas, actitudes y prácticas en torno a la gestión de los datos. <br>
         <br>La <b>gobernanza de datos</b> se refiere al establecimiento de reglas claras de participación, decisión y autoridad sobre los datos. Pueden ser establecidas al interior de cada Ente (de manera formal o informal); y/o, establecidas por la Agencia u otra autoridad competente en la materia. Si quieres ayudar a construir la gobernanza de datos de la Ciudad participa aquí (link a participación). 
         <br><br>
-        La <b>cultura de datos</b> se refiere al desarrollo de competencias, capacidades y habilidades que permitan comprender el valor e importancia de los datos. Para promoverla, desarrollamos distintas acciones, <a href="(https://viriesc.github.io/micrositio_adip/Cultida/guias">mira aquí</a>. 
+        La <b>cultura de datos</b> se refiere al desarrollo de competencias, capacidades y habilidades que permitan comprender el valor e importancia de los datos. Para promoverla, desarrollamos distintas acciones, <a href="(https://gobcdmx.github.io/politicadedatos/Cultida/guias">mira aquí</a>. 
         </div>
         <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
 
@@ -112,7 +112,7 @@ El grado de vigencia de los datos, entendido como el grado en el que las actuali
 Las medidas preventivas y reactivas de autenticación, autorización, acceso y monitoreo, para garantizar 
 la integridad, confidencialidad y privacidad de los datos. <br>
 
-¿Cómo mejorar la seguridad de mis datos?  <a href="https://viriesc.github.io/micrositio_adip/marco_legal">(Ir a los Lineamientos)</a>. 
+¿Cómo mejorar la seguridad de mis datos?  <a href="https://gobcdmx.github.io/politicadedatos/marco_legal">(Ir a los Lineamientos)</a>. 
 </div>
 <div class="tab-pane fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">
 <h3>Gestión de metadatos</h3> 
@@ -120,7 +120,7 @@ la integridad, confidencialidad y privacidad de los datos. <br>
 
     Pueden ser: nombre de la base de datos, sistema y/o conjunto de datos; frecuencia de actualización de los datos; cobertura geográfica; tema; entre otros. 
 
-Los metadatos serán el principal insumo del <a href="https://viriesc.github.io/micrositio_adip/datalogo">Inventario de Datos la Ciudad de México</a>.  Para que sea posible sistematizar la documentación, recolección y administración de metadatos, es necesario contar con un estándar.  
+Los metadatos serán el principal insumo del <a href="https://gobcdmx.github.io/politicadedatos/datalogo">Inventario de Datos la Ciudad de México</a>.  Para que sea posible sistematizar la documentación, recolección y administración de metadatos, es necesario contar con un estándar.  
 </p><br>
     <p>Ejemplos de estándares: </p>
     <ul>
@@ -165,7 +165,7 @@ Para establecer los datos maestros y de referencia más importantes de la Ciudad
 <div class="tab-pane fade" id="list-gestion" role="tabpanel" aria-labelledby="list-gestion-list">
 <h3>Gestión de datos no estructurados</h3>
     <p>
-    Actividades de almacenamiento, protección, acceso y recuperación de los datos no estructurados  <a href="https://viriesc.github.io/micrositio_adip/cultura/glosario/#datos_nos">datos no estructurados</a>
+    Actividades de almacenamiento, protección, acceso y recuperación de los datos no estructurados  <a href="https://gobcdmx.github.io/politicadedatos/cultura/glosario/#datos_nos">datos no estructurados</a>
 </p>
     <p> Pueden ser: texto, gráficas, imágenes, correos electrónicos, audio y/o video, los cuales podrían contener datos valiosos a ser gestionados. 
 </p>

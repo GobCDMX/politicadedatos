@@ -19,9 +19,9 @@ Queremos hacer la Política de Gestión de Datos lo más abierta y participativa
 ¡Mantente al tanto de todos los procesos de deliberación! 
 <br>
 <ul>
-<li> <a href="http://localhost:4000/micrositio_adip/plaza-publica/">Plaza Publica</a></li>
-<li><a href="https://viriesc.github.io/micrositio_adip/mesa_tec/">Mesas técnicas Interinstitucionales</a></li>
-<li><a href="https://github.com/almaosorio/micrositio_adip">Github</a></li>
+<li> <a href="https://gobcdmx.github.io/politicadedatos/plaza-publica/">Plaza Publica</a></li>
+<li><a href="https://gobcdmx.github.io/politicadedatos/mesa_tec/">Mesas técnicas Interinstitucionales</a></li>
+<li><a href="https://github.com/GobCDMX/politicadedatos">Github</a></li>
 </ul>
 
 </div>
