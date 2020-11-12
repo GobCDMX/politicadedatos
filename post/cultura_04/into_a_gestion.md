@@ -7,29 +7,22 @@ parent: Cultura de datos
 ---
 <div class="nonfooter text-justify ">
 
-<h2>Cutura de Datos</h2>
-<p class="text-muted">
-  Recomendaciones básicas para otorgar calidad a un conjunto de datos.
-</p>
+<h2>Introducción a la Gestión de Datos</h2>
 
-<p>La cultura de datos es un componente transversal del <a href="https://gobcdmx.github.io/politicadedatos/marco_legal">Marco de Gestión de Datos</a>  de la Ciudad de México  que se refiere al desarrollo de competencias, capacidades y habilidades que permitan comprender el valor e importancia de los datos.</p>
-
-<p>
-El desarrollo de una cultura de datos es fundamental porque las personas son la pieza más importante de la implementación cualquier política. Al ser la base de la Administración Pública, las acciones del día a día de las personas moldean las prácticas e instituciones en materia de datos.
+<p>Aquí puedes consultar unas presentaciones básicas sobre el objetivo de la Política de Gestión de Datos, sobre qué son los datos, la diferencia entre bases de datos y conjuntos de datos; así como sobre diccionarios de datos y metadatos.
 </p> <br>
 
-¡Para promoverla, estamos desarrollando distintos materiales que podrás explorar aquí!
 
-<h3>Introducción a la Gestión de datos</h3>
+<h3>Presentaciones</h3>
 
 <ul>
-<li> <a target="_blank" href="https://viriesc.github.io/micrositio_adip/assets/ppts/2. Intro_politica.pdf"  download="Intro a politica.pdf">Introducción a la Política de Gestión de Datos</a> </li>
+<li> <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/assets/ppts/2. Intro_politica.pdf"  download="Intro a politica.pdf">Introducción a la Política de Gestión de Datos</a> </li>
 
-<li> <a target="_blank" href="https://viriesc.github.io/micrositio_adip/assets/ppts/3. Intro_datos.pdf" download="intro a datos.pdf">Introducción a los datos</a></li>
+<li> <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/assets/ppts/3. Intro_datos.pdf" download="Intro a datos.pdf">Introducción a los datos, conjuntos de datos y bases de datos</a></li>
 
-<li><a target="_blank" href="https://viriesc.github.io/micrositio_adip/assets/diccionario.pdf" download="Intro a datos.pdf">Introducción a conjuntos de datos y bases de datos</a></li> 
+<li><a target="_blank" href="https://gobcdmx.github.io/politicadedatos/assets/diccionario.pdf" download="Intro a diccionarios.pdf">Introducción a los Diccionarios de datos</a></li>
 
-<li><a target="_blank" href="https://viriesc.github.io/micrositio_adip/assets/ppts/intro_metadatos.pdf" download="Intro a Metadatos.pdf">Introducción a los metadatos</a> </li> 
+<li><a target="_blank" href="https://gobcdmx.github.io/politicadedatos/assets/ppts/intro_metadatos.pdf" download="Intro a Metadatos.pdf">Introducción a los metadatos</a> </li>
 
 </ul>
 
