@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ¿Como se construira?
+title: ¿¿Cómo se llevará a cabo?
 parent: Datálogo de la ciudad de México
 permalink: datalogo/como_se_construira
 nav_order: 2
