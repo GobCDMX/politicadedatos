@@ -25,7 +25,7 @@ El desarrollo de una cultura de datos es fundamental porque las personas son la 
 <ul>
 <li> <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/assets/ppts/2. Intro_politica.pdf"  download="Intro a politica.pdf">Introducción a la Política de Gestión de Datos</a> </li>
 
-<li> <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/assets/ppts/3. Intro_datos.pdf" download="intro a datos.pdf">Introducción a los datos, conjuntos de datos y bases de datos</a></li>
+<li> <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/assets/ppts/3. Intro_datos.pdf" download="Intro a datos.pdf">Introducción a los datos, conjuntos de datos y bases de datos</a></li>
 
 <li><a target="_blank" href="https://gobcdmx.github.io/politicadedatos/assets/diccionario.pdf" download="Intro a diccionarios.pdf">Introducción a los Diccionarios de datos</a></li>
 
