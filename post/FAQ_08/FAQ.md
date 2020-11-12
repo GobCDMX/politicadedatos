@@ -69,7 +69,7 @@ nav_order: 8
             <a href="https://gobcdmx.github.io/politicadedatos/sobre/comocumplir">Funciones del Oficial de Información</a>
         </li>
         <li>
-            <a href="http://" target="_blank" rel="noopener noreferrer"> Artículo en La Ley de Operacion e Innovación Digital Para la ciudad de México</a>
+            <a href="https://gobcdmx.github.io/politicadedatos" target="_blank" rel="noopener noreferrer"> Artículo en La Ley de Operacion e Innovación Digital Para la ciudad de México</a>
 
 </li>
     </ol>
