@@ -86,7 +86,7 @@ $base-button-color: $gray-bg;
    
   // bottom: 90%;   
       background-color:#00312d !important;
-      width: 107.5% !important;   
+      width: 106% !important;   
       //height:calc( 100% - px);
      // border-top-style: solid;
       //border-top-width: medium;
@@ -97,15 +97,7 @@ $base-button-color: $gray-bg;
 
 }
 
-html{
-    position:relative; 
-    min-height: 100%;
-  }
-  //Normalize html and body elements,this style is just good to have/
-  html,body{
-    margin:0;
-    padding:0;
-  }
+
 
   .center {
     display: block;
