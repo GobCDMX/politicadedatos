@@ -5,12 +5,14 @@ permalink: /cultura/glosario
 parent: Cultura de datos
 nav_order: 4
 ---
+<script src="https://gobcdmx.github.io/politicadedatos/assets/js/filter.js"></script>
 
 
 
   <h2>Glosario <h2> 
+<input onkeyup="filterby(this.value)" value="" class="form-control" placeholder="Buscar un termino">
 
-  <table>
+  <table  id="dataTable">
       <thead> 
       <th><h3>Término</h3></th>
       <th><h3>Definición</h3></th>
