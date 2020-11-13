@@ -15,3 +15,7 @@ nav_order: 1
 <p>Se elaboran cuando el campo puede tomar más de cuatro valores y/o cuando están definidos por claves, números o abreviaturas.</p>
 
 <p>Consulta aquí la Guía Practica para la elaboración y uso de catálogos de datos de referencia</p>
+
+
+Descarga aquí la guía : <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/assets/ppts/guia_cat.pdf"  download="guia_catt.pdf">Guía práctica de Catálogos de Referencia</a> 
+

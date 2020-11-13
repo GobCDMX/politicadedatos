@@ -116,9 +116,8 @@ nav_order: 8
 </div>
 <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
 <div class="card-body">
-    El 7 de agosto de 2020 se publicó en la Gaceta Oficial de la Ciudad de México el Aviso por el que se informa a los titulares de los Entes de la Administración Pública de la Ciudad de México, el periodo para acreditar a las personas servidoras públicas que fungirán como Oficiales de Información y Enlaces de las Alcaldías, ante la Agencia Digital de Innovación Pública; el cual puedes consultar <a target="_blank" href="http://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/35297f56e7b6c0db4aba623698da3bd8.pdf">aquí.
-</div>
-</div>
+    El 7 de agosto de 2020 se publicó en la Gaceta Oficial de la Ciudad de México el Aviso por el que se informa a los titulares de los Entes de la Administración Pública de la Ciudad de México, el periodo para acreditar a las personas servidoras públicas que fungirán como Oficiales de Información y Enlaces de las Alcaldías, ante la Agencia Digital de Innovación Pública; el cual puedes consultar <a target="_blank" href="http://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/35297f56e7b6c0db4aba623698da3bd8.pdf">aquí. </a> </div>
+    </div>
 </div>
 <div class="card">
 <div class="card-header" id="headingEight">
@@ -130,7 +129,7 @@ nav_order: 8
 </div>
 <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
 <div class="card-body">
-    La persona titular del Ente Público debe enviar una comunicación oficial a la persona Titular de la Agencia Digital de Innovación Pública indicando la nueva designación con su respectiva información de contacto con copia a la Dirección de Coordinación de Proyectos de Datos al correo aosorio@cdmx.gob.mx.
+    La persona titular del Ente Público debe enviar una comunicación oficial a la persona Titular de la Agencia Digital de Innovación Pública indicando la nueva designación con su respectiva información de contacto con copia a la Dirección de Coordinación de Proyectos de Datos al correo <a href="mailto: aosorio@cdmx.gob.mx">aosorio@cdmx.gob.mx</a>
 </div>
 </div>
 </div>
