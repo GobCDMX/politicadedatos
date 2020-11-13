@@ -9,9 +9,9 @@ nav_order: 2
 <h2>¿Cómo se llevará a cabo?</h2>
 <br>
 
-La información del Datálogo se recabará en fases graduales, en las cuales se recolectarán los metadatos de los principales <a href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#rti">Recursos de Tecnologías de Información</a> de la Administración Pública de la Ciudad de México.
+La información del Datálogo se recabará en fases graduales, en las cuales se recolectarán los metadatos de los principales <a target= _blank href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#rti">Recursos de Tecnologías de Información</a> de la Administración Pública de la Ciudad de México.
 
-Cada una de las fases de recolección consistirá en una serie de formularios digitales que serán enviados a los Entes Públicos, mediante los <a href="https://gobcdmx.github.io/politicadedatos/sobre/comocumplir">Oficiales de Información</a>, en los que se solicitarán los metadatos de recursos de tecnologías de información específicos.
+Cada una de las fases de recolección consistirá en una serie de formularios digitales que serán enviados a los Entes Públicos, mediante los <a target= _blank href="https://gobcdmx.github.io/politicadedatos/sobre/comocumplir">Oficiales de Información</a>, en los que se solicitarán los metadatos de recursos de tecnologías de información específicos.
 
 La participación en la recabación del Datálogo es obligatoria para los Entes Públicos de la Administración Pública de la Ciudad de México, tal como lo establece el Artículo 16 fracción II de la Ley de Operación e Innovación Digital de la Ciudad de México y el Numeral vigésimo cuarto de la Política de Gestión de Datos de la Ciudad de México.
 

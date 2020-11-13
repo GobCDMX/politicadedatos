@@ -33,6 +33,6 @@ Todos los datos públicos en posesión de los Entes de la Administración Públi
 
 <h4><b> ¿Cuál es la diferencia entre datos públicos y datos abiertos? </b> </h4>
 
-Los <a href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#dabiertos">datos abiertos</a> son aquellos datos públicos que pueden ser publicados para su utilización y consulta por la ciudadanía. Es decir, son un subconjunto de los datos públicos.
+Los <a target= _blank href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#dabiertos">datos abiertos</a> son aquellos datos públicos que pueden ser publicados para su utilización y consulta por la ciudadanía. Es decir, son un subconjunto de los datos públicos.
 
 <img src="https://gobcdmx.github.io/politicadedatos/assets/img/datos.jpg" class="center" alt="Imagen no fue encontrada" >
