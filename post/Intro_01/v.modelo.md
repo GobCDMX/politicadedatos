@@ -55,7 +55,9 @@ Consulta aquí la versión ejecutiva (descarga de PDF) y extendida (Descarga de 
         <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="gobernanza">
         <h3>Gobernanza y cultura de datos</h3>
         Conjunto de reglas, actitudes y prácticas en torno a la gestión de los datos. <br>
-        <br>La <b>gobernanza de datos</b> se refiere al establecimiento de reglas claras de participación, decisión y autoridad sobre los datos. Pueden ser establecidas al interior de cada Ente (de manera formal o informal); y/o, establecidas por la Agencia u otra autoridad competente en la materia. Si quieres ayudar a construir la gobernanza de datos de la Ciudad participa aquí (link a participación).
+        <br><p>La <b>gobernanza de datos</b> se refiere al establecimiento de reglas claras de participación, decisión y autoridad sobre los datos. Pueden ser establecidas al interior de cada Ente (de manera formal o informal); y/o, establecidas por la Agencia u otra autoridad competente en la materia.</p>
+
+        <p>Si quieres ayudar a construir la gobernanza de datos de la Ciudad <a href="https://gobcdmx.github.io/politicadedatos/participacion/">participa aquí</a>.</p>
         <br><br>
         La <b>cultura de datos</b> se refiere al desarrollo de competencias, capacidades y habilidades que permitan comprender el valor e importancia de los datos. Para promoverla, desarrollamos distintas acciones, <a href="(https://gobcdmx.github.io/politicadedatos/Cultida/guias">mira aquí</a>.
         </div>
