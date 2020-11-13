@@ -3,7 +3,7 @@ layout: default
 title: Mesas Técnicas Interinstitucionales
 permalink: /mesa_tec/
 nav_order: 3
-parent: Cómo Participar
+parent: Cómo participar
 ---
 
 <div class="text-justify">

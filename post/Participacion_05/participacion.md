@@ -3,7 +3,7 @@ layout: default
 title: Participacion
 permalink: /participacion/
 nav_order: 1
-parent: Cómo Participar
+parent: Cómo participar
 ---
 
 <div class="nonfooter text-justify">

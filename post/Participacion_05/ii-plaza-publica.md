@@ -3,7 +3,7 @@ layout: default
 title: Plaza pública
 permalink: /plaza-publica/
 nav_order: 2
-parent: Cómo Participar
+parent: Cómo participar
 ---
 
 <div class="nonfooter text-justify">
