@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introducción a la gestion de datos
-permalink: /Cultura/intro
+permalink: /cultura/intro
 nav_order: 1
 parent: Cultura de datos
 ---

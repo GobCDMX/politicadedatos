@@ -17,7 +17,7 @@ Además de fungir como enlace con la Agencia Digital de Innovación Pública, de
 
 - Difundir y socializar las disposiciones en materia de gestión de datos al interior de sus Entes, y vigilar su cumplimiento.
 - Coordinar la recopilación de los metadatos y otra información relativa al <a href="https://gobcdmx.github.io/politicadedatos/datalogo">Inventario de Datos (Datálogo)</a>  de la Ciudad de México.
-- Participar y apoyar en la coordinación de mesas de trabajo, talleres y capacitaciones para promover una <a href="https://gobcdmx.github.io/politicadedatos/Cultura/intro">cultura de datos</a> en la Administración Pública de la Ciudad <a href="https://gobcdmx.github.io/politicadedatos/participacion/">(ver Cómo participar)</a>.
+- Participar y apoyar en la coordinación de mesas de trabajo, talleres y capacitaciones para promover una <a href="https://gobcdmx.github.io/politicadedatos/cultura/intro">cultura de datos</a> en la Administración Pública de la Ciudad <a href="https://gobcdmx.github.io/politicadedatos/participacion/">(ver Cómo participar)</a>.
 
 - ¿Cómo sé quién es el Oficial de Información del Ente al que pertenezco? <a href="https://gobcdmx.github.io/politicadedatos/directorio/">Directorio de Oficiales de Información</a>  
 - ¿Cómo puedo resolver dudas que no están en el Micrositio? <a href="https://gobcdmx.github.io/politicadedatos/contact/">Contáctanos </a>
