@@ -69,7 +69,7 @@ nav_order: 8
             <a href="https://gobcdmx.github.io/politicadedatos/sobre/comocumplir">Funciones del Oficial de Información</a>
         </li>
         <li>
-            <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#adip-at" target="_blank" rel="noopener noreferrer"> Artículo 14 de la Ley de Operacion e Innovación Digital Para la ciudad de México</a>
+            <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#oficial-info" target="_blank" rel="noopener noreferrer"> Artículo 14 de la Ley de Operacion e Innovación Digital Para la ciudad de México</a>
 
 </li>
     </ol>
@@ -102,7 +102,7 @@ nav_order: 8
 </div>
 <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
 <div class="card-body">
-    No tener un Oficial de Información designado es un incumplimiento del <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#adip-at">artículo 14 de la LOID</a>. Para designar a su Oficial de Información, la persona titular del Ente Público debe enviar una comunicación oficial a la persona Titular de la Agencia Digital de Innovación Pública indicando la designación, así como la información de contacto de la persona designada.
+    No tener un Oficial de Información designado es un incumplimiento del <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#art_16">artículo 16 de la LOID</a>. Para designar a su Oficial de Información, la persona titular del Ente Público debe enviar una comunicación oficial a la persona Titular de la Agencia Digital de Innovación Pública indicando la designación, así como la información de contacto de la persona designada.
 </div>
 </div>
 </div>
