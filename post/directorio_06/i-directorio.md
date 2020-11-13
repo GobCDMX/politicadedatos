@@ -3,7 +3,6 @@ layout: default
 title: Directorio de Oficiales de Información
 permalink: /directorio/
 nav_order: 6
-has_children: true
 ---
 <script src="https://gobcdmx.github.io/politicadedatos/assets/js/filter.js"></script>
 
@@ -569,5 +568,3 @@ has_children: true
           <td>No disponible</td>
           <td>No disponible</td>
        </tr>
-
-
