@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marco para la Gestión de Datos
+title: Marco para la gestión de datos
 parent: Sobre la politica de gestión de datos
 nav_order: 4
 

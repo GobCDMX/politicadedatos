@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Marco Legal
+title: Marco legal
 permalink: marco_legal
 nav_order: 3
 
@@ -9,7 +9,7 @@ nav_order: 3
 
 
 
--  <a target="_blank" href="http://www.paot.org.mx/centro/leyes/df/pdf/2020/LEY_OPERA_INNOVA_DIGITAL_CDMX_31_12_2018.pdf">Ley de Operación e Innovación Digital para la Ciudad de México</a> 
+-  <a target="_blank" href="http://www.paot.org.mx/centro/leyes/df/pdf/2020/LEY_OPERA_INNOVA_DIGITAL_CDMX_31_12_2018.pdf">Ley de Operación e Innovación Digital para la Ciudad de México</a>
 
 -  <a target="_blank" href="http://www3.contraloriadf.gob.mx/prontuario/index.php/normativas/Template/ver_mas/68319/42/1/0"> Política de Gestión de Datos de la Ciudad de México</a>  
 
@@ -19,5 +19,4 @@ nav_order: 3
 
 -  <a target="_blank" href="http://www3.contraloriadf.gob.mx/prontuario/index.php/normativas/Template/ver_mas/66709/31/1/0">Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México</a>
 
-- <a target="_blank" href="http://www.data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ARCHIVOS_PARA_EL_DISTRITO_FEDERAL1.pdf">Ley de Archivos del Distrito Federal</a> 
-
+- <a target="_blank" href="http://www.data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ARCHIVOS_PARA_EL_DISTRITO_FEDERAL1.pdf">Ley de Archivos del Distrito Federal</a>

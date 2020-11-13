@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Siguientes Pasos
+title: Siguientes pasos
 permalink: /siguientes_pasos/
 nav_order: 9
 ---
