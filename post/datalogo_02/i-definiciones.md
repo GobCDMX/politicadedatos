@@ -18,6 +18,8 @@ Los metadatos son los datos que describen otros datos o recursos de tecnologías
 
 Por lo tanto, el Datálogo <strong>no contendrá los datos mismos</strong>, sino información sobre su estructura, contenido y características.
 
+### Objetivos
+
 El Datálogo servirá para:
 
 - Identificar, registrar y enumerar los <a href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#rti">recursos de tecnologías de información</a> de la Administración Pública de la Ciudad de México.

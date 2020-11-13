@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marco para la Gestión de Datos
+title: Marco para la gestión de datos
 parent: Sobre la politica de gestión de datos
 nav_order: 4
 
@@ -59,7 +59,7 @@ Consulta aquí la versión ejecutiva (descarga de PDF) y extendida (Descarga de 
 
         <p>Si quieres ayudar a construir la gobernanza de datos de la Ciudad <a href="https://gobcdmx.github.io/politicadedatos/participacion/">participa aquí</a>.</p>
         <br><br>
-        La <b>cultura de datos</b> se refiere al desarrollo de competencias, capacidades y habilidades que permitan comprender el valor e importancia de los datos. Para promoverla, desarrollamos distintas acciones, <a href="(https://gobcdmx.github.io/politicadedatos/Cultida/guias">mira aquí</a>.
+        La <b>cultura de datos</b> se refiere al desarrollo de competencias, capacidades y habilidades que permitan comprender el valor e importancia de los datos. Para promoverla, desarrollamos distintas acciones, <a href="https://gobcdmx.github.io/politicadedatos/cultura/intro">mira aquí</a>.
         </div>
         <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
 
@@ -109,29 +109,35 @@ El grado de vigencia de los datos, entendido como el grado en el que las actuali
 </li>
 </ul>
 
-¿Cómo mejorar la calidad de mis datos? Haz click aquí (link al apartado de recursos en dataescuela)
+¿Cómo mejorar la calidad de mis datos? Haz click <a href="https://gobcdmx.github.io/politicadedatos/cultura/material_adicional">aquí</a>.
 </div>
+
 <div class="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">
 <h3>Seguridad de los Datos</h3>
 
 Las medidas preventivas y reactivas de autenticación, autorización, acceso y monitoreo, para garantizar
 la integridad, confidencialidad y privacidad de los datos. <br>
 
-¿Cómo mejorar la seguridad de mis datos?  <a href="https://gobcdmx.github.io/politicadedatos/marco_legal">(Ir a los Lineamientos)</a>.
+¿Cómo mejorar la seguridad de mis datos?  <a href="https://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/70c180502c3d77070d7d4a3bee256993.pdf">(Ir a los Lineamientos)</a>.
 </div>
+
 <div class="tab-pane fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">
 <h3>Gestión de metadatos</h3>
-<p>Los metadatos son los datos que describen el contenido, las características y propiedades de los datos. Sirven para localizar, organizar y administrar todos los datos, entre otras cosas.  Los metadatos documentan las características de los datos, lo cual significa que no contienen los datos mismos ni incluyen datos personales.
+<p>Los metadatos son los datos que describen el contenido, las características y propiedades de los datos. Sirven para localizar, organizar y administrar todos los datos, entre otras cosas.</p>  
 
-    Pueden ser: nombre de la base de datos, sistema y/o conjunto de datos; frecuencia de actualización de los datos; cobertura geográfica; tema; entre otros.
+<p>Los metadatos documentan las características de los datos, lo cual significa que no contienen los datos mismos ni incluyen datos personales.</p>
 
-Los metadatos serán el principal insumo del <a href="https://gobcdmx.github.io/politicadedatos/datalogo">Inventario de Datos la Ciudad de México</a>.  Para que sea posible sistematizar la documentación, recolección y administración de metadatos, es necesario contar con un estándar.  
+<p>Pueden ser: nombre de la base de datos, sistema y/o conjunto de datos; frecuencia de actualización de los datos; cobertura geográfica; tema; entre otros.</p>
+
+<p>Los metadatos serán el principal insumo del <a href="https://gobcdmx.github.io/politicadedatos/datalogo">Inventario de Datos la Ciudad de México</a>.</p>  
+
+<p>Para que sea posible sistematizar la documentación, recolección y administración de metadatos, es necesario contar con un estándar.  
 </p><br>
     <p>Ejemplos de estándares: </p>
     <ul>
-    <li> <a href="https://www.loc.gov/standards/mods/">Metadata Object Description Schema (MODS)  </a>  </li>
-    <li> <a href="https://www.dublincore.org/">Dublin Core (DC) (link)</a> </li>
-    <li> <a href="https://www.w3.org/TR/vocab-dcat-2/">Data Catalog Vocabulary (DCAT) </a></li>
+    <li> <a target="_blank" href="https://www.loc.gov/standards/mods/">Metadata Object Description Schema (MODS)  </a>  </li>
+    <li> <a target="_blank" href="https://www.dublincore.org/">Dublin Core (DC) (link)</a> </li>
+    <li> <a target="_blank" href="https://www.w3.org/TR/vocab-dcat-2/">Data Catalog Vocabulary (DCAT) </a></li>
     </ul>
 
 </div>

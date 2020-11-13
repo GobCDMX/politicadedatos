@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Cómo Participar
+title: Cómo participar
 permalink: /participacion/
 nav_order: 5
 has_children: true
---- 
+---
 <div class="nonfooter">
 <h2>Participacion</h2>
 
