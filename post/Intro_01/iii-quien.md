@@ -20,7 +20,7 @@ La Agencia Digital de Innovación Pública de la Ciudad de México (ADIP) es el 
 <br>
 Los Entes de la Administración Pública son todas las Dependencias, Entes Desconcentrados, Entidades y Alcaldías del Gobierno de la Ciudad de México.
 
-Obligaciones (link al artículo de obligaciones en materia de gestión de datos):
+<a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#art_16">Obligaciones</a>:
 
 
 - Cumplir y hacer cumplir la normatividad que emita la Agencia con motivo de la aplicación de la Política;
@@ -36,7 +36,7 @@ Las personas Oficiales de Información son el enlace entre la Agencia y los Ente
 
 Consulta aquí las <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#oficial-info">funciones de los Oficiales de Información</a>.   
 
-Consulta aquí el <a href="https://gobcdmx.github.io/politicadedatos/directorio/">Directorio de Oficiales de Información</a> para ver quién coordina la Política de Gestión de Datos en cada Ente de la Administración Pública. 
+Consulta aquí el <a href="https://gobcdmx.github.io/politicadedatos/directorio/">Directorio de Oficiales de Información</a> para ver quién coordina la Política de Gestión de Datos en cada Ente de la Administración Pública.
 
 
 ¿Eres Oficial de Información y tienes dudas sobre tus funciones?, contáctanos <a href="https://gobcdmx.github.io/politicadedatos/contact/">aquí</a>
