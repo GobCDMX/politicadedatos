@@ -27,7 +27,7 @@ El MGD-CDMX se conforma de ocho componentes, que consisten en acciones o prácti
 - Almacenamiento y acceso seguro, eficiente y oportuno de una gran cantidad de datos.
 - Facilitar el acceso a datos integrados y consistentes para la toma de decisiones basadas en evidencia.
 
-Consulta aquí la versión ejecutiva (descarga de PDF) y extendida (Descarga de PDF) del Marco para la Gestión de Datos.
+Consulta aquí la <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/assets/pdfs/RE_MGD-CDMX.pdf" download="Resumen ejecutivo MGD-CDMX.pdf">versión ejecutiva</a> del Marco para la Gestión de Datos.
 
 
 <h3>Componentes del MGD-CDMX</h3> <br>
