@@ -5,9 +5,9 @@ parent: Datálogo de la ciudad de México
 permalink: datalogo
 nav_order: 1
 ---
-## Datálogo
-
-### ¿Qué es?
+<h2>Datálogo</h2>
+<br>
+<h4><b>¿Qué es?</b></h4>
 
 
 El Datálogo es el Inventario de Datos de la Ciudad de México.
@@ -18,7 +18,7 @@ Los metadatos son los datos que describen otros datos o recursos de tecnologías
 
 Por lo tanto, el Datálogo <strong>no contendrá los datos mismos</strong>, sino información sobre su estructura, contenido y características.
 
-### Objetivos
+<h4><b>Objetivos</b></h4>
 
 El Datálogo servirá para:
 

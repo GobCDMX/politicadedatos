@@ -5,7 +5,7 @@ permalink: /sobre/quienesparticipan
 parent: Sobre la politica de gestión de datos
 nav_order: 2
 ---
-<h2><b>¿Quiénes participan? </b></h2>
+<h2>¿Quiénes participan?</h2>
 <br>
 
 <img src="https://gobcdmx.github.io/politicadedatos/assets/img/actores.png" alt="Imagen no fue encontrada">
@@ -30,8 +30,7 @@ Los Entes de la Administración Pública son todas las Dependencias, Entes Desco
 - Participar en el Plan de Apertura de Datos de la Administración Pública
 - Participar en las capacitaciones que se estimen necesarias
 
-<b>Oficiales de Información</b> <br>
-
+<b>Oficiales de Información</b>
 Las personas Oficiales de Información son el enlace entre la Agencia y los Entes de la Administración Pública para la coordinación e implementación de las disposiciones en materia de gestión de datos, entre otras.
 
 Consulta aquí las <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#oficial-info">funciones de los Oficiales de Información</a>.   

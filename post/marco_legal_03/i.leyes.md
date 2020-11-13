@@ -5,7 +5,8 @@ permalink: marco_legal
 nav_order: 3
 
 ---
-## Marco Legal
+<h2>Marco Legal</h2>
+<br>
 
 
 
