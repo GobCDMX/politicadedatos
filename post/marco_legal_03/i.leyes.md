@@ -15,7 +15,7 @@ nav_order: 3
 
 - <a target="_blank" href=" https://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/70c180502c3d77070d7d4a3bee256993.pdf">Lineamientos en materia de seguridad de la información en la Administración Pública de la Ciudad de México</a>
 
-- <a target="_blank" href=" http://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/35297f56e7b6c0db4aba623698da3bd8.pdf">Aviso por el que se informa a los titulares de los Órganos de la Administración Pública de la   Ciudad de México, el periodo para acreditar a las personas servidoras públicas que fungirán como Oficiales de Información y Enlaces de las Alcaldías, ante la Agencia Digital de Innovación Pública.  </a>
+- <a target="_blank" href=" http://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/35297f56e7b6c0db4aba623698da3bd8.pdf">Aviso por el que se informa a los titulares de los Órganos de la Administración Pública de la  Ciudad de México, <br>el periodo para acreditar a las personas servidoras públicas que fungirán como Oficiales de Información y Enlaces<br> de las Alcaldías, ante la Agencia Digital de Innovación Pública.  </a>
 
 -  <a target="_blank" href="http://www3.contraloriadf.gob.mx/prontuario/index.php/normativas/Template/ver_mas/66709/31/1/0">Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México</a>
 

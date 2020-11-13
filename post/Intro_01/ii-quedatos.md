@@ -40,4 +40,4 @@ Los <a href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#dabierto
 
 <img src="https://gobcdmx.github.io/politicadedatos/assets/img/datos.jpg" class="center" alt="Imagen no fue encontrada" >
 
-<img src="https://gobcdmx.github.io/politicadedatos/assets/img/datos.jpg" class="center" alt="Imagen no fue encontrada" >
+
