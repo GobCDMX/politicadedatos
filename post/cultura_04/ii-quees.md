@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Diccionario de Datos
+title: Elaboración de diccionarios de datos
 permalink: /Cultura/guias/diccionario
 parent: Guías prácticas
 grand_parent: Cultura de datos
