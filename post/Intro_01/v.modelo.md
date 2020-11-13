@@ -59,7 +59,7 @@ Consulta aquí la versión ejecutiva (descarga de PDF) y extendida (Descarga de 
 
         <p>Si quieres ayudar a construir la gobernanza de datos de la Ciudad <a href="https://gobcdmx.github.io/politicadedatos/participacion/">participa aquí</a>.</p>
         <br><br>
-        La <b>cultura de datos</b> se refiere al desarrollo de competencias, capacidades y habilidades que permitan comprender el valor e importancia de los datos. Para promoverla, desarrollamos distintas acciones, <a href="(https://gobcdmx.github.io/politicadedatos/Cultida/guias">mira aquí</a>.
+        La <b>cultura de datos</b> se refiere al desarrollo de competencias, capacidades y habilidades que permitan comprender el valor e importancia de los datos. Para promoverla, desarrollamos distintas acciones, <a href="https://gobcdmx.github.io/politicadedatos/Cultura/intro">mira aquí</a>.
         </div>
         <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
 
