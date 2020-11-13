@@ -135,9 +135,9 @@ la integridad, confidencialidad y privacidad de los datos. <br>
 </p><br>
     <p>Ejemplos de estándares: </p>
     <ul>
-    <li> <a href="https://www.loc.gov/standards/mods/">Metadata Object Description Schema (MODS)  </a>  </li>
-    <li> <a href="https://www.dublincore.org/">Dublin Core (DC) (link)</a> </li>
-    <li> <a href="https://www.w3.org/TR/vocab-dcat-2/">Data Catalog Vocabulary (DCAT) </a></li>
+    <li> <a target="_blank" href="https://www.loc.gov/standards/mods/">Metadata Object Description Schema (MODS)  </a>  </li>
+    <li> <a target="_blank" href="https://www.dublincore.org/">Dublin Core (DC) (link)</a> </li>
+    <li> <a target="_blank" href="https://www.w3.org/TR/vocab-dcat-2/">Data Catalog Vocabulary (DCAT) </a></li>
     </ul>
 
 </div>
