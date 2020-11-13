@@ -60,5 +60,4 @@ Muy pronto la Agencia estará emitiendo un estándar para la elaboración de Dic
 
 
 
-Descarga aquí la guía : <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/assets/ppts/guia_dicc.pdf"  download="guia_catt.pdf">Guía práctica de diccionario de datos</a> 
-
+Descarga aquí la guía : <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/assets/ppts/guia_dicc.pdf"  download="guia_catt.pdf">Guía elaboración de diccionarios de datos</a> 
