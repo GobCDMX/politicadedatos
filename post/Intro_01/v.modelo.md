@@ -118,7 +118,7 @@ El grado de vigencia de los datos, entendido como el grado en el que las actuali
 Las medidas preventivas y reactivas de autenticación, autorización, acceso y monitoreo, para garantizar
 la integridad, confidencialidad y privacidad de los datos. <br>
 
-¿Cómo mejorar la seguridad de mis datos?  <a href="https://gobcdmx.github.io/politicadedatos/marco_legal">(Ir a los Lineamientos)</a>.
+¿Cómo mejorar la seguridad de mis datos?  <a href="https://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/70c180502c3d77070d7d4a3bee256993.pdf">(Ir a los Lineamientos)</a>.
 </div>
 <div class="tab-pane fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">
 <h3>Gestión de metadatos</h3>
