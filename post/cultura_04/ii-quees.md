@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Elaboración de diccionarios de datos
-permalink: /Cultura/guias/diccionario
+permalink: /cultura/guias/diccionario
 parent: Guías prácticas
 grand_parent: Cultura de datos
 nav_order: 1
