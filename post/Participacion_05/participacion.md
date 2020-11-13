@@ -9,7 +9,7 @@ parent: Cómo Participar
 <div class="nonfooter text-justify">
 
 <h2>Participación</h2>
-
+<br>
 <p>La participación es un eje fundamental de la política de gestión de datos, por lo cual tenemos diversos medios a través de los cuales puedes participar. </p>
 
 <p>Queremos hacer la Política de Gestión de Datos lo más abierta y participativa posible, para ello hemos creado estos tres canales principales:</p>

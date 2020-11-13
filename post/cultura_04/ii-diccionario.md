@@ -9,7 +9,7 @@ nav_order: 1
 ---
 
 <h2>Qué es un diccionario de datos:</h2>
-
+<br>
 Un diccionario de datos es un tipo de metadato que enlista de manera organizada los nombres, definiciones y características de cada uno de los campos o atributos de una base de datos y/o conjunto de datos.
 
 Tiene por objetivo proveer un lenguaje común entre el autor de dichos datos y sus posibles usuarios.
@@ -60,4 +60,4 @@ Muy pronto la Agencia estará emitiendo un estándar para la elaboración de Dic
 
 
 
-Descarga aquí la guía : <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/assets/ppts/guia_dicc.pdf"  download="guia_catt.pdf">Guía elaboración de diccionarios de datos</a> 
+Descarga aquí la guía : <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/assets/ppts/guia_dicc.pdf"  download="guia_catt.pdf">Guía elaboración de diccionarios de datos</a>
