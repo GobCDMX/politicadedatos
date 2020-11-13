@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Material Adicional
+title: Escuela de datos
 permalink: /cultura/material_adicional
 parent: Cultura de datos
 nav_order: 3
 
 ---
 <div class="nonfooter">
-<h2><b>Material Adicional</b></h2>
+<h2><b>Escuela de datos</b></h2>
 
 <p>La Agencia Digital de Innovación Pública y SocialTic A.C. estamos trabajando en conjunto para facilitar el aprendizaje en cultura de datos de las y los servidores públicos. Aquí puedes consultar algunos materiales que ellos han diseñado para Escuela de Datos en español.</p>
 
