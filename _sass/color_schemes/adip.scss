@@ -5,7 +5,8 @@ $black-txt: #455464 !default;
 $gray-bg: #f8f8f8 !default;
 $grey2-txt: #969696 !default;
 
-$content-width: 1000px;
+$content-width: 900;
+
 $body-background-color: $white;
 $sidebar-color: $gray-bg;
 $border-color: $gray-bg;
@@ -42,6 +43,8 @@ $base-button-color: $gray-bg;
   
 }
 
+
+
 ::selection {
   color: #fff;
   background: $green-accent !important;
@@ -62,6 +65,11 @@ $base-button-color: $gray-bg;
 }
 
 
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
+
 
 .site-footer {
     display: none;
@@ -75,8 +83,7 @@ footer {
   
    padding-top: 3%;
     background-color:#00312d !important;
-    width: 107% !important;   
-    
+    //width: 110% !important;   
     bottom: 0 !important;
 
 

@@ -10,7 +10,7 @@ nav_order: 4
 
 
   <h2>Glosario <h2> 
-<input onkeyup="filterby(this.value)" value="" class="form-control" placeholder="Buscar un termino">
+<input onkeyup="filterby(this.value)" value="" class="form-control" placeholder="Buscar un término">
 
   <table  id="dataTable">
       <thead> 
