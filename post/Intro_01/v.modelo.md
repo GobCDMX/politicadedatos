@@ -109,8 +109,9 @@ El grado de vigencia de los datos, entendido como el grado en el que las actuali
 </li>
 </ul>
 
-¿Cómo mejorar la calidad de mis datos? Haz click aquí (link al apartado de recursos en dataescuela)
+¿Cómo mejorar la calidad de mis datos? Haz click <a href="https://gobcdmx.github.io/politicadedatos/cultura/material_adicional">aquí</a>.
 </div>
+
 <div class="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">
 <h3>Seguridad de los Datos</h3>
 
