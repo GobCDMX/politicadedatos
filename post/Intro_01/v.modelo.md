@@ -5,12 +5,13 @@ parent: Sobre la politica de gestión de datos
 nav_order: 4
 
 ---
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 
-<h2> Marco para la Gestión de Datos de la CDMX </h2>
+<h2>Marco para la Gestión de Datos de la CDMX</h2>
+<br>
 
-<h4><b>¿Qué es? </b></h4>
+<h4><b>¿Qué es?</b></h4>
 El Marco para la Gestión de Datos de la Ciudad de México (MGD-CDMX) es la guía teórica y metodológica que define y delimita la implementación de la Política de Gestión de datos.
 
 <h4><b>¿Cuál es su función?</b></h4>

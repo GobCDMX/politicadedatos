@@ -6,7 +6,8 @@ permalink: datalogo/como_se_construira
 nav_order: 2
 ---
 
-## ¿Cómo se llevará a cabo?
+<h2>¿Cómo se llevará a cabo?</h2>
+<br>
 
 La información del Datálogo se recabará en fases graduales, en las cuales se recolectarán los metadatos de los principales <a href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#rti">Recursos de Tecnologías de Información</a> de la Administración Pública de la Ciudad de México.
 
@@ -22,12 +23,10 @@ Las fases de implementación son:
 - Cuarta fase: capas geoespaciales
 
 
-### Fundamento legal
+<h4><b>Fundamento legal</b></h4>
 
 - <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#datalog">Artículo 17, fracción V</a> de la Ley de Operación e Innovación Digital de la Ciudad de México. Ahí se establece la facultad de la Agencia Digital de Innovación Pública de crear un inventario respecto de los datos que los Entes generen y el estado que estos guardan, con base en la información que entreguen los Oficiales de Información.
 -<a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#datalog-2">Artículo 16, fracción II</a>  de la Ley de Operación e Innovación Digital de la Ciudad de México. Se establece la obligación de los Entes de compartir con la Agencia Digital de Innovación Pública los datos que cada Ente genere.
-
-
 
 Para conocer las fechas en las que se llevará a cabo cada fase consulta nuestros <a href="https://gobcdmx.github.io/politicadedatos/siguientes_pasos/">siguientes pasos</a>.  
 
