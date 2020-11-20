@@ -21,7 +21,7 @@ nav_order: 6
         <td class="column0 style2 s">Secretaría de las Mujeres de la Ciudad de México</td>
         <td class="column1 style2 s">María Cristina  Cobos López</td>
         <td class="column2 style4 s">55 5512 2836 ext. 610</td>
-        <td class="column3 style5 s">No Disponible</td>
+        <td class="column3 style5 s">mcobosl@semujeres.cdmx.gob</td>
       </tr>
       <tr name="Secretaría del Medio Ambiente de la Ciudad de México">
         <td class="column0 style2 s">Secretaría del Medio Ambiente de la Ciudad de México</td>
