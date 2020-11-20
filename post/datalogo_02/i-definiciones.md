@@ -28,3 +28,4 @@ El Datálogo servirá para:
 - Facilitar el intercambio de datos entre los Entes de la Administración Pública al proporcionar información sobre los datos en su posesión, sus características y el estado en que se encuentran.
 - Analizar y evaluar las necesidades tecnológicas e informáticas para gestionar los datos de la Ciudad de México.
 - Promover una cultura de datos y prácticas de gestión de datos.
+
