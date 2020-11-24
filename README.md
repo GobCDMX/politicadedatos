@@ -1,5 +1,5 @@
 # politicadedatos
-<hi>Micrositio sobre la Política de Datos de la Ciudad de México </h1>
+<hi>Portal de la Política de Datos de la Ciudad de México </h1>
 
 Este es el Github del <b><a href="https://gobcdmx.github.io/politicadedatos/">Portal de la Política de Datos de la Ciudad de México</a></b>.
 Aquí encontrarás información sobre: 
