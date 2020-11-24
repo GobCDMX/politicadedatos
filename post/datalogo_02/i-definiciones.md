@@ -29,3 +29,6 @@ El Datálogo servirá para:
 - Analizar y evaluar las necesidades tecnológicas e informáticas para gestionar los datos de la Ciudad de México.
 - Promover una cultura de datos y prácticas de gestión de datos.
 
+<h4><b>¿Cómo se verá el datálogo en 2021?</b></h4>
+
+Queremos construir una herramienta para que los Entes Públicos puedan administrar su metadatos, consultarlos, y explorar los metdatos de los demás en un solo lugar.
