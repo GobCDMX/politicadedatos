@@ -16,8 +16,10 @@ Aquí encontrarás información sobre:
 <li>El desarrollo de una cultura de datos en la Ciudad </li>
 <p>
 </ol>
-Aquí puedes contactarnos, escribir tus comentarios, y ver cómo construimos la Política de Datos de la Ciudad de México. 
+Aquí puedes contactarnos, escribir tus comentarios, y ver cómo construimos la Política de Datos de la Ciudad de México. ¡Queremos que participes!
 <p>
 También puedes escribirnos a <b> politicadedatos@cdmx.gob.mx </b>
 <p> 
 ¡No dudes en contactarnos! ¡Queremos escucharte!
+<p>
+Este sitio y su contenido son administrados por la Dirección de Coordinación de Proyectos de Datos de la <a href="https://adip.cdmx.gob.mx/">Agencia Digital de Innovación Pública de la Ciudad de México</a></b>.
