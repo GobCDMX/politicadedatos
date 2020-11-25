@@ -306,7 +306,7 @@ nav_order: 8
     <div class="card-header" id="PD12">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#pregunta_doce" aria-expanded="false" aria-controls="pregunta_doce">
-        ¿En mi Ente Público utilizamos algunos Sistemas que nos proporcionan otras dependencias, como la Secretaría de Administración y Finanzas o el del Info CDMX, también debo registrar esos?
+        En mi Ente Público utilizamos algunos sistemas que nos proporcionaron otras dependencias, tales como la Secretaría de Adminsitración y Finanzas o el INFO DF, ¿debo registralos también?
         </button>
       </h2>
     </div>
