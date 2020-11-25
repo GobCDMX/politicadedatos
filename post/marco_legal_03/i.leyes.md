@@ -10,7 +10,7 @@ nav_order: 3
 
 
 
--  <a target="_blank" href="http://www.paot.org.mx/centro/leyes/df/pdf/2020/LEY_OPERA_INNOVA_DIGITAL_CDMX_31_12_2018.pdf">Ley de Operación e Innovación Digital para la Ciudad de México</a>
+-  <a target="_blank" href="https://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/17741f8b4232061a75318eb627e9951e.pdf">Ley de Operación e Innovación Digital para la Ciudad de México</a>
 
 -  <a target="_blank" href="http://www3.contraloriadf.gob.mx/prontuario/index.php/normativas/Template/ver_mas/68319/42/1/0"> Política de Gestión de Datos de la Ciudad de México</a>  
 
