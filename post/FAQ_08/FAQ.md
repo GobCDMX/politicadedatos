@@ -290,7 +290,7 @@ nav_order: 8
     <div class="card-header" id="PD11">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#pregunta_once" aria-expanded="false" aria-controls="pregunta_once">
-        ¿En mi Ente Público existen uno o varios sistemas pero que fueron desarrollados por otra dependencia a nuestra petición, también he de registrarlos?
+        En mi Ente Público existe uno o más sistemas que fueron desarrollados por otro Ente Público a nuestra petición, ¿debo registrarlo(s) también?
         </button>
       </h2>
     </div>
