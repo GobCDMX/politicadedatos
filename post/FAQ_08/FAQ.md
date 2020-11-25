@@ -116,7 +116,7 @@ nav_order: 8
 </div>
 <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
 <div class="card-body">
-    El 7 de agosto de 2020 se publicó en la Gaceta Oficial de la Ciudad de México el Aviso por el que se informa a los titulares de los Entes de la Administración Pública de la Ciudad de México, el periodo para acreditar a las personas servidoras públicas que fungirán como Oficiales de Información y Enlaces de las Alcaldías, ante la Agencia Digital de Innovación Pública; el cual puedes consultar <a target="_blank" href="http://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/35297f56e7b6c0db4aba623698da3bd8.pdf">aquí. </a> </div>
+    El 7 de agosto de 2020 se publicó en la Gaceta Oficial de la Ciudad de México el "Aviso por el que se informa a los titulares de los Entes de la Administración Pública de la Ciudad de México, el periodo para acreditar a las personas servidoras públicas que fungirán como Oficiales de Información y Enlaces de las Alcaldías, ante la Agencia Digital de Innovación Pública". Puedes consultarlo <a target="_blank" href="http://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/35297f56e7b6c0db4aba623698da3bd8.pdf">aquí.</a> </div>
     </div>
 </div>
 <div class="card">
