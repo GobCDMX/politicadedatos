@@ -5,18 +5,17 @@ parent: Datálogo de la ciudad de México
 permalink: datalogo
 nav_order: 1
 ---
-<h2>Datálogo</h2>
+<h2>Datálogo: el inventario de datos de la Ciudad de México</h2>
 <br>
-<h4><b>¿Qué es?</b></h4>
+<h4><b>¿Qué es el Datálogo?</b></h4>
 
+<p>El Datálogo es el Inventario de Datos de la Ciudad establecido en el Artículo 17 fracción V de la <a target="_blank" href="https://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/17741f8b4232061a75318eb627e9951e.pdf">Ley de Operación e Innovación Digital para la Ciudad de México</a>.</p>
 
-El Datálogo es el Inventario de Datos de la Ciudad de México.
+<p>Consiste en el conjunto de los <a target= _blank href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#meta">metadatos</a> de los <a target= _blank href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#rti">recursos de tecnologías de información</a> de la Administración Pública de la Ciudad de México organizados en un catálogo digital como herramienta para permitir su búsqueda y exploración.</p>
 
-Consiste en el conjunto de los <a target= _blank href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#meta">metadatos </a> de los <a target= _blank href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#rti">Recursos de Tecnologías de Información </a>  de la Administración Pública de la Ciudad de México organizados en un catálogo digital para permitir su búsqueda, exploración y administración.
+<p>Para la elaboración del Inventario de datos, se utilizan <a target= _blank href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#meta">metadatos</a>, que son datos que describen otros datos, de forma análoga a una ficha bibliográfica.</p>
 
-Los metadatos son los datos que describen otros datos o recursos de tecnologías de la información al proporcionar contexto sobre su contenido, características y propiedades.
-
-Por lo tanto, el Datálogo <strong>no contendrá los datos mismos</strong>, sino información sobre su estructura, contenido y características.
+<p>Por lo tanto, el Datálogo <strong>no contendrá los datos mismos</strong>, sino información sobre su estructura, contenido y características.</p>
 
 <h4><b>Objetivos</b></h4>
 
@@ -31,4 +30,4 @@ El Datálogo servirá para:
 
 <h4><b>¿Cómo se verá el datálogo en 2021?</b></h4>
 
-Queremos construir una herramienta para que los Entes Públicos puedan administrar su metadatos, consultarlos, y explorar los metdatos de los demás en un solo lugar.
+<p>Queremos construir una herramienta para que los Entes Públicos puedan administrar su metadatos, consultarlos, y explorar los metdatos de los demás en un solo lugar.</p>

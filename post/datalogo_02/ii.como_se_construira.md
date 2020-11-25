@@ -17,10 +17,16 @@ La participación en la recabación del Datálogo es obligatoria para los Entes 
 
 Las fases de implementación son:
 
-- Primera fase: sistemas de información
-- Segunda fase: bases de datos
-- Tercera fase: conjuntos de datos
-- Cuarta fase: capas geoespaciales
+<ul>
+  <li><b>Primera fase: sistemas de información</b></li>
+  Tiene como objetivo inventariar los Sistemas de Información en posesión de los Entes, como una de las herramientas de gestión de datos estratégicas.
+  <li><b>Segunda fase: bases de datos</b></li>
+  Tiene como objetivo inventariar Bases de Datos, es decir, a los datos organizados y relacionados de acuerdo a diferentes modelos y que necesitan de un Sistema Gestor de Bases de Datos para ser recuperadas.
+  <li><b>Tercera fase: conjuntos de datos</b></li>
+  Tiene como objetivo inventariar aquellos conjuntos de datos que se encuentran en hojas de cálculo y que son de uso más amplio y común en la Administración Pública.
+  <li><b>Cuarta fase: capas geoespaciales</b></li>
+  Tiene como objetivo inventariar aquellas capas geoespaciales utilizados por los Entes de la Administración Pública.
+</ul>
 
 
 <h4><b>Fundamento legal</b></h4>
