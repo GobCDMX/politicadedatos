@@ -10,6 +10,13 @@ nav_order: 2
 
 <p>La primera fase del Datálogo consiste en recopilar los metadatos de los diferentes Sistemas de Información que existen en la administración pública.</p>
 
+<h4><b>Instrucciones</b></h4>
+<ol>
+  <li>El 25 de noviembre del 2020 se enviará un <strong>formulario web</strong> a los Oficiales de Información mediante correo electrónico, el cual deben responder a más tardar el 15 de diciembre del 2020.</li>
+  <li>Se debe responder <strong>1 formulario por cada Sistema de Información</strong> que es propiedad del Ente.</li>
+  <li>Deberá acompañarse de una persona del área de TI o análogo que conozca de las características y funcionalidades del Sistema.</li>
+</ol>
+
 <h4><b>¿Qué es un sistema de información?</b></h4>
 <p>Es un conjunto integrado de bases de datos, conjuntos de datos, aplicaciones, tecnología (hardware, software, sistemas operativos, sistemas manejadores de bases de datos, redes, y demás aplicables) e instalaciones (recursos para alojar y dar soporte a los sistemas de información), que tiene como objeto recolectar, almacenar y/o procesar datos.</p>
 
@@ -49,13 +56,6 @@ nav_order: 2
   <li>Drupal</li>
   <li>CMS de la Ciudad de México</li>
 </ul>
-
-<h4><b>Instrucciones</b></h4>
-<ol>
-  <li>El 25 de noviembre del 2020 se enviará un <strong>formulario web</strong> a los Oficiales de Información mediante correo electrónico, el cual deben responder a más tardar el 15 de diciembre del 2020.</li>
-  <li>Se debe responder <strong>1 formulario por cada Sistema de Información</strong> que es propiedad del Ente.</li>
-  <li>Deberá acompañarse de una persona del área de TI o análogo que conozca de las características y funcionalidades del Sistema.</li>
-</ol>
 
 <h4><b>Metadatos solicitados</b></h4>
 <ul>
