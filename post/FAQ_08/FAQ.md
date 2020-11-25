@@ -129,7 +129,7 @@ nav_order: 8
 </div>
 <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
 <div class="card-body">
-    La persona titular del Ente Público debe enviar una comunicación oficial a la persona Titular de la Agencia Digital de Innovación Pública indicando la nueva designación con su respectiva información de contacto con copia a la Dirección de Coordinación de Proyectos de Datos al correo <a href="mailto: aosorio@cdmx.gob.mx">aosorio@cdmx.gob.mx</a>
+    La persona titular del Ente Público debe enviar una comunicación oficial a la persona Titular de la Agencia Digital de Innovación Pública indicando la nueva designación con su respectiva información de contacto con copia a la Dirección de Coordinación de Proyectos de Datos. Si se hace mediante correo electrónico, debe enviarse a titular.adip@cdmx.gob.mx con copia a <a href="mailto: aosorio@cdmx.gob.mx">politicadedatos@cdmx.gob.mx</a>.
 </div>
 </div>
 </div>
