@@ -11,11 +11,11 @@ nav_order: 6
 
 <table id="dataTable">
 <tbody>
-  <tr class="row0">
-    <td class="column0 style1 s">Ente Público</td>
-    <td class="column1 style2 s">Oficial de Información</td>
-    <td class="column2 style48 s">Teléfono</td>
-    <td class="column3 style49 s">Correo</td>
+  <tr name="title" class="row0">
+    <td><b>Ente Público</b></td>
+    <td><b>Oficial de Información</b></td>
+    <td><b>Teléfono</b></td>
+    <td><b>Correo</b></td>
   </tr>
   <tr class="row1">
     <td class="column0 style3 s">Agencia de Atención Animal</td>
