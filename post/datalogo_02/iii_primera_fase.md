@@ -84,4 +84,4 @@ nav_order: 2
 
 <a href="https://gobcdmx.github.io/politicadedatos/encuesta/">Preguntas frecuentes</a>
 
-<a href="https://gobcdmx.github.io/politicadedatos/contact/">Contáctanos<>
+<a href="https://gobcdmx.github.io/politicadedatos/contact/">Contáctanos</a>
