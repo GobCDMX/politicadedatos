@@ -169,7 +169,7 @@ nav_order: 8
 
     <div id="pregunta_dos" class="collapse" aria-labelledby="PD2" data-parent="#accordionExample">
       <div class="card-body">
-        El Datálogo no recoge los datos en sí mismos, sino  los metadatos (link a la sección de metadatos) de esos datos. Es decir, los datos que describen el contenido, las características y la estructura de tus datos o recursos de tecnologías de la información.  Como, por ejemplo: título de la base de datos, descripción, fecha de creación, fecha de actualización, cobertura geográfica y/o temporal, entre otros.
+        El Datálogo no recoge los datos en sí mismos, sino  los <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#meta">metadatos</a> de esos datos. Es decir, los datos que describen el contenido, las características y la estructura de tus datos o recursos de tecnologías de la información.  Como, por ejemplo: título de la base de datos, descripción, fecha de creación, fecha de actualización, cobertura geográfica y/o temporal, entre otros.
       </div>
     </div>
   </div>
