@@ -9,7 +9,9 @@ nav_order: 6
 <h2>Oficiales de Información</h2> <br>
 <input onkeyup="filterby(this.value)" value="" class="form-control" placeholder="Buscar por dependencia">
 
-<table id="dataTable">
+{% include directorio_oficiales.html %}
+
+<!-- <table id="dataTable">
 <tbody>
   <tr name="title" class="row0">
     <td><b>Ente Público</b></td>
@@ -633,4 +635,4 @@ de Radiodifusión de la Ciudad de México</td>
     <td class="column3 style47 s">No Disponible</td>
   </tr>
 </tbody>
-</table>
+</table> -->
