@@ -30,7 +30,7 @@ directorio_oficiales <-
 
 #Convertir tibble en HTML
 tabla_html <-
-  tableHTML(directorio_oficiales, rownames = F, class = "directorio_oi")
+  tableHTML(directorio_oficiales, rownames = F, class = "directorio_oi", border = 0)
 
 #Guardar tabla en carpeta _includes del micrositio
 write.table(tabla_html, "../../_includes/directorio_oficiales.html", quote = F, row.names = F, col.names = F, fileEncoding = "UTF-8")
