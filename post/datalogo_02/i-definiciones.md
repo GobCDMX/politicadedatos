@@ -30,4 +30,4 @@ El Datálogo servirá para:
 
 <h4><b>¿Cómo se verá el datálogo en 2021?</b></h4>
 
-<p>Queremos construir una herramienta para que los Entes Públicos puedan administrar su metadatos, consultarlos, y explorar los metdatos de los demás en un solo lugar.</p>
+<p>Queremos construir una herramienta que le sirva a los Entes Públicos para administrar sus metadatos, y que, si así lo eligen, sirva como una herramienta para compartir, consultar, y explorar los metdatos de los demás en un solo lugar. </p>
