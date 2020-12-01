@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portal de Datos abiertos
+title: Portal de Datos Abiertos
 permalink: /datos_abiertos/
 parent: Datos Abiertos
 nav_order: 1
