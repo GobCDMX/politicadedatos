@@ -17,16 +17,22 @@ La participación en la recabación del Datálogo es obligatoria para los Entes 
 
 Las fases de implementación son:
 
-- Primera fase: sistemas de información
-- Segunda fase: bases de datos
-- Tercera fase: conjuntos de datos
-- Cuarta fase: capas geoespaciales
+<ul>
+  <li><b>Primera fase: sistemas de información</b></li>
+  Tiene como objetivo inventariar los Sistemas de Información en posesión de los Entes, como una de las herramientas de gestión de datos estratégicas.
+  <li><b>Segunda fase: bases de datos</b></li>
+  Tiene como objetivo inventariar Bases de Datos, es decir, a los datos organizados y relacionados de acuerdo a diferentes modelos y que necesitan de un Sistema Gestor de Bases de Datos para ser recuperadas.
+  <li><b>Tercera fase: conjuntos de datos</b></li>
+  Tiene como objetivo inventariar aquellos conjuntos de datos que se encuentran en hojas de cálculo y que son de uso más amplio y común en la Administración Pública.
+  <li><b>Cuarta fase: capas geoespaciales</b></li>
+  Tiene como objetivo inventariar aquellas capas geoespaciales utilizados por los Entes de la Administración Pública.
+</ul>
 
 
 <h4><b>Fundamento legal</b></h4>
 
 - <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#datalog">Artículo 17, fracción V</a> de la Ley de Operación e Innovación Digital de la Ciudad de México. Ahí se establece la facultad de la Agencia Digital de Innovación Pública de crear un inventario respecto de los datos que los Entes generen y el estado que estos guardan, con base en la información que entreguen los Oficiales de Información.
--<a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#datalog-2">Artículo 16, fracción II</a>  de la Ley de Operación e Innovación Digital de la Ciudad de México. Se establece la obligación de los Entes de compartir con la Agencia Digital de Innovación Pública los datos que cada Ente genere.
+- <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#datalog-2">Artículo 16, fracción II</a>  de la Ley de Operación e Innovación Digital de la Ciudad de México. Se establece la obligación de los Entes de compartir con la Agencia Digital de Innovación Pública los datos que cada Ente genere.
 
 Para conocer las fechas en las que se llevará a cabo cada fase consulta nuestros <a href="https://gobcdmx.github.io/politicadedatos/siguientes_pasos/">siguientes pasos</a>.  
 
