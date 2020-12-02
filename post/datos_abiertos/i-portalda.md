@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Política de Datos abiertos
-permalink: https://datos.cdmx.gob.mx/pages/home/
+permalink: /Politica_datos
 parent: Datos Abiertos
 nav_order: 2
 
