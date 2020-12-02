@@ -26,7 +26,6 @@ nav_order: 3
 <a target="_blank" href="https://escueladedatos.online/narrativas-basadas-en-datos-aprende-a-elegir-formatos-para-tus-audiencias/">Narrativas basadas en datos: aprende a elegir formatos para tus audiencias</a></li>
     Aprende a distinguir el grado de especialización de tus audiencias para elegir el tratamiento adecuado de los datos para su consumo. También puedes evaluar distintos tipos de formatos y conocer ejemplos iberoamericanos de narrativas basadas en datos.
     <li><a target="_blank" href="https://escueladedatos.online/8-recomendaciones-para-identificar-encuestas-confiables/">8 recomendaciones para identificar encuestas confiables</a> </li>
-    <br>
     Todos los días escuchamos a medios de comunicación, personalidades y organizaciones respaldando noticias o discursos con datos obtenidos por encuestas. Muchas veces no nos detenemos a pensar sobre la confiabilidad de estos datos, cómo fueron obtenidos y para qué fin. Sigue estas recomendaciones para reconocer la mejor encuesta.
     <li><a target="_blank" href="https://escueladedatos.online/diseno-de-investigacion-muestreo-y-metodos-de-recoleccion-de-datos/">Diseño de investigación, muestreo y métodos de recolección de datos</a></li>
     Aprende a elegir qué diseño de investigación podría reflejar en mejor medida la priorización y los objetivos de una investigación ¿Cómo pasar de los aspectos teóricos a los prácticos para la recolección y análisis de datos?
