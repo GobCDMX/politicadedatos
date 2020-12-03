@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Portal de Datos Abiertos
-permalink: https://datos.cdmx.gob.mx/pages/home/
+permalink: /datos_abiertos/PortalDA
+parent: Datos Abiertos
 nav_order: 1
 ---
+

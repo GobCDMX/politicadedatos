@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Política de Datos abiertos
+title: Política de Datos Abiertos
 permalink: /Politica_datos
 parent: Datos Abiertos
 nav_order: 2
