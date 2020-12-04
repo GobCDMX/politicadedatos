@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Preguntas frecuentes
-permalink: /encuesta/
+permalink: /Preguntas_frecuentes
 nav_order: 8
 
 ---
