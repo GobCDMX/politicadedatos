@@ -22,8 +22,8 @@ title: Portal de la Política de Datos de la Ciudad de México
 email: your-email@example.com
 description: Portal de la Política de Gestión de Datos de la Ciudad de Méxicos.
   
-baseurl: "/politicadedatos" 
-url: "https://gobcdmx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/politicadedatos" 
+url: "https://politicadedatos.cdmx.gob.mx" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 search_enabled: true
