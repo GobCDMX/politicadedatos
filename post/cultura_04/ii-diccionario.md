@@ -44,17 +44,17 @@ Integración de datos: definiciones claras de los elementos del conjunto de dato
 <h4><b>Ejemplos de algunos diccionarios de datos: <br>
 </b></h4>
 
-* <a href="https://datos.cdmx.gob.mx/api/datasets/1.0/capacidad-hospitalaria/attachments/capacidad_hospitalaria_micrositio_diccionario_de_datos_csv/">Diccionario de datos del Portal de Datos Abiertos de la Ciudad de México</a>  
+* <a target="_blank" href="https://datos.cdmx.gob.mx/api/datasets/1.0/capacidad-hospitalaria/attachments/capacidad_hospitalaria_micrositio_diccionario_de_datos_csv/">Diccionario de datos del Portal de Datos Abiertos de la Ciudad de México</a>  
 
-* <a href="https://www.inegi.org.mx/rnm/index.php/catalog/214/datafile/F23">Diccionario de datos elaborado por el Instituto Nacional de Estadística y Geografía (INEGI)</a>
+* <a target="_blank" href="https://www.inegi.org.mx/rnm/index.php/catalog/214/datafile/F23">Diccionario de datos elaborado por el Instituto Nacional de Estadística y Geografía (INEGI)</a>
 
-* <a href="http://epidemiologia.salud.gob.mx/gobmx/salud/datos_abiertos/diccionario_datos_covid19.zip">Diccionario de datos elaborado por la Secretaría de Salud Federal: </a>
+* <a target="_blank" href="http://epidemiologia.salud.gob.mx/gobmx/salud/datos_abiertos/diccionario_datos_covid19.zip">Diccionario de datos elaborado por la Secretaría de Salud Federal: </a>
 
-* <a href="https://microdata.worldbank.org/index.php/catalog/2909/data-dictionary/F6?file_name=mpi_2015_appendix">Diccionario de datos elaborado por el Banco Mundial:</a>  
+* <a target="_blank" href="https://microdata.worldbank.org/index.php/catalog/2909/data-dictionary/F6?file_name=mpi_2015_appendix">Diccionario de datos elaborado por el Banco Mundial:</a>  
 
-* <a href="https://pds.nasa.gov/tools/dd-search/">Diccionario de datos elaborado por la NASA</a>
+* <a target="_blank" href="https://pds.nasa.gov/tools/dd-search/">Diccionario de datos elaborado por la NASA</a>
 
-* <a href=" https://deepseacoraldata.noaa.gov/internal-documents/program-guidance/science-team-guidance-for-data-management/20170707.xlsx/view ">Diccionario de datos de la Administración Oceánica y Nacional de Estados Unidos</a>
+* <a target="_blank" href=" https://deepseacoraldata.noaa.gov/internal-documents/program-guidance/science-team-guidance-for-data-management/20170707.xlsx/view ">Diccionario de datos de la Administración Oceánica y Nacional de Estados Unidos</a>
 <br><br>
 Muy pronto la Agencia estará emitiendo un estándar para la elaboración de Diccionarios de Datos, como una buena práctica en la gestión y documentación de los datos. ¡Espera noticias por este medio!
 
