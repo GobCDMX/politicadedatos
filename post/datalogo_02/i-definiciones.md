@@ -11,9 +11,9 @@ nav_order: 1
 
 <p>El Datálogo es el Inventario de Datos de la Ciudad establecido en el Artículo 17 fracción V de la <a target="_blank" href="https://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/17741f8b4232061a75318eb627e9951e.pdf">Ley de Operación e Innovación Digital para la Ciudad de México</a>.</p>
 
-<p>Consiste en el conjunto de los <a target= _blank href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#meta">metadatos</a> de los <a target= _blank href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#rti">recursos de tecnologías de información</a> de la Administración Pública de la Ciudad de México organizados en un catálogo digital como herramienta para permitir su búsqueda y exploración.</p>
+<p>Consiste en el conjunto de los <a target= _blank href="http://politicadedatos.cdmx.gob.mx/cultura/glosario#meta">metadatos</a> de los <a target= _blank href="http://politicadedatos.cdmx.gob.mx/cultura/glosario#rti">recursos de tecnologías de información</a> de la Administración Pública de la Ciudad de México organizados en un catálogo digital como herramienta para permitir su búsqueda y exploración.</p>
 
-<p>Para la elaboración del Inventario de datos, se utilizan <a target= _blank href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#meta">metadatos</a>, que son datos que describen otros datos, de forma análoga a una ficha bibliográfica.</p>
+<p>Para la elaboración del Inventario de datos, se utilizan <a target= _blank href="http://politicadedatos.cdmx.gob.mx/cultura/glosario#meta">metadatos</a>, que son datos que describen otros datos, de forma análoga a una ficha bibliográfica.</p>
 
 <p>Por lo tanto, el Datálogo <strong>no contendrá los datos mismos</strong>, sino información sobre su estructura, contenido y características.</p>
 
@@ -21,7 +21,7 @@ nav_order: 1
 
 El Datálogo servirá para:
 
-- Identificar, registrar y enumerar los <a target= _blank  href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#rti">recursos de tecnologías de información</a> de la Administración Pública de la Ciudad de México.
+- Identificar, registrar y enumerar los <a target= _blank  href="http://politicadedatos.cdmx.gob.mx/cultura/glosario#rti">recursos de tecnologías de información</a> de la Administración Pública de la Ciudad de México.
 - Buscar, explorar y descubrir los metadatos de la Administración Pública.
 - Facilitar la gestión y administración de los metadatos de los Entes Públicos.
 - Facilitar el intercambio de datos entre los Entes de la Administración Pública al proporcionar información sobre los datos en su posesión, sus características y el estado en que se encuentran.

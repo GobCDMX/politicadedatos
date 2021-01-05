@@ -69,10 +69,10 @@ nav_order: 8
 <div class="card-body">
     <ol>
         <li>
-            <a href="https://gobcdmx.github.io/politicadedatos/sobre/comocumplir">Funciones del Oficial de Información</a>
+            <a href="https://politicadedatos.cdmx.gob.mx//politicadedatos/sobre/comocumplir">Funciones del Oficial de Información</a>
         </li>
         <li>
-            <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#oficial-info" target="_blank" rel="noopener noreferrer"> Artículo 14 de la Ley de Operacion e Innovación Digital Para la ciudad de México</a>
+            <a target="_blank" href="https://politicadedatos.cdmx.gob.mx//politicadedatos/loid/#oficial-info" target="_blank" rel="noopener noreferrer"> Artículo 14 de la Ley de Operacion e Innovación Digital Para la ciudad de México</a>
 
 </li>
     </ol>
@@ -89,7 +89,7 @@ nav_order: 8
 </div>
 <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
 <div class="card-body">
-    Aquí puedes consultar el <a href="https://gobcdmx.github.io/politicadedatos/directorio/">directorio de las Personas Oficiales de Información</a> por Ente Público.
+    Aquí puedes consultar el <a href="https://politicadedatos.cdmx.gob.mx//politicadedatos/directorio/">directorio de las Personas Oficiales de Información</a> por Ente Público.
 
 
 </div>
@@ -105,7 +105,7 @@ nav_order: 8
 </div>
 <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
 <div class="card-body">
-    No tener un Oficial de Información designado es un incumplimiento del <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/loid/#art_16">artículo 16 de la LOID</a>. Para designar a su Oficial de Información, la persona titular del Ente Público debe enviar una comunicación oficial a la persona Titular de la Agencia Digital de Innovación Pública indicando la designación, así como la información de contacto de la persona designada.
+    No tener un Oficial de Información designado es un incumplimiento del <a target="_blank" href="https://politicadedatos.cdmx.gob.mx//politicadedatos/loid/#art_16">artículo 16 de la LOID</a>. Para designar a su Oficial de Información, la persona titular del Ente Público debe enviar una comunicación oficial a la persona Titular de la Agencia Digital de Innovación Pública indicando la designación, así como la información de contacto de la persona designada.
 </div>
 </div>
 </div>
@@ -169,7 +169,7 @@ nav_order: 8
 
     <div id="pregunta_dos" class="collapse" aria-labelledby="PD2" data-parent="#accordionExample">
       <div class="card-body">
-        El Datálogo no recoge los datos en sí mismos, sino  los <a target="_blank" href="https://gobcdmx.github.io/politicadedatos/cultura/glosario#meta">metadatos</a> de esos datos. Es decir, los datos que describen el contenido, las características y la estructura de tus datos o recursos de tecnologías de la información.  Como, por ejemplo: título de la base de datos, descripción, fecha de creación, fecha de actualización, cobertura geográfica y/o temporal, entre otros.
+        El Datálogo no recoge los datos en sí mismos, sino  los <a target="_blank" href="https://politicadedatos.cdmx.gob.mx//politicadedatos/cultura/glosario#meta">metadatos</a> de esos datos. Es decir, los datos que describen el contenido, las características y la estructura de tus datos o recursos de tecnologías de la información.  Como, por ejemplo: título de la base de datos, descripción, fecha de creación, fecha de actualización, cobertura geográfica y/o temporal, entre otros.
       </div>
     </div>
   </div>

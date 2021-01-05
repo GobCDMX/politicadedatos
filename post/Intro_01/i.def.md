@@ -23,11 +23,11 @@ La <a target="_blank" href="http://www3.contraloriadf.gob.mx/prontuario/index.ph
 En conjunto, se compone de:
 
 
--  <a href="https://gobcdmx.github.io/politicadedatos/post/Intro_01/v.modelo.html">Marco para la Gestión de Datos  </a>
+-  <a href="https://politicadedatos.cdmx.gob.mx//politicadedatos/post/Intro_01/v.modelo.html">Marco para la Gestión de Datos  </a>
 
-- <a href="https://gobcdmx.github.io/politicadedatos/post/Intro_01/vi.modelo.html">Modelo de Madurez </a>
+- <a href="https://politicadedatos.cdmx.gob.mx//politicadedatos/post/Intro_01/vi.modelo.html">Modelo de Madurez </a>
 
--  <a href="https://gobcdmx.github.io/politicadedatos/marco_legal">Lineamientos, estándares y buenas prácticas</a>
+-  <a href="https://politicadedatos.cdmx.gob.mx//politicadedatos/marco_legal">Lineamientos, estándares y buenas prácticas</a>
 <br><br>
 
 <h4><b>¿Para qué gestionar datos?</b></h4>
