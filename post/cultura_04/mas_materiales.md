@@ -15,7 +15,7 @@ nav_order: 3
 
 <ul>
     <li><a target="_blank" href="https://escueladedatos.online/como-empezar-mi-propia-aventura-con-datos/">¿Cómo empezar mi propia aventura con datos?</a> </li>
-    Conoce lo que debes hacer en cada uno de los procesos para comenzar a trabajar con datos sin que sea complicado.<br>
+    Conoce lo que debes hacer en cada uno de los procesos para comenzar a trabajar con datos sin que sea complicado.<br><br>
 
     <li><a target="_blank" href="https://escueladedatos.online/consejos-practicos-para-entender-datos-estadisticos/">Consejos prácticos para entender datos estadísticos</a></li>
     A partir de la revisión de diversas fuentes de datos, como el Instituto Nacional de Estadística y Geografía, conoce que hay en estos portales, como se encuentra la información y la oportunidad que existe para crear sustentar decisiones basadas en datos y contar historias.<br>
@@ -49,7 +49,7 @@ nav_order: 3
 
     <li><a target="_blank" href="https://escueladedatos.online/survey-solutions-desde-cero-creando-encuestas-profesionales/">Survey Solutions desde cero: creando encuestas profesionales</a></li>
     ¿Te interesa crear encuestas profesionales? Aquí te dejamos un buen inicio para eso. Hemos creado este tutorial para introducirse al diseño de encuestas con Survey Solutions.<br>
-    
+
     <li><a target="_blank" href="https://escueladedatos.online/sql-la-precuela-excel-vs-bases-de-datos/">SQL: la precuela (Excel vs. bases de datos) </a></li>
     Aprende las ventajas y desventajas de Excel, y conoce las herramientas alternativas  y técnicas sencillas de usar cuando se trata de obtener datos.
    </ul>
