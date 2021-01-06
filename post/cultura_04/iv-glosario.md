@@ -352,7 +352,7 @@ d) ODT para documentos de texto. <br />
           </tr>
           <tr class="row74">
             <td class="column0 style3 s">Registro (u observación)</td>
-            <td class="badge text-wrap style4 null"></td>
+            <td class="badge text-wrap style4 null">Cada uno de los elementos (sujetos, observaciones, hechos) dentro de una base de datos o conjunto de datos; usualmente escritas en filas o tuplas. Por ejemplo, en un conjunto de datos sobre beneficiarios de un programa social, existen 350 registros, que corresponden a cada uno de los beneficiarios (beneficiario1, beneficiario2...beneficiario 350).</td>
           </tr>
           <tr class="row75">
             <td class="column0 style3 s">REST</td>
