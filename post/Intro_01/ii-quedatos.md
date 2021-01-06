@@ -13,7 +13,7 @@ search.heading_level: 2
 <h4><b>¿Qué son los datos? </b></h4>
 Para efectos de la <a target="_blank" href="http://www3.contraloriadf.gob.mx/prontuario/index.php/normativas/Template/ver_mas/68319/42/1/0 ">Política de Gestión de Datos</a>, los datos son aquellos registros, ya sean numéricos o textuales, que describen las características o atributos de cualquier evento, individuo o cosa, y que son producidos, procesados y/o albergados digitalmente en diversos recursos de tecnologías de información.
 
-Los  <a href="https://politicadedatos.cdmx.gob.mx//politicadedatos/cultura/glosario#rti">Recursos de Tecnologías de la Información</a> son:
+Los  <a href="https://politicadedatos.cdmx.gob.mx/cultura/glosario#rti">Recursos de Tecnologías de la Información</a> son:
 - Conjuntos y bases de datos
 - Aplicaciones y sistemas de información digitales
 - Tecnología (hardware, software, sistemas operativos, sistemas manejadores de bases de datos, redes, entre otros).
@@ -33,6 +33,6 @@ Todos los datos públicos en posesión de los Entes de la Administración Públi
 
 <h4><b> ¿Cuál es la diferencia entre datos públicos y datos abiertos? </b> </h4>
 
-Los <a target= _blank href="https://politicadedatos.cdmx.gob.mx//politicadedatos/cultura/glosario#dabiertos">datos abiertos</a> son aquellos datos públicos que pueden ser publicados para su utilización y consulta por la ciudadanía. Es decir, son un subconjunto de los datos públicos.
+Los <a target= _blank href="https://politicadedatos.cdmx.gob.mx/cultura/glosario#dabiertos">datos abiertos</a> son aquellos datos públicos que pueden ser publicados para su utilización y consulta por la ciudadanía. Es decir, son un subconjunto de los datos públicos.
 
-<img src="https://politicadedatos.cdmx.gob.mx//politicadedatos/assets/img/datos.jpg" class="center" alt="Imagen no fue encontrada" >
+<img src="https://politicadedatos.cdmx.gob.mx/assets/img/datos.jpg" class="center" alt="Imagen no fue encontrada" >
