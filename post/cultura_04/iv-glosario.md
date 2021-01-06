@@ -82,11 +82,11 @@ nav_order: 4
           </tr>
           <tr class="row15">
             <td class="column0 style3 s">Conjunto de datos</td>
-            <td class="badge text-wrap style6 s">También llamado <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">dataset, es una </span><span style="color:#000000; font-family:'Arial'; font-size:10pt">colección de datos organizados, que en su forma más básica se organiza como una matriz n*m, en la cual n es el número de observaciones y m es el número de atributos o columnas. Los formatos más comunes de almacenamiento de conjuntos de datos son xlsx y csv (archivos separados por comas). </span><span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver csv.</span></td>
+            <td class="badge text-wrap style6 s">También llamado dataset, es una colección de datos organizados, que en su forma más básica se organiza como una matriz n*m, en la cual n es el número de observaciones y m es el número de atributos o columnas. Los formatos más comunes de almacenamiento de conjuntos de datos son xlsx y csv (archivos separados por comas). <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver csv.</span></td>
           </tr>
           <tr class="row16">
             <td class="column0 style3 s">CSV</td>
-            <td class="badge text-wrap style6 s">Siglas en inglés de <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">Comma Separated Values, e</span><span style="color:#000000; font-family:'Arial'; font-size:10pt">s un formato de archivo que representa datos en forma de tabla, en las que las columnas se separan por comas y las filas por saltos de línea. Es uno de los formatos denominado &quot;de formato abierto&quot; y actualmente es ampliamente utilizado como formato de intercambio para datos tabulares. </span><span style="color:#0000FF; font-family:'Arial'; font-size:10pt">ver: formatos abiertos. </span></td>
+            <td class="badge text-wrap style6 s">Siglas en inglés de Comma Separated Values, es un formato de archivo que representa datos en forma de tabla, en las que las columnas se separan por comas y las filas por saltos de línea. Es uno de los formatos denominados "abiertos"; y actualmente es ampliamente utilizado como formato de intercambio para datos tabulares. <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">ver: formatos abiertos. </span></td>
           </tr>
           <tr class="row17">
             <td class="column0 style3 s">Data Lake</td>
@@ -127,7 +127,7 @@ Ver: Artículo 6o Constitución Política de los Estados Unidos Mexicanos y Ley 
           </tr>
           <tr class="row23">
             <td class="column0 style3 s">Datos primarios</td>
-            <td class="badge text-wrap style6 s">También denominados &quot;datos brutos&quot; del inglés <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">raw data</span><span style="color:#000000; font-family:'Arial'; font-size:10pt">, son aquellos datos recolectados directamente de su fuente, sin haber pasado por algún proceso de transformación, agregación y/o análisis. </span></td>
+            <td class="badge text-wrap style6 s">También denominados "datos brutos" del inglés raw data, son aquellos datos recolectados directamente de su fuente, sin haber pasado por algún proceso de transformación, agregación y/o análisis.</td>
           </tr>
           <tr class="row24">
             <td class="column0 style3 s">Datos estructurados</td>
@@ -168,7 +168,7 @@ Ejemplos de datos de referencia: estado civil, código de delito, entidad.</td>
           </tr>
           <tr class="row30">
             <td class="column0 style3 s">Datos vinculados</td>
-            <td class="badge text-wrap style6 s">Del inglés <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">linked data</span><span style="color:#000000; font-family:'Arial'; font-size:10pt">, también conocidos como datos enlazados, son un método de publicación de datos estructurados para que puedan ser interconectados mediante tecnologías y protocolos web como http, rdf y los identificadores URI. Uno de sus principales objetivos es hacer que la integración de datos sea automática, incluso para grandes conjuntos de datos. Los datos vinculados generalmente se representan mediante RDF </span><span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver: HTTP, Ver: URI, Ver: RDF, Ver: URL </span></td>
+            <td class="badge text-wrap style6 s">Del inglés linked data, también conocidos como datos enlazados, son un método de publicación de datos estructurados para que puedan ser interconectados mediante tecnologías y protocolos web como http, rdf y los identificadores URI. Uno de sus principales objetivos es hacer que la integración de datos sea automática, incluso para grandes conjuntos de datos. Los datos vinculados generalmente se representan mediante RDF <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver: HTTP, Ver: URI, Ver: RDF, Ver: URL </span></td>
           </tr>
           <tr class="row31">
             <td class="column0 style8 s">Datum</td>
@@ -176,7 +176,7 @@ Ejemplos de datos de referencia: estado civil, código de delito, entidad.</td>
           </tr>
           <tr class="row32">
             <td class="column0 style8 s">DCAT</td>
-            <td class="badge text-wrap style5 s">Siglas en inglés para <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">Data Catalog Vocabulary,</span><span style="color:#000000; font-family:'Arial'; font-size:10pt"> Es un vocabulario controlado del marco RDF (Resource Discovery Framework) diseñado para facilitar la interoperabilidad de los catálogos de datos publicados en Internet, mediante el uso de un modelo y vocabulario estándar.</span></td>
+            <td class="badge text-wrap style5 s">Siglas en inglés para Data Catalog Vocabulary, es un vocabulario controlado del marco RDF (Resource Discovery Framework) diseñado para facilitar la interoperabilidad de los catálogos de datos publicados en Internet, mediante el uso de un modelo y vocabulario estándar.</td>
           </tr>
           <tr class="row33">
             <td class="column0 style8 s">Diccionario de datos</td>
@@ -184,7 +184,7 @@ Ejemplos de datos de referencia: estado civil, código de delito, entidad.</td>
           </tr>
           <tr class="row34">
             <td class="column0 style8 s">ETL</td>
-            <td class="badge text-wrap style5 s">Siglas en inglés para <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">extraer, transformar y cargar; </span><span style="color:#000000; font-family:'Arial'; font-size:10pt">es el proceso de compilación de datos a partir de un número ilimitado de fuentes, su posterior organización, limpieza, transformación y centralización en un único repositorio.<br />
+            <td class="badge text-wrap style5 s">Siglas en inglés para extraer, transformar y cargar; es el proceso de compilación de datos a partir de un número ilimitado de fuentes, su posterior organización, limpieza, transformación y centralización en un único repositorio.<br />
 <br />
 </span></td>
           </tr>
@@ -284,7 +284,7 @@ d) ODT para documentos de texto. <br />
           </tr>
           <tr class="row57">
             <td class="column0 style3 s">KMZ</td>
-            <td class="badge text-wrap style6 s">Es un formato de archivo para guardar datos geográficos dentro de un navegador terrestre, formado por un archivo KML principal y cero o más archivos complementarios empaquetados en formato .zip formando una única unidad denominada <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">fichero</span><span style="color:#000000; font-family:'Arial'; font-size:10pt">. Cuando el archivo KMZ se descomprime, el archivo .kml principal y los archivos complementarios se separan según sus formatos originales. Google Earth y Google Maps pueden leer archivos KML y KMZ directamente y pueden guardar archivos en formato KMZ. </span></td>
+            <td class="badge text-wrap style6 s">Es un formato de archivo para guardar datos geográficos dentro de un navegador terrestre, formado por un archivo KML principal y cero o más archivos complementarios empaquetados en formato .zip formando una única unidad denominada fichero. Cuando el archivo KMZ se descomprime, el archivo .kml principal y los archivos complementarios se separan según sus formatos originales. Google Earth y Google Maps pueden leer archivos KML y KMZ directamente y pueden guardar archivos en formato KMZ.</td>
           </tr>
           <tr class="row58">
             <td class="column0 style3 s">Latitud</td>
@@ -304,7 +304,7 @@ d) ODT para documentos de texto. <br />
           </tr>
           <tr class="row62">
             <td class="column0 style3 s">MySQL</td>
-            <td class="badge text-wrap style6 s">Es un sistema gestor de bases de datos (SGBD) relacional basado en lenguaje de consulta estructurado (SQL, <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">Structured Query Language</span><span style="color:#000000; font-family:'Arial'; font-size:10pt">). </span></td>
+            <td class="badge text-wrap style6 s">Es un sistema gestor de bases de datos (SGBD) relacional basado en lenguaje de consulta estructurado (SQL, Structured Query Language). </td>
           </tr>
           <tr class="row63">
             <td class="column0 style3 s">NoSQL</td>
