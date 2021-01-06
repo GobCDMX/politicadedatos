@@ -60,9 +60,8 @@ Muy pronto la Agencia estará emitiendo un estándar para la elaboración de Dic
 
 
 
-Descarga aquí la guía : <a target="_blank" href="https://politicadedatos.cdmx.gob.mx/assets\ppts\guia_dicc.pdf"  download="guia_catt.pdf">Guía elaboración de diccionarios de datos</a>
+Descarga aquí la guía : <a target="_blank" href="https://politicadedatos.cdmx.gob.mx/assets/ppts/guia_dicc.pdf"  download="guia_catt.pdf">Guía elaboración de diccionarios de datos</a>
 
-Descarga aquí la <a target="_blank" href="https://politicadedatos.cdmx.gob.mx/assets\excel\plantilla_diccionario.xlsx"  download="plantilla_diccionario_de_datos.xlsx">plantilla para elaborar diccionarios de datos.
+Descarga aquí la <a target="_blank" href="https://politicadedatos.cdmx.gob.mx/assets/excel/plantilla_diccionario.xlsx"  download="plantilla_diccionario_de_datos.xlsx">plantilla para elaborar diccionarios de datos.
 
-Descarga aquí un <a target="_blank" href="https://politicadedatos.cdmx.gob.mx/assets\excel\ejemplo_diccionario_de_datos.xlsx"  download="ejemplo_diccionario_de_datos.xlsx">ejemplo de diccionario de datos. </a>
-
+Descarga aquí un <a target="_blank" href="https://politicadedatos.cdmx.gob.mx/assets/excel/ejemplo_diccionario_de_datos.xlsx"  download="ejemplo_diccionario_de_datos.xlsx">ejemplo de diccionario de datos. </a>
