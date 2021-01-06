@@ -9,11 +9,11 @@ nav_order: 4
 
 
 
-  <h2>Glosario <h2> 
+  <h2>Glosario <h2>
 <input onkeyup="filterby(this.value)" value="" class="form-control" placeholder="Buscar un término">
 
   <table  id="dataTable">
-      <thead> 
+      <thead>
       <th><h3>Término</h3></th>
       <th><h3>Definición</h3></th>
       </thead>
@@ -74,7 +74,7 @@ nav_order: 4
           </tr>
           <tr class="row13">
             <td class="column0 style3 s">Código abierto</td>
-            <td class="badge text-wrap style6 s">También llamado <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">&quot;Open source&quot;, </span><span style="color:#000000; font-family:'Arial'; font-size:10pt">se refiere al modelo de desarrollo de un software en que el código de un programa (código fuente) se distribuye libremente (algunas veces de manera gratuita) para ser usado y modificado por las personas usuarias sin ninguna restricción. </span><span style="color:#0000FF; font-family:'Arial'; font-size:10pt">ver: código fuente. </span></td>
+            <td class="badge text-wrap style6 s">También llamado <em>"Open source"</em> se refiere al modelo de desarrollo de un software en que el código de un programa (código fuente) se distribuye libremente (algunas veces de manera gratuita) para ser usado y modificado por las personas usuarias sin ninguna restricción. <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">ver: código fuente. </span></td>
           </tr>
           <tr class="row14">
             <td class="column0 style3 s">Código fuente</td>
