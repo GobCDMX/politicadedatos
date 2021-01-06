@@ -82,6 +82,6 @@ nav_order: 2
 
 <p>De acuerdo al numeral vigésimo cuarto de la <strong>Política de Gestión de Datos de la Ciudad de México</strong>, los Entes Públicos deberán proporcionar los metadatos que la Agencia Digital de Innovación Pública les solicite, en los términos y plazos que ésta determine, para efectos de la conformación del Inventario de Datos de la Ciudad.</p>
 
-<a href="https://politicadedatos.cdmx.gob.mx//politicadedatos/encuesta/">Preguntas frecuentes</a>
+<a href="https://politicadedatos.cdmx.gob.mx/encuesta/">Preguntas frecuentes</a>
 
-<a href="https://politicadedatos.cdmx.gob.mx//politicadedatos/contact/">Contáctanos</a>
+<a href="https://politicadedatos.cdmx.gob.mx/contact/">Contáctanos</a>
