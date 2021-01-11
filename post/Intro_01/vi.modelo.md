@@ -17,7 +17,7 @@ La madurez de la gestión se refiere al grado en que los componentes del MGD-CDM
 
 El modelo de madurez medirá el avance en la gestión de datos según los siguientes niveles.
 
-<img class="center" src="https://politicadedatos.cdmx.gob.mx//politicadedatos/assets/img/modelo-madurez.png" alt="Imagen no fue encontrada">
+<img class="center" src="https://politicadedatos.cdmx.gob.mx/assets/img/modelo-madurez.png" alt="Imagen no fue encontrada">
 
 <h4> Nivel de madurez inicial: </h4>
 El Ente de la Administración Pública no tiene definidos los procesos necesarios para mantener las prácticas de gestión de datos.

@@ -20,7 +20,7 @@ Su función es sentar las bases para la definición de objetivos claros, alcanza
 <h4><b>¿En qué consiste? </b></h4>
 El MGD-CDMX se conforma de ocho componentes, que consisten en acciones o prácticas presentes en todo el ciclo de vida de los datos:
 
-<img src="https://politicadedatos.cdmx.gob.mx//politicadedatos/assets/img/marco_gestion.png" alt="Imagen no fue encontrada">
+<img src="https://politicadedatos.cdmx.gob.mx/assets/img/marco_gestion.png" alt="Imagen no fue encontrada">
 
 
 <h4><b>¿Para qué? </b> </h4>
@@ -28,7 +28,7 @@ El MGD-CDMX se conforma de ocho componentes, que consisten en acciones o prácti
 - Almacenamiento y acceso seguro, eficiente y oportuno de una gran cantidad de datos.
 - Facilitar el acceso a datos integrados y consistentes para la toma de decisiones basadas en evidencia.
 
-Consulta aquí la <a target="_blank" href="https://politicadedatos.cdmx.gob.mx//politicadedatos/assets/pdfs/RE_MGD-CDMX.pdf" download="Resumen ejecutivo MGD-CDMX.pdf">versión ejecutiva</a> del Marco para la Gestión de Datos.
+Consulta aquí la <a target="_blank" href="https://politicadedatos.cdmx.gob.mx/assets/pdfs/RE_MGD-CDMX.pdf" download="Resumen ejecutivo MGD-CDMX.pdf">versión ejecutiva</a> del Marco para la Gestión de Datos.
 
 
 <h3>Componentes del MGD-CDMX</h3> <br>
@@ -58,9 +58,9 @@ Consulta aquí la <a target="_blank" href="https://politicadedatos.cdmx.gob.mx//
         Conjunto de reglas, actitudes y prácticas en torno a la gestión de los datos. <br>
         <br><p>La <b>gobernanza de datos</b> se refiere al establecimiento de reglas claras de participación, decisión y autoridad sobre los datos. Pueden ser establecidas al interior de cada Ente (de manera formal o informal); y/o, establecidas por la Agencia u otra autoridad competente en la materia.</p>
 
-        <p>Si quieres ayudar a construir la gobernanza de datos de la Ciudad <a href="https://politicadedatos.cdmx.gob.mx//politicadedatos/participacion/">participa aquí</a>.</p>
+        <p>Si quieres ayudar a construir la gobernanza de datos de la Ciudad <a href="https://politicadedatos.cdmx.gob.mx/participacion/">participa aquí</a>.</p>
         <br>
-        La <b>cultura de datos</b> se refiere al desarrollo de competencias, capacidades y habilidades que permitan comprender el valor e importancia de los datos. Para promoverla, desarrollamos distintas acciones, <a href="https://politicadedatos.cdmx.gob.mx//politicadedatos/cultura/intro">mira aquí</a>.
+        La <b>cultura de datos</b> se refiere al desarrollo de competencias, capacidades y habilidades que permitan comprender el valor e importancia de los datos. Para promoverla, desarrollamos distintas acciones, <a href="https://politicadedatos.cdmx.gob.mx/cultura/intro">mira aquí</a>.
         </div>
         <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
 
@@ -110,7 +110,7 @@ El grado de vigencia de los datos, entendido como el grado en el que las actuali
 </li>
 </ul>
 
-¿Cómo mejorar la calidad de mis datos? Haz click <a href="https://politicadedatos.cdmx.gob.mx//politicadedatos/cultura/material_adicional">aquí</a>.
+¿Cómo mejorar la calidad de mis datos? Haz click <a href="https://politicadedatos.cdmx.gob.mx/cultura/material_adicional">aquí</a>.
 </div>
 
 <div class="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">
@@ -130,7 +130,7 @@ la integridad, confidencialidad y privacidad de los datos. <br>
 
 <p>Pueden ser: nombre de la base de datos, sistema y/o conjunto de datos; frecuencia de actualización de los datos; cobertura geográfica; tema; entre otros.</p>
 
-<p>Los metadatos serán el principal insumo del <a href="https://politicadedatos.cdmx.gob.mx//politicadedatos/datalogo">Inventario de Datos la Ciudad de México</a>.</p>  
+<p>Los metadatos serán el principal insumo del <a href="https://politicadedatos.cdmx.gob.mx/datalogo">Inventario de Datos la Ciudad de México</a>.</p>  
 
 <p>Para que sea posible sistematizar la documentación, recolección y administración de metadatos, es necesario contar con un estándar.  
 </p><br>
@@ -177,7 +177,7 @@ Para establecer los datos maestros y de referencia más importantes de la Ciudad
 <div class="tab-pane fade" id="list-gestion" role="tabpanel" aria-labelledby="list-gestion-list">
 <h3>Gestión de datos no estructurados</h3>
     <p>
-    Actividades de almacenamiento, protección, acceso y recuperación de los datos no estructurados  <a href="https://politicadedatos.cdmx.gob.mx//politicadedatos/cultura/glosario#datos_nos">datos no estructurados</a>
+    Actividades de almacenamiento, protección, acceso y recuperación de los datos no estructurados  <a href="https://politicadedatos.cdmx.gob.mx/cultura/glosario#datos_nos">datos no estructurados</a>
 </p>
     <p> Pueden ser: texto, gráficas, imágenes, correos electrónicos, audio y/o video, los cuales podrían contener datos valiosos a ser gestionados.
 </p>
