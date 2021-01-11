@@ -9,11 +9,11 @@ nav_order: 4
 
 
 
-  <h2>Glosario <h2> 
+  <h2>Glosario <h2>
 <input onkeyup="filterby(this.value)" value="" class="form-control" placeholder="Buscar un término">
 
   <table  id="dataTable">
-      <thead> 
+      <thead>
       <th><h3>Término</h3></th>
       <th><h3>Definición</h3></th>
       </thead>
@@ -39,7 +39,7 @@ nav_order: 4
             <td class="badge text-wrap style4 s">Técnica que supone el tratamiento de datos personales con el objeto de disociar de manera irreversible o definitiva la información personal de su titular a fin de que no pueda asociarse con él, ni permitir su identificación por su estructura, contenido o grado de desagregación. Es diferente a la técnica de testeo definida en la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.</td>
           </tr>
           <tr class="row5">
-            <td class="column0 style3 s">API (Application Programming Interface)</td>
+            <td class="column0 style3 s">API (<em>Application Programming Interface</em>)</td>
             <td class="badge text-wrap style4 s">Siglas en inglés de Interfaz de Programación de Aplicaciones. Es una interfaz de comunicación que conjunta especificaciones y procedimientos que permiten intercambiar, acceder y aprovechar los datos y funcionalidades de una aplicación existente.<br />
 </td>
           </tr>
@@ -74,7 +74,7 @@ nav_order: 4
           </tr>
           <tr class="row13">
             <td class="column0 style3 s">Código abierto</td>
-            <td class="badge text-wrap style6 s">También llamado <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">&quot;Open source&quot;, </span><span style="color:#000000; font-family:'Arial'; font-size:10pt">se refiere al modelo de desarrollo de un software en que el código de un programa (código fuente) se distribuye libremente (algunas veces de manera gratuita) para ser usado y modificado por las personas usuarias sin ninguna restricción. </span><span style="color:#0000FF; font-family:'Arial'; font-size:10pt">ver: código fuente. </span></td>
+            <td class="badge text-wrap style6 s">También llamado <em>Open source</em> se refiere al modelo de desarrollo de un software en que el código de un programa (código fuente) se distribuye libremente (algunas veces de manera gratuita) para ser usado y modificado por las personas usuarias sin ninguna restricción. <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">ver: código fuente. </span></td>
           </tr>
           <tr class="row14">
             <td class="column0 style3 s">Código fuente</td>
@@ -82,19 +82,19 @@ nav_order: 4
           </tr>
           <tr class="row15">
             <td class="column0 style3 s">Conjunto de datos</td>
-            <td class="badge text-wrap style6 s">También llamado <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">dataset, es una </span><span style="color:#000000; font-family:'Arial'; font-size:10pt">colección de datos organizados, que en su forma más básica se organiza como una matriz n*m, en la cual n es el número de observaciones y m es el número de atributos o columnas. Los formatos más comunes de almacenamiento de conjuntos de datos son xlsx y csv (archivos separados por comas). </span><span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver csv.</span></td>
+            <td class="badge text-wrap style6 s">También llamado <em>dataset</em>, es una colección de datos organizados, que en su forma más básica se organiza como una matriz n*m, en la cual n es el número de observaciones y m es el número de atributos o columnas. Los formatos más comunes de almacenamiento de conjuntos de datos son xlsx y csv (archivos separados por comas). <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver csv.</span></td>
           </tr>
           <tr class="row16">
             <td class="column0 style3 s">CSV</td>
-            <td class="badge text-wrap style6 s">Siglas en inglés de <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">Comma Separated Values, e</span><span style="color:#000000; font-family:'Arial'; font-size:10pt">s un formato de archivo que representa datos en forma de tabla, en las que las columnas se separan por comas y las filas por saltos de línea. Es uno de los formatos denominado &quot;de formato abierto&quot; y actualmente es ampliamente utilizado como formato de intercambio para datos tabulares. </span><span style="color:#0000FF; font-family:'Arial'; font-size:10pt">ver: formatos abiertos. </span></td>
+            <td class="badge text-wrap style6 s">Siglas en inglés de <em>Comma Separated Values</em>, es un formato de archivo que representa datos en forma de tabla, en las que las columnas se separan por comas y las filas por saltos de línea. Es uno de los formatos denominados "abiertos"; y actualmente es ampliamente utilizado como formato de intercambio para datos tabulares. <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">ver: formatos abiertos. </span></td>
           </tr>
           <tr class="row17">
             <td class="column0 style3 s">Data Lake</td>
-            <td class="badge text-wrap style4 s">Repositorio de datos centralizado que permite almacenar una gran cantidad de datos sin procesar, ya sean estructurados, semi-estructurados o no-estructurados, provenientes de distintas fuentes y para los cuales no se ha definido un propósito específico. No tiene restricciones fijas en cuanto al tamaño o formato, permitiendo así la integración de gran cantidad de datos. El Data Lake define el esquema de almacenamiento después de que los datos han sido almacenados. Utiliza procesos ELT (extract load transform).</td>
+            <td class="badge text-wrap style4 s">Repositorio de datos centralizado que permite almacenar una gran cantidad de datos sin procesar, ya sean estructurados, semi-estructurados o no-estructurados, provenientes de distintas fuentes y para los cuales no se ha definido un propósito específico. No tiene restricciones fijas en cuanto al tamaño o formato, permitiendo así la integración de gran cantidad de datos. El <em>Data Lake</em> define el esquema de almacenamiento después de que los datos han sido almacenados. Utiliza procesos ELT (<em>extract load transform</em>).</td>
           </tr>
           <tr class="row18">
             <td class="column0 style3 s">Data Warehouse</td>
-            <td class="badge text-wrap style4 s">Repositorio de datos centralizado que permite almacenar una gran cantidad de datos estructurados provenientes de distintas fuentes, los cuales ya fueron previamente procesados para un objetivo específico, facilitando su uso para la toma de decisiones estratégicas. Este sistema de almacenamiento permite consultar tanto los datos desagregados como resúmenes de ellos, facilitando su análisis. El Data Warehouse define el esquema de almacenamiento antes de que los datos sean almacenados. Utiliza procesos ETL (extract transform load). <br />
+            <td class="badge text-wrap style4 s">Repositorio de datos centralizado que permite almacenar una gran cantidad de datos estructurados provenientes de distintas fuentes, los cuales ya fueron previamente procesados para un objetivo específico, facilitando su uso para la toma de decisiones estratégicas. Este sistema de almacenamiento permite consultar tanto los datos desagregados como resúmenes de ellos, facilitando su análisis. El <em>Data Warehouse</em> define el esquema de almacenamiento antes de que los datos sean almacenados. Utiliza procesos ETL (<em>extract transform load</em>). <br />
 </td>
           </tr>
           <tr class="row19">
@@ -127,11 +127,11 @@ Ver: Artículo 6o Constitución Política de los Estados Unidos Mexicanos y Ley 
           </tr>
           <tr class="row23">
             <td class="column0 style3 s">Datos primarios</td>
-            <td class="badge text-wrap style6 s">También denominados &quot;datos brutos&quot; del inglés <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">raw data</span><span style="color:#000000; font-family:'Arial'; font-size:10pt">, son aquellos datos recolectados directamente de su fuente, sin haber pasado por algún proceso de transformación, agregación y/o análisis. </span></td>
+            <td class="badge text-wrap style6 s">También denominados "datos brutos" del inglés <em>raw data</em>, son aquellos datos recolectados directamente de su fuente, sin haber pasado por algún proceso de transformación, agregación y/o análisis.</td>
           </tr>
           <tr class="row24">
             <td class="column0 style3 s">Datos estructurados</td>
-            <td class="badge text-wrap style4 s">Datos que tienen perfectamente definido la longitud, el formato y el tamaño de sus datos. Se encuentran organizados de acuerdo a un modelo previamente definido. Usualmente se encuentran en bases de datos relacionales u hojas de cálculo y suelen estar en formato tabular, es decir, organizados en filas, columnas y tablas, con títulos para cada categoría que permite identificarlos. Los datos estructurados están escritos de tal forma que los motores de búsqueda entienden el contenido. Para gestionar este tipo de datos se utiliza un tipo de lenguaje de programación estructurado, conocido como SQL (Structured Query Language) diseñado para administrar y recuperar información de sistemas de gestión de bases de datos relacionales. <br />
+            <td class="badge text-wrap style4 s">Datos que tienen perfectamente definido la longitud, el formato y el tamaño de sus datos. Se encuentran organizados de acuerdo a un modelo previamente definido. Usualmente se encuentran en bases de datos relacionales u hojas de cálculo y suelen estar en formato tabular, es decir, organizados en filas, columnas y tablas, con títulos para cada categoría que permite identificarlos. Los datos estructurados están escritos de tal forma que los motores de búsqueda entienden el contenido. Para gestionar este tipo de datos se utiliza un tipo de lenguaje de programación estructurado, conocido como SQL (<em>Structured Query Language</em>) diseñado para administrar y recuperar información de sistemas de gestión de bases de datos relacionales. <br />
 Ver: SQL</td>
           </tr>
           <tr class="row25">
@@ -168,7 +168,7 @@ Ejemplos de datos de referencia: estado civil, código de delito, entidad.</td>
           </tr>
           <tr class="row30">
             <td class="column0 style3 s">Datos vinculados</td>
-            <td class="badge text-wrap style6 s">Del inglés <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">linked data</span><span style="color:#000000; font-family:'Arial'; font-size:10pt">, también conocidos como datos enlazados, son un método de publicación de datos estructurados para que puedan ser interconectados mediante tecnologías y protocolos web como http, rdf y los identificadores URI. Uno de sus principales objetivos es hacer que la integración de datos sea automática, incluso para grandes conjuntos de datos. Los datos vinculados generalmente se representan mediante RDF </span><span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver: HTTP, Ver: URI, Ver: RDF, Ver: URL </span></td>
+            <td class="badge text-wrap style6 s">Del inglés <em>linked data</em>, también conocidos como datos enlazados, son un método de publicación de datos estructurados para que puedan ser interconectados mediante tecnologías y protocolos web como http, rdf y los identificadores URI. Uno de sus principales objetivos es hacer que la integración de datos sea automática, incluso para grandes conjuntos de datos. Los datos vinculados generalmente se representan mediante RDF <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver: HTTP, Ver: URI, Ver: RDF, Ver: URL </span></td>
           </tr>
           <tr class="row31">
             <td class="column0 style8 s">Datum</td>
@@ -176,7 +176,7 @@ Ejemplos de datos de referencia: estado civil, código de delito, entidad.</td>
           </tr>
           <tr class="row32">
             <td class="column0 style8 s">DCAT</td>
-            <td class="badge text-wrap style5 s">Siglas en inglés para <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">Data Catalog Vocabulary,</span><span style="color:#000000; font-family:'Arial'; font-size:10pt"> Es un vocabulario controlado del marco RDF (Resource Discovery Framework) diseñado para facilitar la interoperabilidad de los catálogos de datos publicados en Internet, mediante el uso de un modelo y vocabulario estándar.</span></td>
+            <td class="badge text-wrap style5 s">Siglas en inglés para <em>Data Catalog Vocabulary</em>, es un vocabulario controlado del marco RDF (<em>Resource Discovery Framework</em>) diseñado para facilitar la interoperabilidad de los catálogos de datos publicados en Internet, mediante el uso de un modelo y vocabulario estándar.</td>
           </tr>
           <tr class="row33">
             <td class="column0 style8 s">Diccionario de datos</td>
@@ -184,7 +184,7 @@ Ejemplos de datos de referencia: estado civil, código de delito, entidad.</td>
           </tr>
           <tr class="row34">
             <td class="column0 style8 s">ETL</td>
-            <td class="badge text-wrap style5 s">Siglas en inglés para <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">extraer, transformar y cargar; </span><span style="color:#000000; font-family:'Arial'; font-size:10pt">es el proceso de compilación de datos a partir de un número ilimitado de fuentes, su posterior organización, limpieza, transformación y centralización en un único repositorio.<br />
+            <td class="badge text-wrap style5 s">Siglas en inglés para extraer, transformar y cargar; es el proceso de compilación de datos a partir de un número ilimitado de fuentes, su posterior organización, limpieza, transformación y centralización en un único repositorio.<br />
 <br />
 </span></td>
           </tr>
@@ -193,7 +193,7 @@ Ejemplos de datos de referencia: estado civil, código de delito, entidad.</td>
             <td class="badge text-wrap style4 s">Es una hoja de calculo desarrollada por la empresa Microsoft y forma parte de la suite de software Microsoft Office. Permite realizar análisis básicos de datos, mediante herramientas gráficas, tablas calculares, entre otros.</td>
           </tr>
           <tr class="row36">
-            <td class="column0 style3 s">Firewall</td>
+            <td class="column0 style3 s"><em>Firewall</em></td>
             <td class="badge text-wrap style4 s">Programa informático que busca mantener la seguridad en los datos, el software y el hardware, mediante el control del acceso de una computadora a la red y de elementos de la red a la computadora.</td>
           </tr>
           <tr class="row37">
@@ -239,11 +239,11 @@ d) ODT para documentos de texto. <br />
           </tr>
           <tr class="row46">
             <td class="column0 style8 s">HTML</td>
-            <td class="badge text-wrap style5 s">Siglas en inglés de HyperText Markup Language (lenguaje de marcado de hipertexto) es un sistema de lenguaje de marcado para la elaboración de páginas web que define el significado y la estructura del contenido web. El lenguaje &quot;marcado&quot; permite etiquetar texto, imágenes y otro contenido para mostrarlo en un navegador Web. Este marcado incluye elementos especiales predefinidos como &lt;head&gt;, &lt;title&gt;, &lt;body&gt;, &lt;header&gt;, &lt;footer&gt;, &lt;article&gt;, &lt;section&gt;, &lt;p&gt;, &lt;div&gt;, &lt;span&gt;, &lt;img&gt;, entre muchos otros. <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver: Hipertexto</span></td>
+            <td class="badge text-wrap style5 s">Siglas en inglés de <em>HyperText Markup Language</em> (lenguaje de marcado de hipertexto) es un sistema de lenguaje de marcado para la elaboración de páginas web que define el significado y la estructura del contenido web. El lenguaje &quot;marcado&quot; permite etiquetar texto, imágenes y otro contenido para mostrarlo en un navegador Web. Este marcado incluye elementos especiales predefinidos como &lt;head&gt;, &lt;title&gt;, &lt;body&gt;, &lt;header&gt;, &lt;footer&gt;, &lt;article&gt;, &lt;section&gt;, &lt;p&gt;, &lt;div&gt;, &lt;span&gt;, &lt;img&gt;, entre muchos otros. <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver: Hipertexto</span></td>
           </tr>
           <tr class="row47">
             <td class="column0 style8 s">HTTP</td>
-            <td class="badge text-wrap style5 s">Siglas en inglés de HyperText Transfer Protocol, es un protocolo de transferencia de comunicación mediante hipertextos, como HTML. Sigue un modelo cliente-servidor, en el que el cliente establece una conexión realizando una petición a un servidor quien envía la respuesta. Este protocolo no guarda ningún dato o estado sobre las peticiones. <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver: HTML</span><span style="color:#000000; font-family:'Arial'; font-size:10pt"> </span></td>
+            <td class="badge text-wrap style5 s">Siglas en inglés de <em>HyperText Transfer Protocol</em>, es un protocolo de transferencia de comunicación mediante hipertextos, como HTML. Sigue un modelo cliente-servidor, en el que el cliente establece una conexión realizando una petición a un servidor quien envía la respuesta. Este protocolo no guarda ningún dato o estado sobre las peticiones. <span style="color:#0000FF; font-family:'Arial'; font-size:10pt">Ver: HTML</span><span style="color:#000000; font-family:'Arial'; font-size:10pt"> </span></td>
           </tr>
           <tr class="row48">
             <td class="column0 style3 s">Información</td>
@@ -260,7 +260,7 @@ d) ODT para documentos de texto. <br />
           </tr>
           <tr class="row51">
             <td class="column0 style8 s">IoT</td>
-            <td class="badge text-wrap style9 s">Internet of Things. Ver Internet de las Cosas.</td>
+            <td class="badge text-wrap style9 s"><em>Internet of Things</em>. Ver Internet de las Cosas.</td>
           </tr>
           <tr class="row52">
             <td class="column0 style3 s">Java</td>
@@ -272,19 +272,19 @@ d) ODT para documentos de texto. <br />
           </tr>
           <tr class="row54">
             <td class="column0 style3 s">JSON</td>
-            <td class="badge text-wrap style10 s"><a href="https://www.json.org/json-en.html." title="">JavaScript Object Notation. https://www.json.org/json-en.html. Es una sintaxis para almacenar e intercambiar información basada en texto, es un formato ligero utilizado para el intercambio de datos entre programas y sistemas. Puede describir estructuras complejas de datos, es legible por máquinas, y es independiente de una plataforma o lenguaje de programación.</a></td>
+            <td class="badge text-wrap style10 s"><a href="https://www.json.org/json-en.html." title=""><em>JavaScript Object Notation</em>. https://www.json.org/json-en.html. Es una sintaxis para almacenar e intercambiar información basada en texto, es un formato ligero utilizado para el intercambio de datos entre programas y sistemas. Puede describir estructuras complejas de datos, es legible por máquinas, y es independiente de una plataforma o lenguaje de programación.</a></td>
           </tr>
           <tr class="row55">
             <td class="column0 style3 s">JSON-LD</td>
-            <td class="badge text-wrap style4 s">JSON para datos enlazados (ver: linked data) es un método de codificación de datos enlazados usando JSON. Uno de sus objetivos es requerir el menor esfuerzo posible de los desarrolladores para transformar su JSON existente en JSON-LD.​</td>
+            <td class="badge text-wrap style4 s">JSON para datos enlazados (ver: <em>linked data</em>) es un método de codificación de datos enlazados usando JSON. Uno de sus objetivos es requerir el menor esfuerzo posible de los desarrolladores para transformar su JSON existente en JSON-LD.​</td>
           </tr>
           <tr class="row56">
             <td class="column0 style3 s">KML</td>
-            <td class="badge text-wrap style4 s">Siglas en inglés para Keyhole Markup Language. Lenguaje basado en XML para representar datos geográficos en tres dimensiones. Es un formato de archivo utilizado para mostrar datos geográficos en un navegador de la Tierra como Google Earth. ver: XML</td>
+            <td class="badge text-wrap style4 s">Siglas en inglés para <em>Keyhole Markup Language</em>. Lenguaje basado en XML para representar datos geográficos en tres dimensiones. Es un formato de archivo utilizado para mostrar datos geográficos en un navegador de la Tierra como Google Earth. ver: XML</td>
           </tr>
           <tr class="row57">
             <td class="column0 style3 s">KMZ</td>
-            <td class="badge text-wrap style6 s">Es un formato de archivo para guardar datos geográficos dentro de un navegador terrestre, formado por un archivo KML principal y cero o más archivos complementarios empaquetados en formato .zip formando una única unidad denominada <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">fichero</span><span style="color:#000000; font-family:'Arial'; font-size:10pt">. Cuando el archivo KMZ se descomprime, el archivo .kml principal y los archivos complementarios se separan según sus formatos originales. Google Earth y Google Maps pueden leer archivos KML y KMZ directamente y pueden guardar archivos en formato KMZ. </span></td>
+            <td class="badge text-wrap style6 s">Es un formato de archivo para guardar datos geográficos dentro de un navegador terrestre, formado por un archivo KML principal y cero o más archivos complementarios empaquetados en formato .zip formando una única unidad denominada fichero. Cuando el archivo KMZ se descomprime, el archivo .kml principal y los archivos complementarios se separan según sus formatos originales. Google Earth y Google Maps pueden leer archivos KML y KMZ directamente y pueden guardar archivos en formato KMZ.</td>
           </tr>
           <tr class="row58">
             <td class="column0 style3 s">Latitud</td>
@@ -304,7 +304,7 @@ d) ODT para documentos de texto. <br />
           </tr>
           <tr class="row62">
             <td class="column0 style3 s">MySQL</td>
-            <td class="badge text-wrap style6 s">Es un sistema gestor de bases de datos (SGBD) relacional basado en lenguaje de consulta estructurado (SQL, <span style="font-style:italic; color:#000000; font-family:'Arial'; font-size:10pt">Structured Query Language</span><span style="color:#000000; font-family:'Arial'; font-size:10pt">). </span></td>
+            <td class="badge text-wrap style6 s">Es un sistema gestor de bases de datos (SGBD) relacional basado en lenguaje de consulta estructurado (SQL, <em>Structured Query Language</em>). </td>
           </tr>
           <tr class="row63">
             <td class="column0 style3 s">NoSQL</td>
@@ -324,7 +324,7 @@ d) ODT para documentos de texto. <br />
           </tr>
           <tr class="row67">
             <td class="column0 style3 s">PDF</td>
-            <td class="badge text-wrap style4 s">Siglas en inglés de formato de documento portátil (Portable Document File), es un formato de estándar abierto para el almacenamiento de documentos digitales que permite presentar e intercambiar documentos de manera independiente al software, hardware o sistema operativo con que se consulten. Un archivo .pdf contiene datos no-estructurados y en general, no es una buena práctica publicar y/o intercambiar datos en este formato.</td>
+            <td class="badge text-wrap style4 s">Siglas en inglés de formato de documento portátil (<em>Portable Document File</em>), es un formato de estándar abierto para el almacenamiento de documentos digitales que permite presentar e intercambiar documentos de manera independiente al software, hardware o sistema operativo con que se consulten. Un archivo .pdf contiene datos no-estructurados y en general, no es una buena práctica publicar y/o intercambiar datos en este formato.</td>
           </tr>
           <tr class="row68">
             <td class="column0 style3 s">PostgreSQL</td>
@@ -352,15 +352,15 @@ d) ODT para documentos de texto. <br />
           </tr>
           <tr class="row74">
             <td class="column0 style3 s">Registro (u observación)</td>
-            <td class="badge text-wrap style4 null"></td>
+            <td class="badge text-wrap style4 null">Cada uno de los elementos (sujetos, observaciones, hechos) dentro de una base de datos o conjunto de datos; usualmente escritas en filas o tuplas. Por ejemplo, en un conjunto de datos sobre beneficiarios de un programa social, existen 350 registros, que corresponden a cada uno de los beneficiarios (beneficiario1, beneficiario2...beneficiario 350).</td>
           </tr>
           <tr class="row75">
             <td class="column0 style3 s">REST</td>
-            <td class="badge text-wrap style4 s">Siglas en inglés de transferencia de estado representacional (Representational State Transfer), es un estilo de arquitectura de software para sistemas hipermedia distribuidos, como la World Wide Web, basada en el protocolo HTTP. Sirve para obtener y generar datos, devolviéndolos en formatos muy específicos como XML y JSON.</td>
+            <td class="badge text-wrap style4 s">Siglas en inglés de transferencia de estado representacional (<em>Representational State Transfer</em>), es un estilo de arquitectura de software para sistemas hipermedia distribuidos, como la <em>World Wide Web</em>, basada en el protocolo HTTP. Sirve para obtener y generar datos, devolviéndolos en formatos muy específicos como XML y JSON.</td>
           </tr>
           <tr class="row76">
             <td class="column0 style3 s">RDF</td>
-            <td class="badge text-wrap style4 s">Siglas en inglés de Marco de descripción de recursos (Resource Description Framework). Es la forma de describir los datos vinculados. Los datos en RDF se estructuran en forma de &quot;tripletes&quot;; es decir, cada dato elementos: sujeto, predicado y objeto. Se almacenan en bases de datos especializadas llamadas triplestore o almacén de RDF.</td>
+            <td class="badge text-wrap style4 s">Siglas en inglés de Marco de descripción de recursos (<em>Resource Description Framework</em>). Es la forma de describir los datos vinculados. Los datos en RDF se estructuran en forma de &quot;tripletes&quot;; es decir, cada dato elementos: sujeto, predicado y objeto. Se almacenan en bases de datos especializadas llamadas triplestore o almacén de RDF.</td>
           </tr>
           <tr class="row77">
             <td class="column0 style8 s">RDF Schema</td>
@@ -400,7 +400,7 @@ Lenguaje estandarizado para la consulta de grafos RDF, de manera que permite tra
           </tr>
           <tr class="row85">
             <td class="column0 style3 s">SQL</td>
-            <td class="badge text-wrap style4 s">Siglas en inglés de lenguaje de consulta estructurada (Structured Query Language), es un lenguaje de dominio específico utilizado en programación, diseñado para administrar y recuperar información de sistemas gestores de bases de datos relacionales.</td>
+            <td class="badge text-wrap style4 s">Siglas en inglés de lenguaje de consulta estructurada (<em>Structured Query Language</em>), es un lenguaje de dominio específico utilizado en programación, diseñado para administrar y recuperar información de sistemas gestores de bases de datos relacionales.</td>
           </tr>
           <tr class="row86">
             <td class="column0 style3 s">Stata</td>
@@ -416,11 +416,11 @@ Lenguaje estandarizado para la consulta de grafos RDF, de manera que permite tra
           </tr>
           <tr class="row89">
             <td class="column0 style3 s">URI</td>
-            <td class="badge text-wrap style4 s">Siglas en inglés para Identificador uniforme de recursos (Uniform Resource Identifier) define un esquema simple y extensible para la identificación única en la red de recursos abstractos o físicos (reales). Un recurso puede ser cualquier objeto con una identidad clara (según el contexto de aplicación).</td>
+            <td class="badge text-wrap style4 s">Siglas en inglés para Identificador uniforme de recursos (<em>Uniform Resource Identifier</em>) define un esquema simple y extensible para la identificación única en la red de recursos abstractos o físicos (reales). Un recurso puede ser cualquier objeto con una identidad clara (según el contexto de aplicación).</td>
           </tr>
           <tr class="row90">
             <td class="column0 style3 s">URL</td>
-            <td class="badge text-wrap style4 s">Siglas en inglés para Localizador uniforme de recurso (Uniform Resource Locator) es un identificador de recursos uniforme (URI) localizado en la web; es decir, es la dirección específica que se asigna a cada uno de los recursos disponibles en la red (páginas, sitios, documentos, archivos, carpetas) con la finalidad de que estos puedan ser localizados o identificados.</td>
+            <td class="badge text-wrap style4 s">Siglas en inglés para Localizador uniforme de recurso (<em>Uniform Resource Locator</em>) es un identificador de recursos uniforme (URI) localizado en la web; es decir, es la dirección específica que se asigna a cada uno de los recursos disponibles en la red (páginas, sitios, documentos, archivos, carpetas) con la finalidad de que estos puedan ser localizados o identificados.</td>
           </tr>
           <tr class="row91">
             <td class="column0 style8 s">Variable</td>
@@ -432,10 +432,10 @@ Lenguaje estandarizado para la consulta de grafos RDF, de manera que permite tra
           </tr>
           <tr class="row93">
             <td class="column0 style8 s">W3C</td>
-            <td class="badge text-wrap style9 s">World Wide Web Consortium. Consorcio internacional que genera recomendaciones y estándares para asegurar el funcionamiento de la World Wide Web a largo plazo.</td>
+            <td class="badge text-wrap style9 s"><em>World Wide Web Consortium</em>. Consorcio internacional que genera recomendaciones y estándares para asegurar el funcionamiento de la <em>World Wide Web</em> a largo plazo.</td>
           </tr>
           <tr class="row94">
-            <td class="column0 style3 s">World Wide Web</td>
+            <td class="column0 style3 s"><em>World Wide Web</em></td>
             <td class="badge text-wrap style4 s">Red informática mundial. De acuerdo al W3C, es un espacio de información en el cual ítems de interés, denominados recursos, se identifican mediante identificadores uniformes de recurso (URI por sus siglas en inglés).</td>
           </tr>
           <tr class="row95">
@@ -458,7 +458,7 @@ Lenguaje estandarizado para la consulta de grafos RDF, de manera que permite tra
           </tr>
           <tr class="row99">
             <td class="column0 style3 s">XML</td>
-            <td class="badge text-wrap style4 s">Siglas en inglés de Extensible Markup Language. Es un lenguaje estructurado mediante etiquetas o marcas que aportan datos o información que se desea procesar. Fue desarrollado por la World Wide Web Consortium (W3C) y es muy útil para representar datos estructurados.</td>
+            <td class="badge text-wrap style4 s">Siglas en inglés de Extensible Markup Language. Es un lenguaje estructurado mediante etiquetas o marcas que aportan datos o información que se desea procesar. Fue desarrollado por la <em>World Wide Web Consortium</em> (W3C) y es muy útil para representar datos estructurados.</td>
           </tr>
           <tr class="row100">
             <td class="column0 style12 s">XML Schema</td>
