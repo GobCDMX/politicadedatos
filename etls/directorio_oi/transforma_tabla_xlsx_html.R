@@ -13,18 +13,18 @@ library(htmltools)
 
 #Obtener tabla de sheets de oficiales de información
 tabla_excel <- 
-  read_sheet("https://docs.google.com/spreadsheets/d/1Z_arAKkxVSHutmTB0VdG2lkJp--jJvqbSx8uBPCYs5w/edit#gid=1903594797", 
+  read_sheet("https://docs.google.com/spreadsheets/d/1mjNxOeqbPk3rAsCWm47Rzro-dsV_fX6OIiuaNeWHiyM/edit#gid=0", 
              col_types = "??????????cc")
 
 #Filtrar columnas, cambiar NAs por texto y cambiar nombres de columnas
 directorio_oficiales <-
   tabla_excel %>% 
-  select(ente_publico, oficial_de_informacion, telefono_institucional, correo_institucional) %>% 
-  replace_na(list(oficial_de_informacion = "Sin Designar", 
+  select(ente_publico, nombre_oi, telefono_institucional, correo_institucional) %>% 
+  replace_na(list(nombre_oi = "Sin Designar", 
                   telefono_institucional = "No Disponible", 
                   correo_institucional = "No Disponible")) %>% 
   rename("Ente Público" = ente_publico, 
-         "Oficial de Información" = oficial_de_informacion,
+         "Oficial de Información" = nombre_oi,
          "Teléfono" = telefono_institucional,
          "Correo"= correo_institucional)
 
