@@ -44,8 +44,6 @@ Integración de datos: definiciones claras de los elementos del conjunto de dato
 <h4><b>Ejemplos de algunos diccionarios de datos: <br>
 </b></h4>
 
-* <a target="_blank" href="https://datos.cdmx.gob.mx/api/datasets/1.0/capacidad-hospitalaria/attachments/capacidad_hospitalaria_micrositio_diccionario_de_datos_csv/">Diccionario de datos del Portal de Datos Abiertos de la Ciudad de México</a>  
-
 * <a target="_blank" href="https://www.inegi.org.mx/rnm/index.php/catalog/214/datafile/F23">Diccionario de datos elaborado por el Instituto Nacional de Estadística y Geografía (INEGI)</a>
 
 * <a target="_blank" href="http://epidemiologia.salud.gob.mx/gobmx/salud/datos_abiertos/diccionario_datos_covid19.zip">Diccionario de datos elaborado por la Secretaría de Salud Federal: </a>
