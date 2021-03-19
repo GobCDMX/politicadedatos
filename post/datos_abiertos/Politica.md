@@ -6,10 +6,6 @@ parent: Datos Abiertos
 nav_order: 2
 
 ---
-
-<h4> <b>¿Qué son los datos abiertos? </b></h4>
-Los datos abiertos son aquellos datos que cumplen con los requisitos para ser publicados a la ciudadanía; pueden ser usados, reutilizados y redistribuidos por cualquier persona interesada al publicarse de manera accesible, en línea, en formatos abiertos, de manera gratuita, oportuna, integral, para su libre uso y sin discriminación alguna en su acceso.
-
 <h4><b>¿Cómo publicar mis datos en el Portal de Datos Abiertos?</b> </h4>
 Mediante un usuario y contraseña.
 Los Entes Públicos podrán solicitar un usuario del Portal de Datos Abiertos, con el cual podrán publicar datos, a través del correo datosabiertos@cdmx.gob.mx, debiendo proporcionar la siguiente información: 
