@@ -8,7 +8,7 @@ has_children: true
 
 <h4><b> ¿Qué son los datos abiertos? </b> </h4>
 
-<p>Los datos abiertos son datos que pueden ser utilizados, reutilizados y redistribuidos libremente por cualquier persona, y que se encuentran sujetos, cuando más, al requerimiento de atribución y de compartirse de la misma manera en que aparecen.
+<p>Los datos abiertos son aquellos datos que cumplen con los requisitos para ser publicados a la ciudadanía; pueden ser usados, reutilizados y redistribuidos por cualquier persona interesada al publicarse de manera accesible, en línea, en formatos abiertos, de manera gratuita, oportuna, integral, para su libre uso y sin discriminación alguna en su acceso.
 </p>
 <p>
 <strong>Las principales características de los datos abiertos son:</strong>
