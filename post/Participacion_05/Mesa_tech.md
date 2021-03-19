@@ -18,11 +18,11 @@ Estas Mesas Técnicas Interinstitucionales podrán desarrollarse de manera prese
 
 <p><strong>Oficial de Información:</strong> Próximamente llevaremos a cabo a nuestra Primer Mesa Técnica Interinstitucional, mantente atento(a) a la convocatoria que se enviará.  
 </p>
-<p><La primera mesa técnica que se llevará a cabo tratará de los catálogos de datos de referencia en de la Administración Pública de la Ciudad de México y la necesidad de homologarlos. </p>
+<p>La primera mesa técnica que se llevará a cabo tratará de los catálogos de datos de referencia en de la Administración Pública de la Ciudad de México y la necesidad de homologarlos. </p>
 
 <p>Descarga aquí la presentación explicando la dinámica: <a target="_blank" href="https://politicadedatos.cdmx.gob.mx/assets/ppts/Primera mesa tecnica interinstitucional.pdf"  download="Primera mesa tecnica interinstitucional.pdf">Primera mesa tecnica interinstitucional</a></p> 
 
-<p>Puedes consultar nuestra guía sobre catálogos de datos de referencia <a href="https://politicadedatos.cdmx.gob.mx/cultura/guias/catalogos_referencia">link aquí.</a>
+<p>Puedes consultar nuestra guía sobre catálogos de datos de referencia <a href="https://politicadedatos.cdmx.gob.mx/cultura/guias/catalogos_referencia">aquí.</a>
 </p> 
 
 </div>
