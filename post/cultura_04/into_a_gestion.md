@@ -28,7 +28,7 @@ parent: Cultura de datos
 
 <li><a target="_blank" href="https://politicadedatos.cdmx.gob.mx/assets/ppts/intro_diccionarios.pdf" download="Intro a diccionarios.pdf">Introducción a los Diccionarios de datos</a></li>
 
-<li><a target="_blank" href="https://politicadedatos.cdmx.gob.mx/assets/intro_metadatos.pdf" download="Intro a Metadatos.pdf">Introducción a los metadatos</a> </li>
+<li><a target="_blank" href="https://politicadedatos.cdmx.gob.mx/ppts/assets/intro_metadatos.pdf" download="Intro a Metadatos.pdf">Introducción a los metadatos</a> </li>
 
 </ul>
 
