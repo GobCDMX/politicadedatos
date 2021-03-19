@@ -7,7 +7,8 @@ nav_order: 2
 
 ---
 <h4><b>¿Cómo publicar mis datos en el Portal de Datos Abiertos?</b> </h4>
-Mediante un usuario y contraseña.
+
+<h4><b> Mediante un usuario y contraseña </b> </h4>
 Los Entes Públicos podrán solicitar un usuario del Portal de Datos Abiertos, con el cual podrán publicar datos, a través del correo datosabiertos@cdmx.gob.mx, debiendo proporcionar la siguiente información: 
 
 <ol type="i" > 
