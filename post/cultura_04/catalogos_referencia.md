@@ -15,3 +15,7 @@ nav_order: 1
 <p>Se elaboran cuando el campo puede tomar más de cuatro valores y/o cuando están definidos por claves, números o abreviaturas.</p>
 
 <p>Descarga aquí la guía : <a target="_blank" href="https://politicadedatos.cdmx.gob.mx/assets/ppts/guia_cat.pdf"  download="Guía catalogos de referencia.pdf">Guía práctica de Catálogos de Referencia</a></p> 
+
+<p>Descarga aquí la presentación : <a target="_blank" href="https://politicadedatos.cdmx.gob.mx/assets/ppts/Capacitación básica_catalogos de referencia.pdf"  download="Capacitación básica a Oficiales de Información sobre catalogos de referencia.pdf">Capacitación básica a Oficiales de Información sobre catalogos de referencia</a></p> 
+
+
