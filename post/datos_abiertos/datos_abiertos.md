@@ -5,6 +5,9 @@ permalink: /datos_abiertos/
 nav_order: 10
 has_children: true
 ---
+
+<h4><b> ¿Qué son los datos abiertos? </b> </h4>
+
 <p>Los datos abiertos son datos que pueden ser utilizados, reutilizados y redistribuidos libremente por cualquier persona, y que se encuentran sujetos, cuando más, al requerimiento de atribución y de compartirse de la misma manera en que aparecen.
 </p>
 <p>
