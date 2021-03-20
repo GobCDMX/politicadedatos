@@ -1,0 +1,24 @@
+
+---
+layout: default
+title: Estándares de datos
+permalink: /estandares/
+nav_order: 3
+has_children: false
+--- 
+<div class="nonfooter">
+<h2>Estándares de datos</h2>
+<p> Para mejorar el análisis, compartición y comprensión de los datos es importante utilizar estándares que permitan su interoperabilidad con otros datos.
+</p> 
+<p> <strong> A continuación se enlistan los principales estándares de datos que se recomienda utilizar para facilitar la interoperabilidad de datos: </strong></p>
+<ul>
+<li> Estados, municipios y localidades: utilizar los códigos numéricos del <a href="https://www.inegi.org.mx/app/ageeml/"> Catálogo Único de Claves de Áreas Geoestadísticas Estatales, Municipales y Localidades </a> </li>
+<li> Nombres de países: utilizar el código de tres letras (alfa-3) del <a href"https://www.iso.org/iso-3166-country-codes.html">ISO 3166-1.</a></li>
+<li> Monedas: utilizar el estándar <a href"https://www.iso.org/iso-4217-currency-codes.html">ISO 4217.</a></li>
+<li> Códigos postales: deben estar contenidos en un campo llamado "codigo_postal" y utilizar el catálogo y formato del <a href"https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/Descarga.aspx">Servicio Postal Mexicano.</a></li>
+<li> Sexo:  utilizar H o 1 para hombre y M o 2 para mujer, tal como lo hace el INEGI. Es importante que sexo y género son atributos distintos, ya que sexo indica una condición biológica del individuo y género una condición sociocultural.</li>
+
+
+</ul>
+
+</div>
