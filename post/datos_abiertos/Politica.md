@@ -38,7 +38,7 @@ La publicación de datos en el Portal de Datos Abiertos también se podrá hacer
 <h4><b> ¿En quién recae la responsabilidad de la integridad, calidad y oportunidad de los datos publicados en el Portal de Datos Abiertos? </b> </h4>
 Los Entes públicos que sean dueños de dichos datos. <br>
 
-Como servidor público de la Administración Pública de la Ciudad de México, ¿puedo solicitar una capacitación para el uso del Portal de Datos Abiertos? 
+<h4><b>Como servidor público de la Administración Pública de la Ciudad de México, ¿puedo solicitar una capacitación para el uso del Portal de Datos Abiertos? </b> </h4>
 Sí. Para solicitar dicha capacitación, los Entes Públicos deberán enviar un correo electrónico a datosabiertos@cdmx.gob.mx. 
 
 <h4><b> ¿Qué estructuras o formatos deben tener mis datos para ser publicados en el Portal de Datos Abiertos? </b> </h4>
