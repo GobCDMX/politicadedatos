@@ -11,7 +11,7 @@ has_children: true
 <p>Los datos abiertos son aquellos datos que cumplen con los requisitos para ser publicados a la ciudadanía; pueden ser usados, reutilizados y redistribuidos por cualquier persona interesada al publicarse de manera accesible, en línea, en formatos abiertos, de manera gratuita, oportuna, integral, para su libre uso y sin discriminación alguna en su acceso.
 </p>
 <p>
-<strong>Las principales características de los datos abiertos son:</strong>
+<h4><b> Las principales características de los datos abiertos</b> </h4>
 </p>
 <ul>
   <li> <strong>Disponibilidad y acceso:</strong> la información debe estar disponible como un todo y a un costo razonable de reproducción, preferiblemente descargándola de internet. Además, la información debe estar disponible en una forma conveniente y modificable.</li>
@@ -25,9 +25,6 @@ has_children: true
 
 
 <p><strong>¡Te invitamos a conocer más sobre las acciones en materia de datos abiertos del Gobierno de la Ciudad de México!</strong></p>
-
-
-
 
 
 
