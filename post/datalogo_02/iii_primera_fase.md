@@ -8,15 +8,13 @@ nav_order: 2
 <h2>Primera fase del Datálogo: recopilación de metadatos de sistemas de información</h2>
 <br>
 
-<p>La primera fase del Datálogo consiste en recopilar los metadatos de los diferentes Sistemas de Información que existen en la administración pública.</p>
+<p>La primera fase del Datálogo consistió en recopilar los metadatos de los diferentes Sistemas de Información que existen en la administración pública.</p>
 
-<h4><b>Instrucciones</b></h4>
+<h4><b>¿Cómo se hizo?</b></h4>
 <ol>
-  <li>El 25 de noviembre del 2020 se enviará un <strong>formulario web</strong> a los Oficiales de Información mediante correo electrónico, el cual deben responder a más tardar el 15 de diciembre del 2020.</li>
-  <li>Se debe responder <strong>1 formulario por cada Sistema de Información</strong> que es propiedad del Ente.</li>
-  <li>Deberá acompañarse de una persona del área de TI o análogo que conozca de las características y funcionalidades del Sistema.</li>
+  <li>El 25 de noviembre del 2020 se envió un <strong>formulario web</strong> a los Oficiales de Información mediante correo electrónico, el cual debieron responder hasta el 15 de diciembre del 2020.</li>
+   <li>Actualmente esta fase está <strong>cerrada</strong>. La información proporcionada es un insumo para el diseño de las siguientes fases del inventario de datos de la Ciudad de México. </li>
 </ol>
-
 <h4><b>¿Qué es un sistema de información?</b></h4>
 <p>Es un conjunto integrado de bases de datos, conjuntos de datos, aplicaciones, tecnología (hardware, software, sistemas operativos, sistemas manejadores de bases de datos, redes, y demás aplicables) e instalaciones (recursos para alojar y dar soporte a los sistemas de información), que tiene como objeto recolectar, almacenar y/o procesar datos.</p>
 

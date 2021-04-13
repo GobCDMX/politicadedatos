@@ -6,12 +6,9 @@ parent: Datos Abiertos
 nav_order: 2
 
 ---
+<h2><b>¿Cómo publicar mis datos en el Portal de Datos Abiertos?</b> </h2>
 
-<h4> <b>¿Qué son los datos abiertos? </b></h4>
-Los datos abiertos son aquellos datos que cumplen con los requisitos para ser publicados a la ciudadanía; pueden ser usados, reutilizados y redistribuidos por cualquier persona interesada al publicarse de manera accesible, en línea, en formatos abiertos, de manera gratuita, oportuna, integral, para su libre uso y sin discriminación alguna en su acceso.
-
-<h4><b>¿Cómo publicar mis datos en el Portal de Datos Abiertos?</b> </h4>
-Mediante un usuario y contraseña.
+<h4><b> Mediante un usuario y contraseña </b> </h4>
 Los Entes Públicos podrán solicitar un usuario del Portal de Datos Abiertos, con el cual podrán publicar datos, a través del correo datosabiertos@cdmx.gob.mx, debiendo proporcionar la siguiente información: 
 
 <ol type="i" > 
@@ -41,7 +38,7 @@ La publicación de datos en el Portal de Datos Abiertos también se podrá hacer
 <h4><b> ¿En quién recae la responsabilidad de la integridad, calidad y oportunidad de los datos publicados en el Portal de Datos Abiertos? </b> </h4>
 Los Entes públicos que sean dueños de dichos datos. <br>
 
-Como servidor público de la Administración Pública de la Ciudad de México, ¿puedo solicitar una capacitación para el uso del Portal de Datos Abiertos? 
+<h4><b>Como servidor público de la Administración Pública de la Ciudad de México, ¿puedo solicitar una capacitación para el uso del Portal de Datos Abiertos? </b> </h4>
 Sí. Para solicitar dicha capacitación, los Entes Públicos deberán enviar un correo electrónico a datosabiertos@cdmx.gob.mx. 
 
 <h4><b> ¿Qué estructuras o formatos deben tener mis datos para ser publicados en el Portal de Datos Abiertos? </b> </h4>
